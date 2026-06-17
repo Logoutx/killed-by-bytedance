@@ -1,0 +1,470 @@
+[
+  {
+    "original_name": "头条搜索 (Toutiao Search)",
+    "nameEn": "Toutiao Search",
+    "nameZh": "头条搜索",
+    "descZh": "字节跳动推出的通用网页搜索引擎及独立 App，意在挑战百度。它始终未能撼动百度的地位，并于 2023 年 4 月更名为「有柿」，转型为小红书式的生活方式社区；网页搜索功能则保留在今日头条内部。",
+    "reasonZh": "独立搜索 App 未能实质动摇百度，加之中国独立搜索整体使用量下滑（用户越来越多在抖音、头条等内容应用内搜索）。字节没有关停，而是于 2023 年 4 月将其改造为小红书式图文「种草」社区「有柿」，网页搜索则保留在今日头条内。",
+    "categoryZh": "搜索引擎",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "互动百科 (Hudong Baike)",
+    "nameEn": "Hudong Baike",
+    "nameZh": "互动百科",
+    "descZh": "2005 年由潘海东创办的中文用户可编辑在线百科，曾成长为百度百科的主要竞争对手。字节跳动于 2019 年将其全资收购，并改造为头条/抖音/快懂百科，作为其搜索业务的内容来源。",
+    "reasonZh": "并非硬性关停——「互动百科」品牌在字节布局搜索业务、对标百度的过程中被一系列改名逐步取代。字节 2019 年全资收购后，先后改为头条百科、快懂百科（PC），并入抖音后统一为抖音百科。原品牌就此消失，但实体与内容以抖音百科／快懂百科延续。",
+    "categoryZh": "在线百科（维基／用户可编辑）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "小荷健康 (Xiaohe Health)",
+    "nameEn": "Xiaohe Health",
+    "nameZh": "小荷健康",
+    "descZh": "字节跳动旗下的在线问诊与健康内容 App（涵盖问诊、小荷医典百科、药品配送）。它从未被关停，但其超级 App 的雄心在 2023 年逐渐褪去，团队被并入抖音的医疗业务。",
+    "reasonZh": "并非关停，而是大幅收缩并并入抖音医疗生态。在线问诊、线下诊所、医药电商均未跑通，DAU 长期低迷。2023 年初字节将健康战略转向抖音：团队转去运营抖音医疗，药品销售迁至抖音直播。字节曾公开否认「关停」传闻，并于 2025 年另推「小荷 AI 医生」。",
+    "categoryZh": "医疗健康",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "头号保 (Toutiao Insurance)",
+    "nameEn": "Toutiao Insurance",
+    "nameZh": "头号保",
+    "descZh": "字节跳动自有品牌的在线保险商城，嵌入抖音和今日头条，由其全资的华夏保险经纪运营。「头号保」品牌因效果不佳于 2021 年前后淡出；字节保留牌照，如今在抖音内部经营保险经纪业务。",
+    "reasonZh": "在竞争激烈的互联网保险市场表现平平，未能从同类产品中脱颖而出，沦为持牌待命业务。叠加 2020–2021 年科技金融监管整顿，该品牌及其主打的定期寿险于 2021 年前后淡出。但字节并未退出保险——仍保留华夏经纪牌照并在抖音内经营，该品牌无正式关停公告。",
+    "categoryZh": "金融科技／保险经纪",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "晶核 (Crystal of Atlan)",
+    "nameEn": "Crystal of Atlan",
+    "nameZh": "晶核",
+    "descZh": "《晶核》是一款免费、跨平台的二次元「魔幻朋克」动作 MMO ARPG，主打《地下城与勇士》式的空中连招。它成为字节跳动 2023 年首款自研爆款手游，并在字节收缩游戏业务后存活下来——至 2026 年仍在运营更新。",
+    "reasonZh": "并未关停——游戏仍在运营更新，「被关停／被收购砍掉」的说法有误，与字节其他项目混淆了。2023 年底收缩游戏业务时，字节曾探讨将本作出售给腾讯，但交易未达成、最终保留。2025 年全球版的美国发行改由第三方 Skystone Games 负责，朝夕光年仍为开发运营方。",
+    "categoryZh": "游戏",
+    "regionZh": "中国大陆／全球"
+  },
+  {
+    "original_name": "星球：重启 (Earth: Revival)",
+    "nameEn": "Earth: Revival",
+    "nameZh": "星球：重启",
+    "descZh": "一款跨平台科幻开放世界生存 RPG，设定在末日后的 2112 年地球，融合机甲、射击与基地建造。它是朝夕光年（Nuverse）的旗舰自研作品；字节退出游戏业务时，其工作室被出售给腾讯而非关停——游戏得以延续。",
+    "reasonZh": "并未关停——游戏仍在运营。2023 年底字节重组并基本退出 Nuverse 游戏业务、裁员约千人，转而聚焦 TikTok、电商、音乐、AI。未发布项目被取消，但本作等仍有活跃玩家的作品被划为出售对象。2024 年 3 月腾讯收购其开发工作室，游戏在新东家旗下延续。",
+    "categoryZh": "游戏",
+    "regionZh": "中国大陆／全球"
+  },
+  {
+    "original_name": "Dragonheir: Silent Gods",
+    "nameEn": "Dragonheir: Silent Gods",
+    "nameZh": "龙息：神寂",
+    "descZh": "一款受桌游启发、以骰子驱动的开放世界抽卡策略 RPG（含官方《龙与地下城／被遗忘的国度》联动），由 SGRA 工作室开发、字节跳动旗下 Nuverse 发行。随着字节退出游戏业务，其美国服务于 2024 年 9 月 16 日关停；该 IP 后由腾讯接手。",
+    "reasonZh": "源于字节跳动全面退出游戏业务：2023 年 11 月 27 日宣布 Nuverse 收缩，本作团队／SGRA 工作室于 2024 年 3 月底转入腾讯 Level Infinite，字节/Nuverse 的美国服务于 2024 年 9 月 16 日终止运营。",
+    "categoryZh": "游戏",
+    "regionZh": "全球（美区关停）"
+  },
+  {
+    "original_name": "灵猫传 (Spirit Cat)",
+    "nameEn": "Legend of the Spirit Cat",
+    "nameZh": "灵猫传",
+    "descZh": "《灵猫传》是一款国风乙女手游，由字节跳动旗下 Nuverse 发行，将养猫玩法与攻略五位男主的恋爱模拟相结合。在持续亏损后，Nuverse 将其移交给开发商；游戏最终于 2023 年 12 月 31 日彻底停运。",
+    "reasonZh": "持续亏损叠加团队流失。2022 年 7 月 Nuverse 宣布年内停运，称核心成员离职、内容产出不足、长期亏损，10 月底将运营主体移交开发商游梦初心。开发商一度复活游戏，但团队随即因主体破产清算而解散，最终于 2023 年 12 月 31 日停服下架。",
+    "categoryZh": "手游（国风乙女恋爱模拟）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "镖人 (Biao Ren)",
+    "nameEn": "Biao Ren",
+    "nameZh": "镖人",
+    "descZh": "一款改编自同名漫画《镖人》的武侠手游 RPG，由 Babeltime 开发、字节跳动旗下 Nuverse 发行。它在 2021 年上线当日登顶中国 iOS 免费榜，随后迅速降温，约一年后关停。",
+    "reasonZh": "商业成绩与玩家留存不佳。上线首日登顶 iOS 免费榜并获苹果推荐，但约一个月内即跌出榜单，仅运营约一年。运营方于 2022 年 1 月发布停运公告，3 月 30 日永久关闭大陆服务器。它属于 Nuverse 早期一批表现不佳作品的关停，先于字节大规模退出游戏。",
+    "categoryZh": "手游（硬派国风武侠 RPG）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "终结战场 (Rules of Survival)",
+    "nameEn": "Rules of Survival",
+    "nameZh": "终结战场",
+    "descZh": "《终结战场》（海外版 Rules of Survival）是网易开发的 PUBG 式手游大逃杀，2017 年作为正版授权的《终结者 2：审判日》上线。字节跳动旗下 Nuverse 自 2020 年 8 月起运营其大陆版本，直至服务器彻底关闭。",
+    "reasonZh": "字节跳动旗下 Nuverse 于 2021 年 12 月 29 日永久关闭大陆服务器，运营约 16 个月。彼时手游大逃杀赛道趋于整合、本作玩家流失；停服前已于 11 月 24 日关闭充值与创号。",
+    "categoryZh": "游戏（大逃杀／战术射击手游）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "战争艺术：赤潮 (Art of War: Red Tides)",
+    "nameEn": "Art of War: Red Tides",
+    "nameZh": "战争艺术：赤潮",
+    "descZh": "一款节奏明快的多人即时战略游戏，出自游戏科学（后《黑神话：悟空》开发商），在中国由字节跳动旗下 Nuverse 发行。其大陆服务器于 2022 年 5 月 31 日以「运营计划调整」为由关闭。",
+    "reasonZh": "大陆版以「运营计划调整」为由正式停运：2022 年 3 月 24 日关闭注册充值，5 月 31 日关停服务器。中文游戏媒体普遍将其归因于开发商游戏科学集中资源投入《黑神话：悟空》（属媒体分析而非官方措辞）。停服早于字节 2023 年底收缩 Nuverse 业务。",
+    "categoryZh": "游戏（即时战略，后加入自走棋）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "DC Worlds Collide (Nuverse version)",
+    "nameEn": "DC Worlds Collide",
+    "nameZh": "DC Worlds Collide",
+    "descZh": "一款获 DC 授权的免费手游 RPG，出自字节跳动游戏品牌 Nuverse，让 50 多位回合制超级英雄与反派展开团队对战。仅在东南亚小范围测试上线，约 5 个月后即关停，从未推出全球版本。",
+    "reasonZh": "在仅限东南亚的短暂测试（约 5 个月）后被 Nuverse 关停，从未全球上线，且在有限市场表现不佳。停服正值字节全面退出游戏业务，并最终于 2023 年 12 月重组、基本关停 Nuverse。DC IP 来自华纳，后于 2025 年由华纳游戏（而非字节）重启为一款全新作品。",
+    "categoryZh": "手游",
+    "regionZh": "东南亚"
+  },
+  {
+    "original_name": "Warhammer 40,000: Lost Crusade",
+    "nameEn": "Warhammer 40,000: Lost Crusade",
+    "nameZh": "战锤40K：雷霆远征",
+    "descZh": "一款免费的《战锤 40000》4X 策略手游，玩家指挥星际战士舰队对抗混沌，可参与多达 35000 人的跨服战。由字节跳动旗下 Nuverse 发行，在 2023–24 年该游戏品牌收缩时关停。",
+    "reasonZh": "随字节跳动重组、关停 Nuverse 游戏发行业务而停运（约 2023 年 11 月 27 日宣布）。字节要求停止未发布项目、为已上线作品寻找买家，本作被明确列入受影响名单。全球版「Lost Crusade」服务器于 2024 年 2 月 15 日关闭。",
+    "categoryZh": "游戏（策略／4X MMO 手游）",
+    "regionZh": "全球／中国"
+  },
+  {
+    "original_name": "Ragnarok X: Next Generation (SEA)",
+    "nameEn": "Ragnarok X: Next Generation",
+    "nameZh": "仙境传说RO：新世代的诞生",
+    "descZh": "字节跳动／Nuverse 在东南亚推出的 Gravity《仙境传说 Online》手游重制版。它在字节 2023 年收缩 Nuverse 时被列入出售对象，但交易始终未达成——它存活下来，并于 2025 年 11 月更名「Ragnarok X: Together」，与台港澳服务器互通。至今仍在运营。",
+    "reasonZh": "",
+    "categoryZh": "游戏（手游 MMORPG）",
+    "regionZh": "东南亚"
+  },
+  {
+    "original_name": "坚果手机 (Smartisan / Nut Phone)",
+    "nameEn": "Smartisan / Nut Phone",
+    "nameZh": "坚果手机",
+    "descZh": "一个颇具情怀的中国智能手机系列，源自罗永浩的锤子科技（Smartisan），后由字节跳动延续——字节于 2019 年「以收购换团队」，推出主推抖音的坚果 Pro 3 和坚果 R2。因销量不佳，字节于 2021 年 1 月放弃手机业务而将其终结。",
+    "reasonZh": "商业失败兼战略转向。字节时期的两款手机销量惨淡（坚果 R2 据称不足 10 万台）。字节缺乏 OPPO/vivo/小米般的供应链规模，硬件成本高，且手机与其内容广告主业不契合，用手机推抖音无法覆盖成本。字节遂暂停手机线，将团队转向教育硬件（大力智能台灯）。",
+    "categoryZh": "硬件（智能手机）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "Pico 5",
+    "nameEn": "Pico 5",
+    "nameZh": "Pico 5",
+    "descZh": "Pico 5 是字节跳动规划中的下一代一体式 VR 头显，原定接替 Pico 4。在 Pico 4 销量疲软促使字节从消费级 VR 与 Meta Quest 的竞争中退守后，该机型在研发阶段被砍，从未发布。",
+    "reasonZh": "在 Pico 4 销量远低于预期后，于内部研发阶段被取消。字节决定不再与 Meta Quest 正面竞争消费级 VR，转而主推升级版 Pico 4，并长期研发对标 Apple Vision Pro 的高端机型。此前 2023 年底 Pico 大规模重组，团队规模近乎减半。",
+    "categoryZh": "硬件（一体式 VR/MR 头显，发布前取消）",
+    "regionZh": "全球（从未发售）"
+  },
+  {
+    "original_name": "Pico (VR business)",
+    "nameEn": "Pico",
+    "nameZh": "Pico",
+    "descZh": "Pico（小鸟看看）是成立于 2015 年的一体式 VR/MR 头显厂商，2021 年被字节跳动收购以对抗 Meta 的 Quest。它在 2023 年的重组中收缩，但仍然存活，推出了 PICO 4 Ultra，并在研发 2026 年的「Project Swan」旗舰机型。",
+    "reasonZh": "",
+    "categoryZh": "硬件（VR/XR 头显）",
+    "regionZh": "全球"
+  },
+  {
+    "original_name": "Dmonstudio",
+    "nameEn": "Dmonstudio",
+    "nameZh": "Dmonstudio",
+    "descZh": "一个面向全球的女装快时尚购物网站，普遍被认为出自字节跳动，意在对标 SHEIN。它在上线约三个月后突然关停，因始终未能获得用户、也无法与对手形成差异化。",
+    "reasonZh": "未能在与 SHEIN 的竞争中获得实质增长，停运前每日仅约 8000 访客，且定价高于 SHEIN。字节从未官方解释这次突然关停（也从未承认所有权）；业界共识是用户增长乏力、无法与 SHEIN 差异化导致项目约三个月后夭折。这是字节海外电商早期的一次失败尝试。",
+    "categoryZh": "跨境快时尚电商",
+    "regionZh": "全球"
+  },
+  {
+    "original_name": "Fanno",
+    "nameEn": "Fanno",
+    "nameZh": "Fanno",
+    "descZh": "字节跳动面向欧洲消费者、销售工厂直供廉价商品的独立跨境购物 App。因复购率低、品质差、物流慢，加之字节将重心转向 TikTok Shop 而被关停。",
+    "reasonZh": "2022 年春收缩，随着字节将跨境电商重心转向 TikTok Shop，于 2023 年 6 月 10 日正式停运。失败原因包括：复购留存低（同款廉价货在亚马逊、速卖通也有）、品质差退货高、物流缓慢、补贴驱动模式不可持续，以及未能把 Facebook 买来的流量转化为忠实用户。",
+    "categoryZh": "跨境电商",
+    "regionZh": "欧洲"
+  },
+  {
+    "original_name": "火山小视频 (Huoshan / Douyin Huoshan)",
+    "nameEn": "Huoshan / Douyin Huoshan",
+    "nameZh": "火山小视频",
+    "descZh": "字节跳动的首款短视频 App，也是其面向中国下沉市场、对标快手的产品，主打直播与现金奖励。2020 年并入抖音并更名「抖音火山版」，作为独立品牌就此终结。",
+    "reasonZh": "字节将独立的火山品牌并入抖音生态。2020 年 1 月 8 日宣布「品牌整合升级」，将火山小视频更名「抖音火山版」，打通账号、共享内容，把火山的下沉用户（2019 年底约 5000 万 DAU）导入抖音以对抗快手。这终结了火山的独立品牌地位，但更名后的 App 仍独立运营。",
+    "categoryZh": "短视频／直播",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "Cici",
+    "nameEn": "Cici",
+    "nameZh": "Cici",
+    "descZh": "字节跳动面向海外的消费级 AI 聊天机器人，是中国「豆包」的全球版兄弟产品，由 OpenAI 和谷歌的模型驱动。它曾在多个新兴市场登顶榜单，后于 2025 年更名为 Dola——App 仍在，但 Cici 这个名字不复存在。",
+    "reasonZh": "并非关停，而是更名。2025 年 11 月字节将 App 由「Cici」更名「Dola」，同一产品在新品牌下延续，App Store ID、包名及原有账号数据悉数沿用。Cici 品牌已死，但底层 App 以 Dola 之名存活，是字节整合海外消费级 AI 品牌的举措。",
+    "categoryZh": "AI 助手／聊天机器人",
+    "regionZh": "海外（不含中国）"
+  },
+  {
+    "original_name": "BagelBell",
+    "nameEn": "BagelBell",
+    "nameZh": "BagelBell",
+    "descZh": "字节跳动开发的 AI 互动小说与 AI 角色聊天 App，于 2023 年 12 月低调面向海外市场上线（通过 Azure 调用 OpenAI 的 GPT）。BagelBell 品牌在 2024 年被弃用，更名为 AnyDoor；其移动端 App 后来被下架。",
+    "reasonZh": "品牌弃用并并入后继 App。BagelBell 于 2024 年更名为「AnyDoor」并沿用同一套代码，符合字节快速更名、整合海外实验性 AI 应用的打法。后继的 AnyDoor 移动端此后全面下架，仅存有地区限制的网页版，字节从未发布关停公告。",
+    "categoryZh": "AI／娱乐（AI 互动小说与角色聊天）",
+    "regionZh": "海外（不含中国）"
+  },
+  {
+    "original_name": "抖音 (Douyin)",
+    "nameEn": "Douyin",
+    "nameZh": "抖音",
+    "descZh": "抖音是字节跳动仅限中国的旗舰短视频 App，也是 TikTok 的国内版兄弟产品。2016 年以「A.me」之名上线，同年 12 月更名，如今已是中国领先的短视频与社交电商平台。依然非常活跃。",
+    "reasonZh": "",
+    "categoryZh": "短视频／社交电商",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "今日头条 (Toutiao)",
+    "nameEn": "Toutiao",
+    "nameZh": "今日头条",
+    "descZh": "今日头条是字节跳动的首款旗舰产品，一款 2012 年上线的算法新闻与内容聚合 App，通过机器学习推荐构建个性化信息流。2026 年仍然活跃，月活用户超过 3 亿。",
+    "reasonZh": "",
+    "categoryZh": "新闻／内容聚合",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "西瓜视频 (Xigua Video)",
+    "nameEn": "Xigua Video",
+    "nameZh": "西瓜视频",
+    "descZh": "字节跳动的中视频平台，曾被定位为「中国的 YouTube」。2016 年 5 月以「头条视频」之名上线，2017 年更名西瓜视频；至 2026 年仍在运营，不过自 2024 年起其账号与创作者变现已并入抖音。",
+    "reasonZh": "",
+    "categoryZh": "中长视频分享平台",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "Faceu激萌 (Faceu)",
+    "nameEn": "Faceu",
+    "nameZh": "Faceu激萌",
+    "descZh": "Faceu（激萌）是一款面向 iOS 和 Android 的 AR 美颜自拍相机，可在照片和短视频上实时叠加贴纸、人脸特效与滤镜。2018 年被字节跳动收购，至今仍在积极维护——并未消亡。",
+    "reasonZh": "",
+    "categoryZh": "拍照与视频／AR 美颜自拍相机",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "剪映 (Jianying)",
+    "nameEn": "Jianying",
+    "nameZh": "剪映",
+    "descZh": "剪映是字节跳动面向中国市场的旗舰视频剪辑工具，也是抖音的官方创作工具，具备自动字幕、配音、智能抠像等 AI 功能。它是 CapCut 的国内版兄弟产品，至今仍在积极维护。",
+    "reasonZh": "",
+    "categoryZh": "视频剪辑",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "醒图 (Xingtu)",
+    "nameEn": "Xingtu",
+    "nameZh": "醒图",
+    "descZh": "醒图是字节跳动面向中国市场的一体化照片与 AI 图像编辑工具，2020 年 3 月上线，是 CapCut/剪映生态中的静态图像伙伴产品。依然活跃：月活超 6000 万，2026 年推出桌面 Pro 版，并拥有全球版兄弟产品 Hypic。",
+    "reasonZh": "",
+    "categoryZh": "照片／AI 图像编辑",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "轻颜相机 (Qingyan Camera / Ulike)",
+    "nameEn": "Qingyan Camera / Ulike",
+    "nameZh": "轻颜相机",
+    "descZh": "字节跳动的自拍美颜相机（中国版为「轻颜相机」，全球版为 Ulike），提供实时面部美化、AI 妆容与风格滤镜。由激萌团队打造，2018 年 5 月上线，至今仍在积极开发。它仍然活跃，并非墓碑条目。",
+    "reasonZh": "",
+    "categoryZh": "拍照／AI 自拍美颜",
+    "regionZh": "中国大陆／全球"
+  },
+  {
+    "original_name": "即梦 (Jimeng / Dreamina)",
+    "nameEn": "Jimeng / Dreamina",
+    "nameZh": "即梦",
+    "descZh": "字节跳动的生成式 AI 图像与视频创作 App，由 CapCut/剪映团队打造。中国版名为「即梦」，海外版为 Dreamina，运行于自研的 Seedream 与 Seedance 模型。它仍在积极开发，非常活跃。",
+    "reasonZh": "",
+    "categoryZh": "AI 图像／视频生成",
+    "regionZh": "中国大陆／全球"
+  },
+  {
+    "original_name": "Pippit",
+    "nameEn": "Pippit",
+    "nameZh": "Pippit",
+    "descZh": "字节跳动面向海外、「由 CapCut 提供技术支持」的 AI 营销内容平台，为电商卖家和创作者生成产品视频、图像与 AI 数字人。2025 年由 CapCut Commerce Pro 更名而来；仍然活跃并在积极开发。",
+    "reasonZh": "",
+    "categoryZh": "AI 视频／图像营销内容平台",
+    "regionZh": "海外（不含中国）"
+  },
+  {
+    "original_name": "SoundOn",
+    "nameEn": "SoundOn",
+    "nameZh": "SoundOn",
+    "descZh": "TikTok／字节跳动面向新兴艺人的一体化音乐发行与营销平台，无前期费用，在字节系平台上享 100% 版税。它在 2026 年仍然活跃——不要与已被关停的 TikTok Music 流媒体 App 混淆。",
+    "reasonZh": "",
+    "categoryZh": "音乐",
+    "regionZh": "全球"
+  },
+  {
+    "original_name": "汽水音乐 (Soda Music)",
+    "nameEn": "Soda Music",
+    "nameZh": "汽水音乐",
+    "descZh": "汽水音乐是字节跳动面向中国大陆、由算法驱动并与抖音打通的音乐流媒体 App。它非常活跃且持续增长：到 2026 年 3 月月活约 1.56 亿，超越网易云音乐成为中国第三大音乐 App。",
+    "reasonZh": "",
+    "categoryZh": "音乐",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "豆包 (Doubao)",
+    "nameEn": "Doubao",
+    "nameZh": "豆包",
+    "descZh": "豆包是字节跳动的旗舰消费级 AI 助手，2023 年 8 月基于自研的豆包大模型上线。它是中国使用量最大的 AI 原生应用（2026 年月活约 3.3–3.45 亿），非常活跃。",
+    "reasonZh": "",
+    "categoryZh": "AI 助手／聊天机器人",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "扣子 (Coze)",
+    "nameEn": "Coze",
+    "nameZh": "扣子",
+    "descZh": "字节跳动的零代码 AI 智能体与聊天机器人搭建平台——对标 OpenAI 的 GPTs——让任何人都能通过拖拽来构建、调试和部署机器人。它仍然活跃并持续扩张（2025 年开源，2026 年推出 v3.0），并非墓碑条目。",
+    "reasonZh": "",
+    "categoryZh": "AI 智能体／零代码机器人开发平台",
+    "regionZh": "全球／中国"
+  },
+  {
+    "original_name": "ChitChop",
+    "nameEn": "ChitChop",
+    "nameZh": "ChitChop",
+    "descZh": "ChitChop 是字节跳动一款低调的海外（不含中国）AI 助手 App——国内「小悟空」的国际版兄弟产品——提供涵盖创作、绘画、学习、工作与生活的 200 多个「智能机器人」。它于 2024 年悄然关停。",
+    "reasonZh": "在无任何官方公告下悄然关停。2024 年 4 月安卓版从 Google Play 下架、iOS 版从 App Store 下架，官网随后失效。背景是字节当时密集推出、测试并淘汰多款海外生成式 AI 应用，并将消费级 AI 收拢到豆包与 Cici，ChitChop 未能存活。",
+    "categoryZh": "AI 助手",
+    "regionZh": "海外（不含中国）"
+  },
+  {
+    "original_name": "Trae",
+    "nameEn": "Trae",
+    "nameZh": "Trae",
+    "descZh": "Trae 是字节跳动的 AI 原生 IDE——一款基于 VS Code 的分支，内置可进行对话式编码、补全以及自主「Builder」/「SOLO」模式的 AI 智能体。2025 年 1 月上线，至 2026 年中仍在积极开发并持续增长。",
+    "reasonZh": "",
+    "categoryZh": "AI／开发者工具（AI 原生代码编辑器/IDE）",
+    "regionZh": "全球／中国"
+  },
+  {
+    "original_name": "PixelDance (豆包-PixelDance)",
+    "nameEn": "Doubao-PixelDance",
+    "nameZh": "豆包-PixelDance",
+    "descZh": "字节跳动的 AI 视频生成模型，源自「Make Pixels Dance」CVPR 2024 论文，并以豆包品牌上线。它擅长多镜头、高动态的 10 秒短片。2025 年中并入统一的 Seedance 模型线，作为品牌退役。",
+    "reasonZh": "并非正式关停，而是被取代并并入字节统一的 Seedance 视频模型家族。2025 年 PixelDance 团队与 Seaweed 整合，新的 Seedance 于 6 月发布并接入即梦、豆包。面向用户的「PixelDance」标签随之退役，但其研究血脉得以延续。",
+    "categoryZh": "AI 视频生成模型（文/图生视频）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "ByteDance Seed",
+    "nameEn": "ByteDance Seed",
+    "nameZh": "ByteDance Seed",
+    "descZh": "字节跳动的基础模型研究团队（2023 年成立），也是其 Doubao-Seed 大语言模型、Seed-OSS 开源权重、Seedream 文生图与 Seedance 视频模型的统称品牌。它仍然活跃并持续迭代，并非墓碑条目。",
+    "reasonZh": "",
+    "categoryZh": "AI 模型／基础模型家族",
+    "regionZh": "全球"
+  },
+  {
+    "original_name": "飞书 (Feishu)",
+    "nameEn": "Feishu",
+    "nameZh": "飞书",
+    "descZh": "飞书是字节跳动面向中国大陆的一体化企业协作与「AI 办公平台」——国际版 Lark 套件的国内版兄弟产品，集成即时通讯、文档、多维表格、视频会议、日历、工作流、低代码引擎和 AI 智能体。",
+    "reasonZh": "",
+    "categoryZh": "企业协作／效率办公",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "火山引擎 (Volcano Engine)",
+    "nameEn": "Volcano Engine",
+    "nameZh": "火山引擎",
+    "descZh": "字节跳动的企业级云、大数据与 AI 平台，2020 年上线，如今已是其豆包大模型的主要分发渠道。它非常活跃——是中国第一大企业级模型即服务（MaaS）提供商（2025 年约占 token 调用量的 49%），并非墓碑候选。",
+    "reasonZh": "",
+    "categoryZh": "云／企业（AI 云／模型即服务）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "BytePlus",
+    "nameEn": "BytePlus",
+    "nameZh": "BytePlus",
+    "descZh": "字节跳动的海外 B2B 业务，通过云 API 向企业出售 TikTok 背后的推荐、AR 特效及（如今的）生成式 AI 技术。2021 年 3 月上线；至 2026 年仍然活跃并在扩张，ModelArk 与 Seedance 2.0 已进入公开测试。",
+    "reasonZh": "",
+    "categoryZh": "云／企业 B2B（AI 原生云、推荐引擎、视频/AR 特效、生成式 AI 模型）",
+    "regionZh": "全球"
+  },
+  {
+    "original_name": "Pangle",
+    "nameEn": "Pangle",
+    "nameZh": "Pangle",
+    "descZh": "字节跳动的移动广告变现网络与 SDK——「TikTok for Business 的广告网络」——让 App 接入 TikTok 的广告需求，投放激励、插屏、原生和横幅广告。它是中国「穿山甲」的海外品牌；至今仍然活跃，并于 2026 年新进入美国市场。",
+    "reasonZh": "",
+    "categoryZh": "广告科技（移动广告／变现网络与 SDK）",
+    "regionZh": "全球"
+  },
+  {
+    "original_name": "番茄小说 (Fanqie Novel)",
+    "nameEn": "Fanqie Novel",
+    "nameZh": "番茄小说",
+    "descZh": "字节跳动免费、广告支持的网络小说阅读 App（也提供有声书和短剧），通过文中广告及与作者分成来变现。它依然非常活跃——是中国第一大阅读 App，2025 年日活用户超过 1 亿。",
+    "reasonZh": "",
+    "categoryZh": "阅读／网络文学",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "番茄畅听 (Fanqie Changting)",
+    "nameEn": "Fanqie Changting",
+    "nameZh": "番茄畅听",
+    "descZh": "字节跳动的长音频 App，2020 年从番茄小说的有声书功能拆分而来，率先采用 AI 语音合成进行旁白以省去雇佣配音演员。它依然活跃且发展迅猛，2024 年下半年在月活上超越喜马拉雅。",
+    "reasonZh": "",
+    "categoryZh": "音频／有声书（长音频）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "红果短剧 (Hongguo Short Drama)",
+    "nameEn": "Hongguo Short Drama",
+    "nameZh": "红果短剧",
+    "descZh": "字节跳动免费、广告支持的短剧（微短剧）流媒体 App，2023 年 5 月上线，打破了中国的单集付费模式，到 2026 年 2 月月活已达 3.04 亿。它依然活跃，是字节最大的增长型产品之一——并非墓碑条目。",
+    "reasonZh": "",
+    "categoryZh": "短剧／微短剧流媒体",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "抖音支付 (Douyin Pay)",
+    "nameEn": "Douyin Pay",
+    "nameZh": "抖音支付",
+    "descZh": "字节跳动中国短视频 App 抖音内置的移动支付服务，2021 年 1 月 19 日上线，意在结账环节与支付宝、微信支付竞争。它基于收购支付公司合众支付（Ulpay）所获的央行牌照运营。仍然活跃并在扩张。",
+    "reasonZh": "",
+    "categoryZh": "金融科技／移动支付",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "TikTok Shop",
+    "nameEn": "TikTok Shop",
+    "nameZh": "TikTok Shop",
+    "descZh": "字节跳动／TikTok 的应用内社交电商平台，包含商店标签页、直播购物、可购买视频以及创作者联盟计划。它仍然活跃并在全球扩张；曾于 2023 年在印尼短暂被禁，随后并入 Tokopedia。",
+    "reasonZh": "",
+    "categoryZh": "电商／社交电商",
+    "regionZh": "全球"
+  },
+  {
+    "original_name": "抖音电商 (Douyin E-commerce)",
+    "nameEn": "Douyin E-commerce",
+    "nameZh": "抖音电商",
+    "descZh": "字节跳动在抖音 App 内的国内直播电商与商城业务，涵盖直播带货、短视频商品链接、抖音商城货架店铺以及搜索。它仍然活跃并持续增长——2024 年 GMV 约 3.5 万亿元人民币。",
+    "reasonZh": "",
+    "categoryZh": "电商",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "懂车帝 (Dongchedi)",
+    "nameEn": "Dongchedi",
+    "nameZh": "懂车帝",
+    "descZh": "懂车帝是中国领先的汽车内容与购车 App，起步于字节跳动今日头条的汽车频道。它如今发展兴旺：已从字节跳动拆分，并在筹备 2026 年的香港 IPO。",
+    "reasonZh": "",
+    "categoryZh": "汽车（汽车资讯、评测、内容与购车服务）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "航海王热血航线 (One Piece: Fighting Path)",
+    "nameEn": "One Piece: Fighting Path",
+    "nameZh": "航海王热血航线",
+    "descZh": "一款获《航海王》动漫 IP 授权的移动 3D 动作 RPG，由中手游（CMGE）开发、字节跳动旗下 Nuverse 独家发行。它是上线当日的榜单冠军，也是 Nuverse 的首款重磅爆款，挺过了 2023 年 Nuverse 的收缩，至今仍在运营并持续更新。",
+    "reasonZh": "",
+    "categoryZh": "手游（授权 3D 动作 RPG，《航海王》IP）",
+    "regionZh": "中国大陆"
+  },
+  {
+    "original_name": "花亦山心之月 (The Moonlit Oath)",
+    "nameEn": "The Moonlit Oath",
+    "nameZh": "花亦山心之月",
+    "descZh": "字节跳动／Nuverse 的首款自研游戏，一款国风抽卡卡牌 RPG，设定在虚构的皇家书院，融合宫廷权谋与金箔画风。它挺过了 2023–24 年 Nuverse 的收缩，作为保留的在运营作品至今仍在中国运营。",
+    "reasonZh": "",
+    "categoryZh": "游戏（国风抽卡卡牌 RPG）",
+    "regionZh": "中国大陆"
+  }
+]

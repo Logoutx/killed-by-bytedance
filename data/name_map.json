@@ -1,0 +1,977 @@
+[
+  {
+    "original_name": "TopBuzz",
+    "market": "global",
+    "display_name": "TopBuzz",
+    "aliases": [
+      "TopBuzz News",
+      "TopBuzz: Breaking News & Videos",
+      "TopBuzz Video"
+    ]
+  },
+  {
+    "original_name": "BuzzVideo",
+    "market": "global",
+    "display_name": "BuzzVideo",
+    "aliases": [
+      "TopBuzz Video",
+      "バズビデオ"
+    ]
+  },
+  {
+    "original_name": "Vigo Video",
+    "market": "global",
+    "display_name": "Vigo Video",
+    "aliases": [
+      "Hypstar",
+      "Vigo Lite",
+      "Flipagram"
+    ]
+  },
+  {
+    "original_name": "Flipagram",
+    "market": "global",
+    "display_name": "Flipagram",
+    "aliases": [
+      "Vigo Video",
+      "Hypstar"
+    ]
+  },
+  {
+    "original_name": "Musical.ly",
+    "market": "global",
+    "display_name": "Musical.ly",
+    "aliases": [
+      "musical.ly",
+      "Musically"
+    ]
+  },
+  {
+    "original_name": "Live.ly",
+    "market": "global",
+    "display_name": "Live.ly",
+    "aliases": [
+      "live.ly",
+      "Live.ly by Musical.ly"
+    ]
+  },
+  {
+    "original_name": "News Republic",
+    "market": "global",
+    "display_name": "News Republic",
+    "aliases": [
+      "Mobiles Republic",
+      "AppyGeek",
+      "AppyGamer"
+    ]
+  },
+  {
+    "original_name": "BaBe (Baca Berita)",
+    "market": "global",
+    "display_name": "BaBe (Baca Berita)",
+    "aliases": [
+      "Baca Berita",
+      "Helo BaBe",
+      "BaBe - Baca Berita Indonesia"
+    ]
+  },
+  {
+    "original_name": "Resso",
+    "market": "global",
+    "display_name": "Resso",
+    "aliases": [
+      "Resso Music - Songs & Lyrics",
+      "Resso Music"
+    ]
+  },
+  {
+    "original_name": "TikTok Music",
+    "market": "global",
+    "display_name": "TikTok Music",
+    "aliases": [
+      "Resso",
+      "music.tiktok.com"
+    ]
+  },
+  {
+    "original_name": "Helo",
+    "market": "global",
+    "display_name": "Helo",
+    "aliases": [
+      "हेलो",
+      "Helo - Share Your Life",
+      "Helo - Share, Follow & Chat"
+    ]
+  },
+  {
+    "original_name": "LetsChat",
+    "market": "global",
+    "display_name": "LetsChat",
+    "aliases": [
+      "Let'sChat",
+      "LetsChat - Messenger",
+      "LetsChat: With Close Friends"
+    ]
+  },
+  {
+    "original_name": "TikTok Notes",
+    "market": "global",
+    "display_name": "TikTok Notes",
+    "aliases": []
+  },
+  {
+    "original_name": "8th Note Press",
+    "market": "global",
+    "display_name": "8th Note Press",
+    "aliases": []
+  },
+  {
+    "original_name": "Pixsoul",
+    "market": "global",
+    "display_name": "Pixsoul",
+    "aliases": [
+      "Pixsoul - Face Art Creator App",
+      "Pixsoul Face Art Creator"
+    ]
+  },
+  {
+    "original_name": "TikTok Lite Rewards",
+    "market": "global",
+    "display_name": "TikTok Lite Rewards",
+    "aliases": [
+      "TikTok Lite Task and Reward programme",
+      "Tasks and Rewards (TikTok Lite)"
+    ]
+  },
+  {
+    "original_name": "TikTok",
+    "market": "global",
+    "display_name": "TikTok",
+    "aliases": [
+      "musical.ly",
+      "A.me"
+    ]
+  },
+  {
+    "original_name": "CapCut",
+    "market": "global",
+    "display_name": "CapCut",
+    "aliases": [
+      "Viamaker",
+      "CapCut: Photo & Video Editor"
+    ]
+  },
+  {
+    "original_name": "Lemon8",
+    "market": "global",
+    "display_name": "Lemon8",
+    "aliases": [
+      "Lemon8 - Lifestyle Community",
+      "Sharee"
+    ]
+  },
+  {
+    "original_name": "Hypic",
+    "market": "global",
+    "display_name": "Hypic",
+    "aliases": [
+      "Hypic - Photo Editor & AI Art"
+    ]
+  },
+  {
+    "original_name": "Gauth",
+    "market": "global",
+    "display_name": "Gauth",
+    "aliases": [
+      "Gauthmath",
+      "Gauth: AI Study Companion",
+      "Gauth AI"
+    ]
+  },
+  {
+    "original_name": "Lark",
+    "market": "global",
+    "display_name": "Lark",
+    "aliases": [
+      "Lark Suite",
+      "Lark — Team Collaboration",
+      "Lark — Rooms Display"
+    ]
+  },
+  {
+    "original_name": "Marvel Snap",
+    "market": "global",
+    "display_name": "Marvel Snap",
+    "aliases": [
+      "Marvel Snap: Hero Card Game"
+    ]
+  },
+  {
+    "original_name": "Mobile Legends: Bang Bang",
+    "market": "global",
+    "display_name": "Mobile Legends: Bang Bang",
+    "aliases": [
+      "MLBB",
+      "Mobile Legends: 5v5 MOBA"
+    ]
+  },
+  {
+    "original_name": "Whee",
+    "market": "global",
+    "display_name": "Whee",
+    "aliases": [
+      "Whee - TikTok Chat",
+      "Whee - TikTok Chat App"
+    ]
+  },
+  {
+    "original_name": "Wukong Q&A",
+    "market": "china",
+    "display_name": "悟空问答 (Wukong Q&A)",
+    "aliases": [
+      "头条问答"
+    ]
+  },
+  {
+    "original_name": "Haohao Xuexi",
+    "market": "china",
+    "display_name": "好好学习 (Haohao Xuexi)",
+    "aliases": [
+      "Study Hard"
+    ]
+  },
+  {
+    "original_name": "Duoshan",
+    "market": "china",
+    "display_name": "多闪 (Duoshan)",
+    "aliases": [
+      "Maya"
+    ]
+  },
+  {
+    "original_name": "Feiliao (Flipchat)",
+    "market": "china",
+    "display_name": "飞聊 (Feiliao / Flipchat)",
+    "aliases": [
+      "Flipchat"
+    ]
+  },
+  {
+    "original_name": "Xintu",
+    "market": "china",
+    "display_name": "心图 (Xintu)",
+    "aliases": []
+  },
+  {
+    "original_name": "Xincao",
+    "market": "china",
+    "display_name": "新草 (Xincao)",
+    "aliases": []
+  },
+  {
+    "original_name": "Zhidian",
+    "market": "china",
+    "display_name": "值点 (Zhidian)",
+    "aliases": [
+      "值点商城"
+    ]
+  },
+  {
+    "original_name": "Neihan Duanzi",
+    "market": "china",
+    "display_name": "内涵段子 (Neihan Duanzi)",
+    "aliases": []
+  },
+  {
+    "original_name": "Pipixia",
+    "market": "china",
+    "display_name": "皮皮虾 (Pipixia)",
+    "aliases": [
+      "皮皮虾极速版",
+      "皮皮虾专业版"
+    ]
+  },
+  {
+    "original_name": "Party Island",
+    "market": "china",
+    "display_name": "派对岛 (Party Island)",
+    "aliases": []
+  },
+  {
+    "original_name": "Shiqu",
+    "market": "china",
+    "display_name": "识区 (Shiqu)",
+    "aliases": []
+  },
+  {
+    "original_name": "Banciyuan",
+    "market": "china",
+    "display_name": "半次元 (Banciyuan)",
+    "aliases": [
+      "bcy",
+      "bcy.net"
+    ]
+  },
+  {
+    "original_name": "Paofu",
+    "market": "china",
+    "display_name": "泡芙 (Paofu)",
+    "aliases": [
+      "泡芙社区"
+    ]
+  },
+  {
+    "original_name": "Limao Camera",
+    "market": "china",
+    "display_name": "狸猫相机 (Limao Camera)",
+    "aliases": []
+  },
+  {
+    "original_name": "Douyin Box",
+    "market": "china",
+    "display_name": "抖音盒子 (Douyin Box)",
+    "aliases": []
+  },
+  {
+    "original_name": "GoGoKid",
+    "market": "china",
+    "display_name": "GoGoKid (GoGoKid 在线英语)",
+    "aliases": [
+      "GoGoKid Online English"
+    ]
+  },
+  {
+    "original_name": "GuaGuaLong",
+    "market": "china",
+    "display_name": "瓜瓜龙 (GuaGuaLong)",
+    "aliases": [
+      "瓜瓜龙启蒙",
+      "瓜瓜龙英语",
+      "瓜瓜龙思维"
+    ]
+  },
+  {
+    "original_name": "Qingbei Online School",
+    "market": "china",
+    "display_name": "清北网校 (Qingbei Online School)",
+    "aliases": [
+      "大力课堂",
+      "Dali Classroom",
+      "华罗庚网校"
+    ]
+  },
+  {
+    "original_name": "Xuelang",
+    "market": "china",
+    "display_name": "学浪 (Xuelang)",
+    "aliases": [
+      "抖音学浪"
+    ]
+  },
+  {
+    "original_name": "Tangyuan English",
+    "market": "china",
+    "display_name": "汤圆英语 (Tangyuan English)",
+    "aliases": []
+  },
+  {
+    "original_name": "NPY (你拍一)",
+    "market": "china",
+    "display_name": "你拍一 (NPY)",
+    "aliases": [
+      "酷数学",
+      "Cool Math"
+    ]
+  },
+  {
+    "original_name": "Dali Ketang",
+    "market": "china",
+    "display_name": "大力课堂 (Dali Ketang)",
+    "aliases": [
+      "Dali Classroom",
+      "清北网校",
+      "Qingbei Online School"
+    ]
+  },
+  {
+    "original_name": "Snapsolve",
+    "market": "global",
+    "display_name": "Snapsolve",
+    "aliases": [
+      "SnapSolve: Doubt Solving App",
+      "SnapSolve: Homework Help"
+    ]
+  },
+  {
+    "original_name": "Dali Education",
+    "market": "china",
+    "display_name": "大力教育 (Dali Education)",
+    "aliases": [
+      "大力智能",
+      "Dali Smart",
+      "大力智能作业灯",
+      "大力爱辅导"
+    ]
+  },
+  {
+    "original_name": "Dali Smart Learning Lamp",
+    "market": "china",
+    "display_name": "大力智能学习灯 (Dali Smart Learning Lamp)",
+    "aliases": [
+      "大力智能",
+      "Dali Smart",
+      "大力台灯"
+    ]
+  },
+  {
+    "original_name": "Wukong Search",
+    "market": "china",
+    "display_name": "悟空搜索 (Wukong Search)",
+    "aliases": [
+      "小悟空",
+      "Little Wukong"
+    ]
+  },
+  {
+    "original_name": "Shandian Search",
+    "market": "china",
+    "display_name": "闪电搜索 (Shandian Search)",
+    "aliases": [
+      "Lightning Search"
+    ]
+  },
+  {
+    "original_name": "Toutiao Search",
+    "market": "china",
+    "display_name": "头条搜索 (Toutiao Search)",
+    "aliases": [
+      "有柿",
+      "Youshi",
+      "今日头条搜索"
+    ]
+  },
+  {
+    "original_name": "Hudong Baike",
+    "market": "china",
+    "display_name": "互动百科 (Hudong Baike)",
+    "aliases": [
+      "Baike.com",
+      "头条百科",
+      "快懂百科",
+      "抖音百科"
+    ]
+  },
+  {
+    "original_name": "Xiaohe Health",
+    "market": "china",
+    "display_name": "小荷健康 (Xiaohe Health)",
+    "aliases": [
+      "小荷",
+      "小荷医疗",
+      "小荷AI医生"
+    ]
+  },
+  {
+    "original_name": "头号保 (Tóuhàobǎo / Toutiao Insurance)",
+    "market": "china",
+    "display_name": "头号保 (Toutiao Insurance)",
+    "aliases": [
+      "头条保",
+      "Toutiao insurance channel"
+    ]
+  },
+  {
+    "original_name": "Nuverse",
+    "market": "china",
+    "display_name": "朝夕光年 (Nuverse)",
+    "aliases": [
+      "ByteDance Games",
+      "Nuverse Games"
+    ]
+  },
+  {
+    "original_name": "101 Studio (Shanghai)",
+    "market": "china",
+    "display_name": "101工作室 (101 Studio Shanghai)",
+    "aliases": [
+      "101 Game Studio",
+      "Mokun Technology",
+      "上海墨鹍数码科技有限公司"
+    ]
+  },
+  {
+    "original_name": "C4games",
+    "market": "china",
+    "display_name": "C4games (有爱互娱)",
+    "aliases": [
+      "C4 Games",
+      "北京有爱互娱科技有限公司",
+      "iLoveVG"
+    ]
+  },
+  {
+    "original_name": "Gravity Studio & Jiangnan Studio",
+    "market": "china",
+    "display_name": "Gravity Studio & Jiangnan Studio (重力工作室 & 江南工作室)",
+    "aliases": [
+      "深圳重力工作室",
+      "江南工作室",
+      "Nuverse studios"
+    ]
+  },
+  {
+    "original_name": "Crystal of Atlan",
+    "market": "china",
+    "display_name": "晶核 (Crystal of Atlan)",
+    "aliases": []
+  },
+  {
+    "original_name": "Earth: Revival",
+    "market": "china",
+    "display_name": "星球：重启 (Earth: Revival)",
+    "aliases": [
+      "Project: Arrival"
+    ]
+  },
+  {
+    "original_name": "Dragonheir: Silent Gods",
+    "market": "global",
+    "display_name": "Dragonheir: Silent Gods",
+    "aliases": [
+      "龙息：神寂"
+    ]
+  },
+  {
+    "original_name": "Spirit Cat",
+    "market": "china",
+    "display_name": "灵猫传 (Spirit Cat)",
+    "aliases": [
+      "Legend of the Spirit Cat"
+    ]
+  },
+  {
+    "original_name": "Biao Ren",
+    "market": "china",
+    "display_name": "镖人 (Biao Ren)",
+    "aliases": [
+      "Blades of the Guardians"
+    ]
+  },
+  {
+    "original_name": "终结战场 (Zhōngjié Zhànchǎng)",
+    "market": "china",
+    "display_name": "终结战场 (Rules of Survival)",
+    "aliases": [
+      "终结者2：审判日",
+      "Terminator 2: Judgment Day"
+    ]
+  },
+  {
+    "original_name": "Art of War: Red Tides (China server)",
+    "market": "china",
+    "display_name": "战争艺术：赤潮 (Art of War: Red Tides)",
+    "aliases": [
+      "战争艺术",
+      "赤潮自走棋"
+    ]
+  },
+  {
+    "original_name": "DC Worlds Collide (Nuverse version)",
+    "market": "global",
+    "display_name": "DC Worlds Collide (Nuverse version)",
+    "aliases": [
+      "DC Worlds Collide"
+    ]
+  },
+  {
+    "original_name": "Warhammer 40,000: Lost Crusade",
+    "market": "global",
+    "display_name": "Warhammer 40,000: Lost Crusade",
+    "aliases": [
+      "战锤40K：雷霆远征",
+      "Warhammer 40,000: Thunder Expedition"
+    ]
+  },
+  {
+    "original_name": "Ragnarok X: Next Generation (SEA)",
+    "market": "global",
+    "display_name": "Ragnarok X: Next Generation (SEA)",
+    "aliases": [
+      "Ragnarok X: Together",
+      "ROX",
+      "仙境传说RO：新世代的诞生"
+    ]
+  },
+  {
+    "original_name": "Cancelled unreleased Nuverse projects (collective)",
+    "market": "china",
+    "display_name": "Cancelled unreleased Nuverse projects (collective)",
+    "aliases": [
+      "Land of Glory / 荣耀之地",
+      "One Piece: Dream Pointer / 航海王：梦想指针",
+      "Project: Babel"
+    ]
+  },
+  {
+    "original_name": "Ohayoo",
+    "market": "china",
+    "display_name": "Ohayoo",
+    "aliases": [
+      "Ohayo Games"
+    ]
+  },
+  {
+    "original_name": "Smartisan smartphones (Jianguo / Nut)",
+    "market": "china",
+    "display_name": "坚果手机 (Smartisan / Nut Phone)",
+    "aliases": [
+      "坚果手机",
+      "Smartisan Nut Pro 3",
+      "锤子科技",
+      "Smartisan Technology"
+    ]
+  },
+  {
+    "original_name": "Pico 5",
+    "market": "global",
+    "display_name": "Pico 5",
+    "aliases": [
+      "PICO 5"
+    ]
+  },
+  {
+    "original_name": "Pico (VR business)",
+    "market": "global",
+    "display_name": "Pico (VR business)",
+    "aliases": [
+      "Pico Interactive",
+      "PICO 4 Ultra",
+      "Project Swan"
+    ]
+  },
+  {
+    "original_name": "Dmonstudio",
+    "market": "global",
+    "display_name": "Dmonstudio",
+    "aliases": [
+      "dmonstudio.com"
+    ]
+  },
+  {
+    "original_name": "Fanno",
+    "market": "global",
+    "display_name": "Fanno",
+    "aliases": [
+      "Fanno Shopping"
+    ]
+  },
+  {
+    "original_name": "Huoshan / Douyin Huoshan",
+    "market": "china",
+    "display_name": "火山小视频 (Huoshan / Douyin Huoshan)",
+    "aliases": [
+      "抖音火山版",
+      "Douyin Huoshan Edition",
+      "火山直播"
+    ]
+  },
+  {
+    "original_name": "Cici",
+    "market": "global",
+    "display_name": "Cici",
+    "aliases": [
+      "Cici AI",
+      "Cici - Your AI assistant",
+      "Dola"
+    ]
+  },
+  {
+    "original_name": "BagelBell",
+    "market": "global",
+    "display_name": "BagelBell",
+    "aliases": [
+      "AnyDoor",
+      "Anydoor",
+      "BagelBell: Diverse AI worlds"
+    ]
+  },
+  {
+    "original_name": "Douyin",
+    "market": "china",
+    "display_name": "抖音 (Douyin)",
+    "aliases": [
+      "Aweme",
+      "A.me"
+    ]
+  },
+  {
+    "original_name": "Toutiao",
+    "market": "china",
+    "display_name": "今日头条 (Toutiao)",
+    "aliases": [
+      "Today's Headlines",
+      "头条"
+    ]
+  },
+  {
+    "original_name": "Xigua Video",
+    "market": "china",
+    "display_name": "西瓜视频 (Xigua Video)",
+    "aliases": [
+      "Watermelon Video",
+      "头条视频",
+      "Toutiao Video"
+    ]
+  },
+  {
+    "original_name": "Faceu",
+    "market": "china",
+    "display_name": "Faceu激萌 (Faceu)",
+    "aliases": [
+      "激萌",
+      "FaceU"
+    ]
+  },
+  {
+    "original_name": "Jianying",
+    "market": "china",
+    "display_name": "剪映 (Jianying)",
+    "aliases": [
+      "剪映专业版",
+      "CapCut"
+    ]
+  },
+  {
+    "original_name": "Xingtu",
+    "market": "china",
+    "display_name": "醒图 (Xingtu)",
+    "aliases": [
+      "Xingtu Photo Editor",
+      "Hypic"
+    ]
+  },
+  {
+    "original_name": "Ulike (Qingyan Camera / 轻颜相机)",
+    "market": "china",
+    "display_name": "轻颜相机 (Qingyan Camera / Ulike)",
+    "aliases": [
+      "轻颜",
+      "Qingyan Camera",
+      "Ulike"
+    ]
+  },
+  {
+    "original_name": "Dreamina (Jimeng AI)",
+    "market": "china",
+    "display_name": "即梦 (Jimeng / Dreamina)",
+    "aliases": [
+      "即梦AI",
+      "Dreamina",
+      "Dreamina AI"
+    ]
+  },
+  {
+    "original_name": "Pippit",
+    "market": "global",
+    "display_name": "Pippit",
+    "aliases": [
+      "CapCut Commerce Pro",
+      "Pippit AI",
+      "Pippit: AI Video & Image Maker"
+    ]
+  },
+  {
+    "original_name": "SoundOn",
+    "market": "global",
+    "display_name": "SoundOn",
+    "aliases": [
+      "TikTok SoundOn",
+      "Sound On"
+    ]
+  },
+  {
+    "original_name": "Soda Music",
+    "market": "china",
+    "display_name": "汽水音乐 (Soda Music)",
+    "aliases": [
+      "Qishui Music"
+    ]
+  },
+  {
+    "original_name": "Doubao",
+    "market": "china",
+    "display_name": "豆包 (Doubao)",
+    "aliases": [
+      "云雀",
+      "Cloud Lark",
+      "Cici",
+      "Dola"
+    ]
+  },
+  {
+    "original_name": "Coze",
+    "market": "china",
+    "display_name": "扣子 (Coze)",
+    "aliases": [
+      "Coze Studio",
+      "Coze Space",
+      "扣子空间"
+    ]
+  },
+  {
+    "original_name": "ChitChop",
+    "market": "global",
+    "display_name": "ChitChop",
+    "aliases": [
+      "ChitChop - 200+ AI bots",
+      "ChitChop: AI Tools and Bots"
+    ]
+  },
+  {
+    "original_name": "Trae",
+    "market": "global",
+    "display_name": "Trae",
+    "aliases": [
+      "Trae IDE",
+      "Trae AI",
+      "MarsCode"
+    ]
+  },
+  {
+    "original_name": "PixelDance",
+    "market": "china",
+    "display_name": "PixelDance (豆包-PixelDance)",
+    "aliases": [
+      "Doubao-PixelDance",
+      "Make Pixels Dance"
+    ]
+  },
+  {
+    "original_name": "ByteDance Seed (Seed-OSS / Seedream / Seedance / Doubao-Seed)",
+    "market": "global",
+    "display_name": "ByteDance Seed",
+    "aliases": [
+      "Doubao-Seed",
+      "Seed-OSS",
+      "Seedream",
+      "Seedance"
+    ]
+  },
+  {
+    "original_name": "Feishu (China)",
+    "market": "china",
+    "display_name": "飞书 (Feishu)",
+    "aliases": [
+      "Feishu",
+      "Lark"
+    ]
+  },
+  {
+    "original_name": "Volcano Engine",
+    "market": "china",
+    "display_name": "火山引擎 (Volcano Engine)",
+    "aliases": [
+      "Volcengine",
+      "VolcEngine",
+      "Volc Engine"
+    ]
+  },
+  {
+    "original_name": "BytePlus",
+    "market": "global",
+    "display_name": "BytePlus",
+    "aliases": []
+  },
+  {
+    "original_name": "Pangle",
+    "market": "global",
+    "display_name": "Pangle",
+    "aliases": [
+      "穿山甲",
+      "Chuanshanjia",
+      "TikTok Audience Network"
+    ]
+  },
+  {
+    "original_name": "Fanqie Novel",
+    "market": "china",
+    "display_name": "番茄小说 (Fanqie Novel)",
+    "aliases": [
+      "Tomato Novel",
+      "番茄免费小说"
+    ]
+  },
+  {
+    "original_name": "Fanqie Changting",
+    "market": "china",
+    "display_name": "番茄畅听 (Fanqie Changting)",
+    "aliases": [
+      "Tomato Audiobooks",
+      "Tomato Audio"
+    ]
+  },
+  {
+    "original_name": "Hongguo Short Drama",
+    "market": "china",
+    "display_name": "红果短剧 (Hongguo Short Drama)",
+    "aliases": [
+      "Red Fruit Short Drama",
+      "红果免费短剧"
+    ]
+  },
+  {
+    "original_name": "Douyin Pay",
+    "market": "china",
+    "display_name": "抖音支付 (Douyin Pay)",
+    "aliases": [
+      "DouPay"
+    ]
+  },
+  {
+    "original_name": "TikTok Shop",
+    "market": "global",
+    "display_name": "TikTok Shop",
+    "aliases": [
+      "TikTok Shop Seller Center",
+      "TikTok Shopping",
+      "Tokopedia"
+    ]
+  },
+  {
+    "original_name": "Douyin E-commerce",
+    "market": "china",
+    "display_name": "抖音电商 (Douyin E-commerce)",
+    "aliases": [
+      "抖店",
+      "Doudian",
+      "抖音商城",
+      "Douyin Mall"
+    ]
+  },
+  {
+    "original_name": "Dongchedi",
+    "market": "china",
+    "display_name": "懂车帝 (Dongchedi)",
+    "aliases": [
+      "Dcar",
+      "DCar"
+    ]
+  },
+  {
+    "original_name": "One Piece: Fighting Path",
+    "market": "china",
+    "display_name": "航海王热血航线 (One Piece: Fighting Path)",
+    "aliases": [
+      "One Piece: The Voyage"
+    ]
+  },
+  {
+    "original_name": "花亦山心之月 (Hua Yi Shan Xin Zhi Yue / The Moonlit Oath)",
+    "market": "china",
+    "display_name": "花亦山心之月 (The Moonlit Oath)",
+    "aliases": [
+      "The Moonlit Oath",
+      "The Moonlit Oath | SEA"
+    ]
+  }
+]

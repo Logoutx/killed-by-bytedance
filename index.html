@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>Killed by ByteDance — the ByteDance product graveyard</title>
+  <meta name="description" content="A bilingual graveyard of dead and discontinued ByteDance apps, games and hardware — and the App Store publisher shells they were hidden behind." />
+  <meta name="theme-color" content="#fcfbf7" />
+  <meta property="og:title" content="Killed by ByteDance" />
+  <meta property="og:description" content="A graveyard of dead ByteDance apps, games and hardware — and the App Store shells behind them." />
+  <meta property="og:type" content="website" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css?v=5014e72e" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23fcfbf7'/%3E%3Crect x='34' y='10' width='32' height='80' fill='%23ff4f12'/%3E%3C/svg%3E" />
+</head>
+<body>
+  <div class="app-shell">
+    <div class="main-shell">
+      <header class="app-header">
+        <div class="title-block">
+          <h1 data-i18n="title">Killed by ByteDance</h1>
+        </div>
+        <div class="lang-toggle" role="group" aria-label="Language / 语言">
+          <button class="lang-btn" data-lang="zh" type="button">中</button>
+          <button class="lang-btn active" data-lang="en" type="button">EN</button>
+        </div>
+      </header>
+
+      <!-- Filter strip -->
+      <section class="filter-strip" id="filter-strip">
+        <div class="filter-title"><span data-i18n="filter">Filter</span></div>
+        <label class="select-control">
+          <span data-i18n="type">Type</span>
+          <div class="select-shell">
+            <select id="f-type" aria-label="Filter by type"></select>
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </div>
+        </label>
+        <label class="select-control">
+          <span data-i18n="status">Status</span>
+          <div class="select-shell">
+            <select id="f-status" aria-label="Filter by status"></select>
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </div>
+        </label>
+        <label class="select-control compact">
+          <span data-i18n="sort">Sort</span>
+          <div class="select-shell">
+            <select id="f-sort" aria-label="Sort"></select>
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 9 6 6 6-6"/></svg>
+          </div>
+        </label>
+        <label class="search-control">
+          <span data-i18n="search">Search</span>
+          <div class="search-shell">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+            <input id="search" type="search" autocomplete="off" />
+          </div>
+        </label>
+        <button class="text-button" id="clear-filters" type="button" data-i18n="reset">Reset</button>
+      </section>
+
+      <!-- Content -->
+      <main class="list-column" id="list-column">
+        <div class="list-head" id="list-head"></div>
+        <div id="list"></div>
+        <p id="empty" class="empty" hidden></p>
+      </main>
+
+      <!-- About, folded into a page footnote -->
+      <footer class="site-footer" id="site-footer">
+        <div class="footnote">
+          <span class="fn-index">※</span>
+          <div>
+            <p id="fn-about"></p>
+            <p class="fn-credit">Build by <a href="https://github.com/Logoutx/killed-by-bytedance" target="_blank" rel="noopener">Logout via Claude</a></p>
+            <p class="fn-meta"><span id="fn-meta"></span> · <a href="data/records_final.json" download id="fn-download"></a></p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <div id="modal-root" hidden></div>
+
+  <script src="data.js?v=a2fd0942"></script>
+  <script src="app.js?v=8b93f5e2"></script>
+</body>
+</html>

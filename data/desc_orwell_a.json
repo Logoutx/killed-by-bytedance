@@ -1,0 +1,210 @@
+[
+  {
+    "original_name": "TopBuzz",
+    "description": "ByteDance's overseas news and video app, the English-language Toutiao. An early pre-TikTok bet, it shut in 2020 as users drained away."
+  },
+  {
+    "original_name": "BuzzVideo",
+    "description": "ByteDance's video app, launched in Japan in 2016 and renamed from TopBuzz Video in 2018. TikTok buried it; ByteDance closed it in 2022."
+  },
+  {
+    "original_name": "Vigo Video",
+    "description": "ByteDance's overseas app for 15-second clips, built from its Hypstar and Flipagram buys. ByteDance closed it in 2020 and moved users to TikTok."
+  },
+  {
+    "original_name": "Flipagram",
+    "description": "A US app for making music videos from photos and clips, an early TikTok forerunner. ByteDance's Toutiao bought it in 2017 and folded it into Vigo Video."
+  },
+  {
+    "original_name": "Musical.ly",
+    "description": "The 15-second lip-sync app that defined teen short video before TikTok. ByteDance bought it in 2017 and merged its ~100M users into TikTok in 2018."
+  },
+  {
+    "original_name": "Live.ly",
+    "description": "Musical.ly's live-streaming app for broadcasting video and earning gifts. ByteDance closed it in 2018 and folded the streaming into Musical.ly."
+  },
+  {
+    "original_name": "News Republic",
+    "description": "A French-built global news app drawing on thousands of publishers. Cheetah Mobile then ByteDance owned it; ByteDance quietly closed it in 2021."
+  },
+  {
+    "original_name": "BaBe (Baca Berita)",
+    "description": "Indonesia's top news app, pulling stories from hundreds of outlets. ByteDance, its owner from 2018, closed it in 2022 and moved users to Helo."
+  },
+  {
+    "original_name": "Resso",
+    "description": "ByteDance's social music app for emerging markets, built around scrolling lyrics. Folded into TikTok Music abroad; India pulled it in 2024 after a data probe."
+  },
+  {
+    "original_name": "TikTok Music",
+    "description": "ByteDance's paid music service and Resso's successor, tied to TikTok. ByteDance closed it after 16 months to steer listeners to Spotify and Apple Music."
+  },
+  {
+    "original_name": "Helo",
+    "description": "ByteDance's social app for India, sharing memes and Bollywood clips in 14-plus languages. India banned it in 2020; ByteDance killed it in 2021 when it quit India."
+  },
+  {
+    "original_name": "LetsChat",
+    "description": "ByteDance's light WhatsApp rival for young Africans. After three years and ~7M downloads it never escaped WhatsApp; ByteDance closed it in 2024."
+  },
+  {
+    "original_name": "TikTok Notes",
+    "description": "TikTok's photo-and-text app, a grid-feed Instagram rival. Tested only in Canada, Australia and Vietnam, it closed in 2025; ByteDance pushed users to Lemon8."
+  },
+  {
+    "original_name": "8th Note Press",
+    "description": "ByteDance's US book imprint, built to sell #BookTok romance and YA. After ~2 years and 30-odd titles it barely used its TikTok reach and closed in 2025."
+  },
+  {
+    "original_name": "Pixsoul",
+    "description": "ByteDance's camera app turning selfies into 3D avatars. Launched in Southeast Asia in 2021, it drew little interest; ByteDance dropped it by early 2022."
+  },
+  {
+    "original_name": "TikTok Lite Rewards",
+    "description": "A watch-to-earn feature in TikTok Lite paying users points to watch and invite friends. EU regulators flagged addiction risks; ByteDance pulled it in 2024."
+  },
+  {
+    "original_name": "TikTok",
+    "description": "ByteDance's flagship global short-video app, launched in 2017 as China's Douyin abroad. Still alive; never shut down, though banned in India since 2020."
+  },
+  {
+    "original_name": "CapCut",
+    "description": "ByteDance's free short-video editor, born from China's Jianying. Still alive and among the world's most-used editors; only India has banned it outright."
+  },
+  {
+    "original_name": "Lemon8",
+    "description": "ByteDance's Xiaohongshu-style lifestyle app for beauty, food and travel. US stores pulled it in 2025 under PAFACA, then restored it; still live abroad."
+  },
+  {
+    "original_name": "Hypic",
+    "description": "ByteDance's free AI photo editor, the overseas twin of China's Xingtu. US stores pulled it under PAFACA in 2025 and never restored it; it lives on elsewhere."
+  },
+  {
+    "original_name": "Gauth",
+    "description": "ByteDance's AI homework-help app, launched in 2020 as a photo math solver and renamed Gauth in 2024. US stores pulled it under PAFACA in 2025, then restored it."
+  },
+  {
+    "original_name": "Lark",
+    "description": "ByteDance's work suite for chat, video, docs and calendar, China's Feishu abroad. US stores pulled it in 2025 under PAFACA, but it stays alive worldwide."
+  },
+  {
+    "original_name": "Marvel Snap",
+    "description": "A hit free-to-play card game by US studio Second Dinner, published worldwide by ByteDance's Nuverse. It lives on, but dropped ByteDance for Skystone Games in 2025."
+  },
+  {
+    "original_name": "Mobile Legends: Bang Bang",
+    "description": "A free-to-play 5v5 mobile MOBA, huge in Southeast Asia and Latin America. Not shut down: ByteDance agreed in 2026 to sell maker Moonton to Saudi Arabia for over $6B."
+  },
+  {
+    "original_name": "Whee",
+    "description": "ByteDance's close-friends photo app, like BeReal, run under TikTok in ~71 countries (not the US, UK or Europe) and later steered toward chat. Still live."
+  },
+  {
+    "original_name": "悟空问答 (Wukong Q&A)",
+    "description": "ByteDance's Quora/Zhihu-style Q&A app under Toutiao. Despite ~RMB 1bn in subsidies it never dented Zhihu; ByteDance closed it in 2021 and folded it into Toutiao."
+  },
+  {
+    "original_name": "好好学习 (Haohao Xuexi)",
+    "description": "ByteDance's paid-knowledge app for adult self-improvement, a Dedao rival. ByteDance closed it in 2021 after weak sales and no breakout courses."
+  },
+  {
+    "original_name": "多闪 (Duoshan)",
+    "description": "ByteDance's Snapchat-style messenger, one of three 2019 apps meant to topple WeChat. Tencent blocked it on day one; ByteDance folded it into Douyin in 2021."
+  },
+  {
+    "original_name": "飞聊 (Feiliao / Flipchat)",
+    "description": "ByteDance's messenger-plus-groups app, its second try against WeChat. Apple pulled it within two months; it never caught on, and ByteDance killed it in 2021."
+  },
+  {
+    "original_name": "心图 (Xintu)",
+    "description": "ByteDance's Instagram-style photo community, launched days after Duoshan in 2019. Starved of support, it never caught on; ByteDance pulled it within six months."
+  },
+  {
+    "original_name": "新草 (Xincao)",
+    "description": "Toutiao's Xiaohongshu-style lifestyle app where users found products but left to buy. ByteDance closed it after a year, having never dented Xiaohongshu."
+  },
+  {
+    "original_name": "值点 (Zhidian)",
+    "description": "ByteDance's discount shopping app inside Toutiao, built to answer Pinduoduo. Lacking WeChat Pay and group-buying, it flopped; ByteDance pulled it within a year."
+  },
+  {
+    "original_name": "内涵段子 (Neihan Duanzi)",
+    "description": "ByteDance's very first app (2012, before Toutiao), a hugely popular Chinese joke and meme community. China's regulator shut it for good in 2018 over vulgar content."
+  },
+  {
+    "original_name": "皮皮虾 (Pipixia)",
+    "description": "ByteDance's humor and witty-comment meme community, launched in 2018 to absorb users from the banned Neihan Duanzi. Still active and well-kept in 2026."
+  },
+  {
+    "original_name": "派对岛 (Party Island)",
+    "description": "ByteDance's first metaverse-style app, a 3D world where avatars hung out and joined virtual concerts. ByteDance pulled it in 2022 and shut it after cutting the team."
+  },
+  {
+    "original_name": "识区 (Shiqu)",
+    "description": "A ByteDance reading app that dropped its algorithm for human-curated interest circles. Invite-only and slow to grow, it closed eight months after launch."
+  },
+  {
+    "original_name": "半次元 (Banciyuan)",
+    "description": "A Chinese fan community for cosplayers, illustrators and fan-fiction writers, launched in 2014. ByteDance bought it in 2018 and shut it in 2023."
+  },
+  {
+    "original_name": "泡芙 (Paofu)",
+    "description": "ByteDance's women-focused beauty community, built by its acquired studio Bcy. Its first stab at copying Xiaohongshu, it flopped and was pulled within a year."
+  },
+  {
+    "original_name": "狸猫相机 (Limao Camera)",
+    "description": "A Chinese beauty-selfie camera with live smoothing, face-swaps and filters. ByteDance bought it in 2019, then took it offline as one camera too many."
+  },
+  {
+    "original_name": "抖音盒子 (Douyin Box)",
+    "description": "A fashion shopping app from Douyin's e-commerce arm, a Dewu/Xiaohongshu rival. ByteDance wound it down after ~9 months once Douyin's own shopping made it redundant."
+  },
+  {
+    "original_name": "GoGoKid (GoGoKid 在线英语)",
+    "description": "ByteDance's app pairing Chinese children with live North American English teachers, a VIPKid rival. China's 2021 \"double reduction\" crackdown killed it."
+  },
+  {
+    "original_name": "瓜瓜龙 (GuaGuaLong)",
+    "description": "ByteDance's cartoon-dragon tutoring app for kids 2-8. China's 2021 \"double reduction\" crackdown gutted it; ByteDance later shut it for good."
+  },
+  {
+    "original_name": "清北网校 (Qingbei Online School)",
+    "description": "ByteDance's K-12 live-tutoring app, built from its 2019 buy of Hua Luogeng Online School. China's 2021 \"double reduction\" ban gutted Dali Education and closed it."
+  },
+  {
+    "original_name": "学浪 (Xuelang)",
+    "description": "ByteDance's online-learning app, launched in 2020 and later rebuilt as a Douyin creator-course tool. The standalone app closed in 2024, absorbed into Douyin Classroom."
+  },
+  {
+    "original_name": "汤圆英语 (Tangyuan English)",
+    "description": "ByteDance's English app pairing a Douyin-style video feed with AI pronunciation scoring. Launched in 2019; China's 2021 \"double reduction\" crackdown closed it."
+  },
+  {
+    "original_name": "你拍一 (NPY)",
+    "description": "An animated math app teaching logic to kids 3-12 in small live classes. ByteDance bought it in 2020 and shut it in 2021 when \"double reduction\" outlawed it."
+  },
+  {
+    "original_name": "大力课堂 (Dali Ketang)",
+    "description": "ByteDance's K-12 live-tutoring app, built on the acquired Qingbei Online School. The Dali Ketang name lasted two weeks before reverting to Qingbei Wangxiao."
+  },
+  {
+    "original_name": "Snapsolve",
+    "description": "ByteDance's photo-homework app for Indian students in grades 6-12. ByteDance closed it in 2021 when it quit India's edtech market."
+  },
+  {
+    "original_name": "大力智能学习灯 (Dali Smart Learning Lamp)",
+    "description": "ByteDance's first hardware: a kids' smart desk lamp with a touchscreen and cameras for AI homework help. China's 2021 \"double reduction\" crackdown sank the line by 2022."
+  },
+  {
+    "original_name": "悟空搜索 (Wukong Search)",
+    "description": "ByteDance's ad-free search app, a Baidu challenger. It never dented Baidu and, in the post-ChatGPT rush, was renamed Xiao Wukong in 2023 and made an AI assistant."
+  },
+  {
+    "original_name": "闪电搜索 (Shandian Search)",
+    "description": "A short-lived ByteDance search app built on Toutiao's content. It lasted barely three months before stalling at its 2023 update and vanishing from China's app stores."
+  },
+  {
+    "original_name": "头条搜索 (Toutiao Search)",
+    "description": "ByteDance's web search app, built to challenge Baidu. It never displaced the leader and in 2023 became Youshi, a lifestyle community; web search lives on in Toutiao."
+  }
+]

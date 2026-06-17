@@ -63,19 +63,6 @@ python3 tools/build_data.py data/records_final.json --final
 To add or correct an entry, edit `data/records_final.json` and re-run the command.
 The publisher canonicalization rules live in `PUB_RULES` in `tools/build_data.py`.
 
-## Deploy
 
-Static — drop it on any host:
-
-- **GitHub Pages**: push the repo, enable Pages on the root.
-- **Cloudflare Pages**: connect the repo, build command empty, output dir `/`.
-
-## Caveats
-
-- Dates and details are best-effort, compiled from public reporting and store records;
-  some are estimates (flagged in each record's `notes`/`confidence`).
-- Publisher-shell attributions reflect what was findable; entities change over time and
-  the full chain is preserved in `developerEntities`.
-- Not affiliated with or endorsed by ByteDance.
 
 Inspired by [Killed by Google](https://killedbygoogle.com) by Cody Ogden.

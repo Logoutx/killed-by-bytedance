@@ -350,6 +350,64 @@ def main():
     except FileNotFoundError:
         pass
 
+    # --- SEO: crawlable pre-rendered cards (default graveyard view) + JSON-LD + sitemap ---
+    import datetime
+    def _esc(s):
+        return (str(s) if s is not None else "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
+    def seo_tone(r):
+        s = (r.get("status") or "").lower()
+        if r.get("stoppedUpdating") is False: return "alive"
+        if "alive" in s or "divested" in s: return "alive"
+        if "acquired" in s and "shut" not in s: return "alive"
+        if "merged" in s: return "transformed"
+        return "gone"
+    TONE_COLOR = {"gone": "var(--red)", "transformed": "var(--blue)", "alive": "var(--green)"}
+    def st_label(s):
+        s = (s or "").lower()
+        for k, v in [("merged", "Merged"), ("rebranded", "Rebranded"), ("banned", "Banned"),
+                     ("divested", "Divested"), ("acquired-shut", "Shut down"), ("acquired", "Transferred"),
+                     ("alive", "Alive"), ("dead", "Dead"), ("discontinued", "Dead"), ("cancelled", "Cancelled")]:
+            if k in s: return v
+        return "Unknown"
+    TYPE_TAG = {"app": "APP", "game": "GAME", "service": "SVC", "hardware": "HW"}
+    cards = []
+    for r in out:
+        if seo_tone(r) == "alive":           # SSR the default graveyard view (no flash on hydrate)
+            continue
+        tn = seo_tone(r)
+        cards.append(
+            '<button class="grave-card" style="--status:%s"><span class="gc-top">'
+            '<span class="gc-name">%s</span><span class="gc-meta"><span class="type-tag">%s</span>'
+            '<span class="status-chip%s"><span class="mark"></span>%s</span></span></span>'
+            '<span class="gc-desc">%s</span></button>' % (
+                TONE_COLOR[tn], _esc(r.get("nameEn") or r.get("name")), TYPE_TAG.get(r.get("type"), "APP"),
+                (" is-alive" if tn == "alive" else ""), _esc(st_label(r.get("status"))), _esc(r.get("description") or "")))
+    ssr = '<div class="grave-grid">' + "".join(cards) + '</div>'
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "WebSite", "name": "Killed by ByteDance", "url": "https://killedbybytedance.com/",
+         "description": "A graveyard of dead and discontinued ByteDance apps, games and hardware, and the App Store publisher shells behind them.",
+         "inLanguage": ["en", "zh-CN"]},
+        {"@type": "ItemList", "name": "Killed by ByteDance — products tracked", "numberOfItems": len(out),
+         "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": (r.get("nameEn") or r.get("name") or "")}
+                             for i, r in enumerate(out)]}]}
+    ld_str = json.dumps(ld, ensure_ascii=False, separators=(",", ":"))
+    try:
+        html = open(index_path, encoding="utf-8").read()
+        html = re.sub(r'<!--SSR_START-->.*?<!--SSR_END-->',
+                      lambda m: '<!--SSR_START-->' + ssr + '<!--SSR_END-->', html, flags=re.S)
+        html = re.sub(r'(<script type="application/ld\+json" id="ld">).*?(</script>)',
+                      lambda m: m.group(1) + ld_str + m.group(2), html, flags=re.S)
+        open(index_path, "w", encoding="utf-8").write(html)
+        print("injected SSR (%d cards) + JSON-LD" % len(cards))
+    except FileNotFoundError:
+        pass
+    sm = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+          '  <url><loc>https://killedbybytedance.com/</loc><lastmod>%s</lastmod>'
+          '<changefreq>weekly</changefreq><priority>1.0</priority></url>\n</urlset>\n'
+          % datetime.date.today().isoformat())
+    open(os.path.join(PROJECT, "sitemap.xml"), "w", encoding="utf-8").write(sm)
+
     def in_graveyard(r):                   # mirrors tone() in app.js
         s = (r.get("status") or "").lower()
         if r.get("stoppedUpdating") is False:   # renamed-but-live, or banned only in some markets

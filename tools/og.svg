@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fcfbf7"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#ff4f12"/>
+  <text x="80" y="135" font-family="Menlo, monospace" font-size="30" letter-spacing="5" fill="#706d65">KILLED BY  /  BYTEDANCE GRAVEYARD</text>
+  <text x="74" y="290" font-family="Helvetica, Arial, sans-serif" font-size="118" font-weight="700" fill="#171714">Killed by</text>
+  <text x="74" y="410" font-family="Helvetica, Arial, sans-serif" font-size="118" font-weight="700" fill="#ff4f12">ByteDance</text>
+  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#4f4c45">A graveyard of dead ByteDance apps, games &amp; hardware.</text>
+  <text x="80" y="560" font-family="Menlo, monospace" font-size="28" fill="#706d65">207 products  ·  killedbybytedance.com</text>
+  <g transform="translate(885,150) scale(5.4)">
+    <path d="M25 4 L39 4 L53 24 L41 60 L23 60 L11 24 Z" fill="#ff4f12"/>
+    <path d="M29 14 h6 v23 h-6 z M21 22 h22 v6 h-22 z" fill="#fcfbf7"/>
+  </g>
+</svg>

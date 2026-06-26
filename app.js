@@ -7,7 +7,7 @@
   /* ───────────── i18n strings ───────────── */
   var L = {
     en: {
-      eyebrow: "", title: "Killed by ByteDance",
+      eyebrow: "", title: "Killed by ByteDance", tagline: "A graveyard of dead ByteDance apps, games & hardware.",
       filter: "Filter", type: "Type", status: "Status", sort: "Sort", search: "Search", reset: "Reset",
       searchPh: "Resso · 多闪 · Nuverse · India…",
       typeAll: "All types", typeApp: "Apps", typeGame: "Games", typeService: "Services", typeHardware: "Hardware",
@@ -18,7 +18,7 @@
       sDead: "Dead", sMerged: "Merged", sRebranded: "Rebranded", sBanned: "Banned", sDivested: "Divested", sShut: "Shut down", sAlive: "Alive", sTransferred: "Transferred", sUnknown: "Unknown",
       tApp: "App", tGame: "Game", tService: "Svc", tHardware: "HW",
       ltApp: "Application", ltGame: "Game", ltService: "Service", ltHardware: "Hardware",
-      killedAgo: function (x) { return "Killed <b>" + x + "</b> ago"; }, livesOn: "Lives on", lived: function (x) { return "Lived <b>" + x + "</b>"; }, active: "active",
+      killedAgo: function (x) { return "Killed <b>" + x + "</b> ago"; }, ranFor: function (x) { return "Ran for <b>" + x + "</b>"; }, livesOn: "Lives on", lived: function (x) { return "Lived <b>" + x + "</b>"; }, active: "active",
       recEvidence: "Record / Evidence", lType: "Type", lCategory: "Category", lRegion: "Region", lLaunched: "Launched", lKilled: "Killed", lLifespan: "Lifespan", lAppStore: "App Store ID", lRenamed: "Renamed", lStatus: "Status",
       secSummary: "Summary", secWhy: "Why it ended", secShells: "Publisher shells", secSources: "Cited sources",
       livesAs: function (s) { return "Lives on as " + s; }, renamedActive: "Renamed · still active", stillOperating: "Still operating",
@@ -30,7 +30,7 @@
       fnDownload: "Download records (JSON)"
     },
     zh: {
-      eyebrow: "", title: "Killed by ByteDance",
+      eyebrow: "", title: "Killed by ByteDance", tagline: "字节跳动已停运的应用、游戏与硬件墓地。",
       filter: "筛选", type: "类型", status: "状态", sort: "排序", search: "搜索", reset: "重置",
       searchPh: "Resso · 多闪 · 朝夕光年 · 印度…",
       typeAll: "全部类型", typeApp: "应用", typeGame: "游戏", typeService: "服务", typeHardware: "硬件",
@@ -41,7 +41,7 @@
       sDead: "已停运", sMerged: "已合并", sRebranded: "已改名", sBanned: "已封禁", sDivested: "已剥离", sShut: "已关停", sAlive: "存活中", sTransferred: "已转手", sUnknown: "未知",
       tApp: "应用", tGame: "游戏", tService: "服务", tHardware: "硬件",
       ltApp: "应用", ltGame: "游戏", ltService: "服务", ltHardware: "硬件",
-      killedAgo: function (x) { return x + "前停运"; }, livesOn: "仍在运营", lived: function (x) { return "存活 " + x; }, active: "运营中",
+      killedAgo: function (x) { return x + "前停运"; }, ranFor: function (x) { return "运行了<b>" + x + "</b>"; }, livesOn: "仍在运营", lived: function (x) { return "存活 " + x; }, active: "运营中",
       recEvidence: "记录 / 实证", lType: "类型", lCategory: "分类", lRegion: "地区", lLaunched: "上线", lKilled: "停运", lLifespan: "存活时长", lAppStore: "App Store ID", lRenamed: "改名", lStatus: "状态",
       secSummary: "简介", secWhy: "停运原因", secShells: "发行渠道", secSources: "引用来源",
       livesAs: function (s) { return "延续为 " + s; }, renamedActive: "已改名 · 仍在运营", stillOperating: "仍在运营",
@@ -94,6 +94,20 @@
     return Math.round(months / 12) + " " + t("yr");
   }
   function agoText(s) { var dt = parseDate(s); return dt ? diffText(dt, new Date()) : ""; }
+  function monthsBetween(a, b) { return (a && b) ? ((b.getUTCFullYear() - a.getUTCFullYear()) * 12 + (b.getUTCMonth() - a.getUTCMonth())) : -1; }
+  var CN = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八"];
+  function cnNum(n) { return (n >= 0 && n < CN.length) ? CN[n] : String(n); }
+  function durNum(n) { return n === 2 ? "两" : cnNum(n); } // 两年, not 二年, for durations
+  // fuzzy lifespan — "三年半 / 一年多 / 快五年 / 不到一年" (zh) · "~3.5 yr / 2+ yr / ~5 yr / under a year" (en)
+  function fuzzyDur(months) {
+    var zh = state.lang === "zh";
+    if (months < 12) return zh ? "不到一年" : "under a year";
+    var y = Math.floor(months / 12), r = months % 12;
+    if (r <= 1) return zh ? durNum(y) + "年" : y + " yr";
+    if (r <= 4) return zh ? durNum(y) + "年多" : y + "+ yr";
+    if (r <= 7) return zh ? durNum(y) + "年半" : "~" + y + ".5 yr";
+    return zh ? "快" + durNum(y + 1) + "年" : "~" + (y + 1) + " yr";
+  }
   function esc(s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); }
   // insert a thin space between a Chinese character and an adjacent digit (2018年8月 -> 2018 年 8 月)
   function pangu(s) {
@@ -162,9 +176,9 @@
     var tn = tone(r), col = TONE_COLOR[tn];
     var born = fmtDate(r.dateLaunched);
     var died = (tn === "alive") ? t("active") : (r.dateKilled ? fmtDate(r.dateKilled) : "—");
-    var lifespan = diffText(parseDate(r.dateLaunched), parseDate(r.dateKilled) || new Date());
+    var months = monthsBetween(parseDate(r.dateLaunched), parseDate(r.dateKilled) || new Date());
     var since = (tn === "alive") ? t("livesOn")
-      : (r.dateKilled ? t("killedAgo")(esc(agoText(r.dateKilled))) : (lifespan ? t("lived")(esc(lifespan)) : ""));
+      : (parseDate(r.dateLaunched) && months >= 0 ? t("ranFor")(fuzzyDur(months)) : "");
     return '' +
       '<button class="grave-card" data-id="' + r._id + '" style="--status:' + col + '">' +
         '<span class="gc-top">' +

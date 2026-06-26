@@ -1,4 +1,4 @@
-/* Killed by ByteDance — dataset (105 products).
+/* Killed by ByteDance — dataset (207 products).
    Source: the fully verified + polished research set. */
 window.GRAVEYARD = [
   {
@@ -120,6 +120,129 @@ window.GRAVEYARD = [
       "https://pandaily.com/byte-dance-s-overseas-ai-assistant-dola-surpasses-10-million-daily-active-users",
       "https://www.samenacouncil.org/samena_daily_news?news=108914",
       "https://www.facebook.com/DolaAIofficial/posts/-big-news-cici-is-now-dolaweve-rebranded-same-cici-you-love-just-with-a-new-name/122256833048184735/"
+    ]
+  },
+  {
+    "name": "番茄音乐 (Fanqie Music (Tomato Music))",
+    "nameEn": "Fanqie Music (Tomato Music)",
+    "nameZh": "番茄音乐",
+    "aliases": [
+      "Fanqie Music",
+      "Tomato Music",
+      "番茄畅听音乐版",
+      "Fanqie Changting Music Edition",
+      "番茄音乐（原畅听音乐）"
+    ],
+    "type": "app",
+    "category": "Music streaming (free, ad/coin-supported",
+    "categoryZh": "音乐流媒体（免费，广告/金币支撑；下沉市场）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-11",
+    "dateKilled": "2025-11",
+    "status": "rebranded",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Zhending Technology (臻鼎)",
+    "developerEntities": [
+      "北京臻鼎科技有限公司 (Beijing Zhending Technology Co., Ltd.) — ByteDance-affiliated entity; package name com.xs.fm.lite",
+      "ByteDance (字节跳动)",
+      "北京臻鼎科技有限公司 / Beijing Zhending Technology",
+      "Douyin / Fanqie (番茄) product family"
+    ],
+    "appStoreId": "",
+    "description": "ByteDance's free, ad- and coin-supported music streaming app. It launched in November 2022 as 番茄畅听音乐版 (a music module within the Fanqie audio platform) and was upgraded into a standalone app named 番茄音乐 in November 2025.",
+    "descZh": "字节跳动推出的一款免费、以广告和金币模式支撑的音乐流媒体应用。它于 2022 年 11 月以“番茄畅听音乐版”（番茄音频平台内的一个音乐模块）形式上线，并在 2025 年 11 月升级为名为“番茄音乐”的独立应用。它面向下沉市场和年长用户（超 40% 为 60 岁以上），主打经典老歌、广场舞音乐和 TikTok 式的滑动信息流，与字节跳动面向更年轻／高端用户的汽水音乐区别开来。",
+    "killedReason": "Not shut down — the original 番茄畅听音乐版 brand was retired and upgraded/rebranded into the standalone 番茄音乐 app in November 2025. The app itself remains live as of mid-2026 (v6.5.2.32, updated 2026-06-11).",
+    "reasonZh": "并未被关停——原“番茄畅听音乐版”品牌被弃用，并于 2025 年 11 月升级／更名为独立应用“番茄音乐”。截至 2026 年年中该应用仍在运营（v6.5.2.32，更新于 2026 年 6 月 11 日）。",
+    "link": "https://finance.sina.cn/tech/csj/2022-11-15/detail-imqqsmrp6213678.d.html",
+    "sources": [
+      "https://finance.sina.cn/tech/csj/2022-11-15/detail-imqqsmrp6213678.d.html",
+      "https://www.21jingji.com/article/20260210/herald/daa80233c02c81785b8712f53c7c1de0.html",
+      "https://36kr.com/p/3671655534896007",
+      "https://sj.qq.com/appdetail/com.xs.fm.lite",
+      "https://www.woshipm.com/it/5679147.html"
+    ]
+  },
+  {
+    "name": "番茄畅听音乐版 (Fanqie Changting Music Edition / Tomato Audiobook Music Edition)",
+    "nameEn": "Fanqie Changting Music Edition / Tomato Audiobook Music Edition",
+    "nameZh": "番茄畅听音乐版",
+    "aliases": [
+      "番茄畅听音乐版",
+      "Tomato Audiobook Music Edition",
+      "番茄音乐（原畅听音乐）",
+      "Fanqie Yinyue (formerly Changting Music)",
+      "番茄音乐 (successor name)"
+    ],
+    "type": "app",
+    "category": "Music / free audio streaming",
+    "categoryZh": "音乐 / 免费音频流媒体",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-11",
+    "dateKilled": "2025-11",
+    "status": "rebranded",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Zhending Technology (臻鼎)",
+    "developerEntities": [
+      "北京臻鼎科技有限公司 (Beijing Zhending Technology Co., Ltd.); Android package com.xs.fm.lite — part of ByteDance's Fanqie/番茄 \"xs.fm\" app family, marketed as \"抖音旗下\" (a Douyin product)",
+      "字节跳动 ByteDance",
+      "北京臻鼎科技有限公司 (Beijing Zhending Technology Co., Ltd.)",
+      "番茄/Fanqie product line (抖音/Douyin)"
+    ],
+    "appStoreId": "",
+    "description": "ByteDance's free, ad/coin-supported music streaming app, launched mid-November 2022 as a music-focused spin-off of the 番茄畅听 (Tomato Audiobook) platform.",
+    "descZh": "字节跳动的免费、广告/金币支持的音乐流媒体应用，于 2022 年 11 月中旬作为番茄畅听平台的音乐版分支推出。它将抖音热门歌曲、广场舞音乐和老歌与有声书/小说结合，采用 TikTok 式上下滑动信息流，并提供可兑换现金的「听歌赚金币」奖励系统——明确瞄准下沉市场，与字节跳动更面向年轻人的汽水音乐形成对比。2025 年 11 月字节跳动将其升级/更名为独立应用番茄音乐，「番茄畅听音乐版」的品牌由此退役。",
+    "killedReason": "Not shut down — the product itself survives. The \"番茄畅听音乐版\" name/branding was retired in November 2025 when ByteDance upgraded and re-launched the app as an independent product, 番茄音乐 (Tomato Music, \"原畅听音乐\"), with a refreshed free+ads model and TikTok-style recommendation feed.",
+    "reasonZh": "并未关停——产品本身存续。「番茄畅听音乐版」的名称/品牌于 2025 年 11 月退役，当时字节跳动将该应用升级并重新发布为独立产品番茄音乐（「原畅听音乐」），采用焕新的免费＋广告模式和 TikTok 式推荐信息流。",
+    "link": "https://news.qq.com/rain/a/20221118A08MCG00",
+    "sources": [
+      "https://news.qq.com/rain/a/20221118A08MCG00",
+      "https://finance.sina.cn/2022-11-15/detail-imqmmthc4667156.d.html",
+      "https://36kr.com/p/3671655534896007",
+      "https://36kr.com/p/2009866462356869",
+      "https://sj.qq.com/appdetail/com.xs.fm.lite"
+    ]
+  },
+  {
+    "name": "抖音超市 (Douyin Supermarket)",
+    "nameEn": "Douyin Supermarket",
+    "nameZh": "抖音超市",
+    "aliases": [
+      "Douyin Chaoshi",
+      "抖音超市",
+      "Douyin Supermarket"
+    ],
+    "type": "service",
+    "category": "Self-operated grocery / FMCG e-commerce",
+    "categoryZh": "自营生鲜 / 快消品电商（即时零售）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2023-01-28",
+    "dateKilled": "2025-07",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Douyin E",
+    "developerEntities": [
+      "Douyin E-commerce (抖音电商), a ByteDance business unit",
+      "字节跳动 (ByteDance)",
+      "抖音电商 (Douyin E-commerce)"
+    ],
+    "appStoreId": "",
+    "description": "抖音超市 (Douyin Supermarket) was ByteDance's self-operated online grocery/FMCG channel inside Douyin E-commerce, modeled on JD Supermarket and Tmall Supermarket, using ByteDance-built warehouses and a mixed self-operated/consignment fulfillment model with same-day delivery.",
+    "descZh": "抖音超市是字节跳动在抖音电商内的自营生鲜/快消品渠道，仿照京东超市和天猫超市，采用字节跳动自建仓储和自营/代销混合的履约模式，提供当日达。在 2022 年年中开展城市试点后，约在 2023 年农历新年（约 1 月 28 日）全国上线；2025 年 7 月抖音宣布将把超市业务并入其即时零售服务「小时达」，以聚焦即时零售。",
+    "killedReason": "Standalone self-operated supermarket positioning was absorbed/reshaped into Douyin's instant-retail (quick commerce) service Xiaoshida (小时达) in July 2025, as ByteDance judged on-demand local delivery the more sustainable path than centralized-fulfillment traditional online retail.",
+    "reasonZh": "独立自营超市的定位于 2025 年 7 月被并入/重塑为抖音即时零售（快商业）服务「小时达」，因为字节跳动判断按需本地配送比中心化履约的传统线上零售更具可持续性。",
+    "link": "https://technode.com/2023/01/28/douyin-launches-online-supermarket-service-report/",
+    "sources": [
+      "https://technode.com/2023/01/28/douyin-launches-online-supermarket-service-report/",
+      "https://finance.sina.cn/tech/2023-01-29/detail-imycvxxr0367642.d.html",
+      "https://eu.36kr.com/en/p/3400775216859521",
+      "https://kr-asia.com/douyin-folds-supermarket-unit-into-xiaoshida-in-quick-commerce-push",
+      "https://daoinsights.com/news/douyin-supermarket-goes-live-foraying-into-fmcg-battlefield/"
     ]
   },
   {
@@ -274,6 +397,169 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "Melolo (Melolo - Short Dramas & Reels)",
+    "nameEn": "Melolo (Melolo - Short Dramas & Reels)",
+    "nameZh": "Melolo (Melolo - Short Dramas & Reels)",
+    "aliases": [
+      "Melolo - Short Dramas & Reels",
+      "Melolo Short Drama",
+      "Melolo短剧App",
+      "Melo.lo"
+    ],
+    "type": "app",
+    "category": "Short-drama (micro-drama) vertical-video",
+    "categoryZh": "短剧（微短剧）竖屏视频流媒体应用",
+    "region": "SE Asia-led (Indonesia, Philippines",
+    "regionZh": "东南亚主导（印尼、菲律宾、越南为主），全球",
+    "dateLaunched": "2024-11",
+    "dateKilled": "2025-01-19",
+    "status": "banned",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Poligon Pte. Ltd.",
+    "developerEntities": [
+      "POLIGON (Poligon Pte. Ltd., Singapore) — ByteDance overseas subsidiary; Android package com.worldance.drama (Worldance, ByteDance's overseas content arm)",
+      "Poligon Pte. Ltd. (Singapore)",
+      "Worldance (ByteDance overseas content arm)",
+      "ByteDance Ltd."
+    ],
+    "appStoreId": "",
+    "description": "Melolo is ByteDance's first overseas free short-drama (micro-drama) streaming app, launched mid-November 2024 in SE Asia (Indonesia, Philippines) and modeled on its China-domestic app Hongguo Short Drama.",
+    "descZh": "Melolo 是字节跳动首款海外免费短剧（微短剧）流媒体应用，于 2024 年 11 月中旬在东南亚（印尼、菲律宾）推出，参照其国内应用红果短剧打造。它由字节跳动新加坡子公司 Poligon 运营，提供竖屏、广告支持/免费的短剧，内置字幕，题材涵盖爱情、复仇、惊悚和奇幻。",
+    "killedReason": "Removed from the US App Store and Google Play on Jan 19, 2025 under the Protecting Americans from Foreign Adversary Controlled Applications Act (PAFACA), the same ByteDance app sweep that hit TikTok, CapCut, Lemon8, etc. The app itself was NOT shut down — it remains live and actively updated (last update Jan 21, 2026) outside the US, with 65M+ downloads concentrated in SE Asia.",
+    "reasonZh": "2025 年 1 月 19 日依据 PAFACA 法案从美国 App Store 和 Google Play 下架，与 TikTok、CapCut 等同属一波字节应用清理。应用本身并未关停——美国以外仍在线并更新，下载量超 6500 万，主要在东南亚。",
+    "link": "https://kr-asia.com/bytedance-takes-short-dramas-global-with-melolo-launch",
+    "sources": [
+      "https://kr-asia.com/bytedance-takes-short-dramas-global-with-melolo-launch",
+      "https://technode.com/2025/01/07/bytedance-to-expand-its-micro-drama-business-with-launch-of-melolo-app/",
+      "https://www.scmp.com/tech/big-tech/article/3293769/bytedances-latest-export-after-tiktok-gripping-chinese-short-dramas",
+      "https://www.newsweek.com/tiktok-ban-list-other-apps-bytedance-china-2017339",
+      "https://news.qq.com/rain/a/20250107A03Z1V00"
+    ]
+  },
+  {
+    "name": "火影忍者：巅峰对决 (Naruto: Peak Showdown)",
+    "nameEn": "Naruto: Peak Showdown",
+    "nameZh": "火影忍者：巅峰对决",
+    "aliases": [
+      "Naruto: Summit Showdown",
+      "Naruto: Peak Duel",
+      "火影忍者:巅峰对决"
+    ],
+    "type": "game",
+    "category": "Licensed 3D open-world action RPG mobile",
+    "categoryZh": "授权 3D 开放世界动作 RPG 手游（火影忍者 IP）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "",
+    "dateKilled": "2025",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "朝夕光年 (Chaoxi Lightyear / Nuverse), a ByteDance subsidiary — exclusive China distributor/publisher",
+      "雪彩网络 (Xuecai Network) — developer, went bankrupt",
+      "凯撒文化 / 凯撒(中国)文化股份有限公司 (Kaiser/Kaisa Culture, 002425.SZ, later ST凯文) — Naruto IP licensee",
+      "朝夕光年 / Chaoxi Lightyear (ByteDance subsidiary) — exclusive China publisher/distributor"
+    ],
+    "appStoreId": "",
+    "description": "An officially Naruto IP-licensed 3D open-world action RPG mobile game for which ByteDance's gaming subsidiary Chaoxi Lightyear (Nuverse) held exclusive China distribution/publishing rights.",
+    "descZh": "一款官方授权《火影忍者》IP 的 3D 开放世界动作 RPG 手游，字节跳动游戏子公司朝夕光年（Nuverse）持有其中国独家分发/发行权。它于 2020 年底获得进口游戏版号，积累了超过 870 万预约，但始终未能上线：开发先后受到新冠时期上海/苏州的延误，以及开发商雪彩网络破产的冲击，此后字节跳动于 2023 年 11 月解散其游戏部门。",
+    "killedReason": "Never released; developer 雪彩网络 (Xuecai Network) went bankrupt and progress stalled at 2023. ByteDance shuttered/divested its 朝夕光年 gaming business in Nov 2023, leaving no active publisher. IP holder 凯撒文化 (ST凯文) booked the project as an impairment write-down by July 2025.",
+    "reasonZh": "始终未发布；开发商雪彩网络破产，进度在 2023 年停滞。字节跳动于 2023 年 11 月关停/剥离其朝夕光年游戏业务，使该作再无在运营发行方。IP 持有方凯撒文化（ST 凯文）于 2025 年 7 月前将该项目计提为减值损失。",
+    "link": "https://baike.baidu.com/item/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%EF%BC%9A%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3/52430070",
+    "sources": [
+      "https://baike.baidu.com/item/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%EF%BC%9A%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3/52430070",
+      "https://syzs.qq.com/blog/news/20210421A04OF800",
+      "http://www.nbd.com.cn/rss/toutiao/articles/1907596.html",
+      "https://news.qq.com/rain/a/20230926A09FDR00",
+      "https://www.jiemian.com/article/7718992.html"
+    ]
+  },
+  {
+    "name": "无独立中文名（媒体直称 \"Mytopia 小说应用\"） (Mytopia (MyTopia - My Utopia of Novels / MyTopia Books))",
+    "nameEn": "Mytopia (MyTopia - My Utopia of Novels / MyTopia Books)",
+    "nameZh": "无独立中文名（媒体直称 \"Mytopia 小说应用\"）",
+    "aliases": [
+      "MyTopia - My Utopia of Novels",
+      "MyTopia Books",
+      "MyTopia Dramas",
+      "Mytopia 小说"
+    ],
+    "type": "app",
+    "category": "Web-novel / e-reading app (overseas, paid",
+    "categoryZh": "网络小说 / 电子阅读应用（海外，付费英语故事）",
+    "region": "US / UK / global overseas",
+    "regionZh": "美国 / 英国 / 全球海外（英语）",
+    "dateLaunched": "2021-11-11",
+    "dateKilled": "2024-20",
+    "status": "rebranded",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Poligon Pte. Ltd.",
+    "developerEntities": [
+      "POLIGON PTE. LTD. (Singapore reg. 202042231M, incorporated 2020-12-30) — confirmed ByteDance subsidiary; same entity publishes Fizzo, Fizzo Toon, Melolo",
+      "POLIGON PTE. LTD.",
+      "ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "Mytopia was ByteDance's overseas English-language web-novel reading app, launched Nov 11, 2021 (US/UK) under its Singapore subsidiary Poligon Pte. Ltd.",
+    "descZh": "Mytopia 是字节跳动的海外英语网络小说阅读应用，于 2021 年 11 月 11 日在美国/英国推出，隶属其新加坡子公司 Poligon Pte. Ltd.。在 Fizzo 于 2022 年放弃英语内容后，这些英语小说被迁移到 Mytopia 作为付费内容，使其成为字节跳动专门的英语付费小说平台。",
+    "killedReason": "The novels product never gained traction (under ~5k monthly downloads by 2024) and ByteDance pivoted to overseas short dramas: the very same app shell (iOS App Store ID 1587676837 and Android package ebooks.reader.mytopia) was rebranded from \"MyTopia - My Utopia of Novels\" to \"MyTopia Dramas\" and then to \"LimeShorts - Short Dramas & TV,\" ending Mytopia as a web-novel brand.",
+    "reasonZh": "小说业务始终未获关注（2024 年月下载量不足约 5000），字节跳动转向海外短剧：同一应用外壳先后更名为 MyTopia Dramas 和 LimeShorts - Short Dramas & TV，终结了 Mytopia 作为网络小说品牌的历史。",
+    "link": "https://pandaily.com/bytedance-bets-on-web-novel-business-launching-mytopia-application-overseas",
+    "sources": [
+      "https://pandaily.com/bytedance-bets-on-web-novel-business-launching-mytopia-application-overseas",
+      "https://www.3elife.net/Art/internet/202111/22/67352.html",
+      "https://www.ruancan.com/p/76327.html",
+      "https://fizzo.org/article/7136067911071825921",
+      "https://apps.apple.com/us/app/limeshorts-short-dramas-tv/id1587676837"
+    ]
+  },
+  {
+    "name": "火山写作 (Writingo (Volcano Writing))",
+    "nameEn": "Writingo (Volcano Writing)",
+    "nameZh": "火山写作",
+    "aliases": [
+      "Volcano Writing",
+      "Writingo",
+      "Huoshan Writing",
+      "火山写作 Writingo"
+    ],
+    "type": "app",
+    "category": "AI writing assistant",
+    "categoryZh": "AI 写作助手",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2023",
+    "dateKilled": "2024-12-31",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Volcano Engine (火山引擎)",
+    "developerEntities": [
+      "北京火山引擎科技有限公司 / writingo.net (Beijing Volcano Engine Technology Co., Ltd., a ByteDance subsidiary)",
+      "字节跳动 (ByteDance)",
+      "火山引擎 (Volcano Engine)",
+      "北京火山引擎科技有限公司 (Beijing Volcano Engine Technology Co., Ltd.)",
+      "writingo.net"
+    ],
+    "appStoreId": "",
+    "description": "火山写作 (Writingo) was ByteDance's free AI writing assistant for Chinese and English text, built on ByteDance's self-developed Yunque (云雀) large language model.",
+    "descZh": "火山写作（Writingo）是字节跳动推出的一款面向中英文文本的免费 AI 写作助手，基于字节跳动自研的云雀大语言模型构建。它以网页版加 Chrome/Edge 浏览器扩展的形式发布，提供文章生成、全文润色、改写、选题创意和联网写作等功能。",
+    "killedReason": "Consolidated into ByteDance's flagship Doubao (豆包) assistant: its AI/LLM-dependent features (AI writing, full-text polishing, topic deep-dive) were shut off on 2024-09-13, and the standalone web page fully closed on 2024-12-31, auto-redirecting users to Doubao's \"帮我写作\" (Help Me Write) module.",
+    "reasonZh": "被整合进字节跳动旗舰助手豆包：其依赖 AI/大模型的功能（AI 写作、全文润色、选题深挖）于 2024 年 9 月 13 日关闭，独立网页于 2024 年 12 月 31 日全面停运，并自动将用户跳转至豆包的“帮我写作”模块。",
+    "link": "https://ai-bot.cn/sites/957.html",
+    "sources": [
+      "https://ai-bot.cn/sites/957.html",
+      "https://chromewebstore.google.com/detail/%E7%81%AB%E5%B1%B1%E5%86%99%E4%BD%9C-writingo%EF%BC%9A%E5%85%8D%E8%B4%B9%E7%9A%84%E4%B8%AD%E8%8B%B1%E6%96%87%E5%86%99%E4%BD%9C%E5%8A%A9%E6%89%8B/jmfpofgbfdbigfljjiehacgdaeamjkoi",
+      "https://www.niutoushe.com/lives/huoshanxiezuofuwuzhenghezhidoubaopingtaiyuanyouzhandianjijiangguanting",
+      "https://baike.baidu.com/item/%E7%81%AB%E5%B1%B1%E5%86%99%E4%BD%9C/63341209",
+      "https://chrome-stats.com/d/jmfpofgbfdbigfljjiehacgdaeamjkoi"
+    ]
+  },
+  {
     "name": "TikTok Music",
     "nameEn": "TikTok Music",
     "nameZh": "TikTok Music",
@@ -348,6 +634,49 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "东方IC（后升级为 IC photo） (Oriental IC / IC photo)",
+    "nameEn": "Oriental IC / IC photo",
+    "nameZh": "东方IC（后升级为 IC photo）",
+    "aliases": [
+      "Oriental IC",
+      "Dongfang IC",
+      "IC photo",
+      "东方IC",
+      "上海映脉文化传播"
+    ],
+    "type": "service",
+    "category": "Stock photography / commercial image",
+    "categoryZh": "图库摄影 / 商业图片授权",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2000",
+    "dateKilled": "2024-10",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology (Toutiao)",
+    "developerEntities": [
+      "ByteDance (acquired via Toutiao 2016); operating entity 上海映脉文化传播有限公司, 95% controlled by 图虫网络 / 5% by 上海东方网股份有限公司",
+      "字节跳动 ByteDance",
+      "今日头条 Toutiao",
+      "图虫网络 Tuchong Network",
+      "上海映脉文化传播有限公司"
+    ],
+    "appStoreId": "",
+    "description": "东方IC (Oriental IC), founded 2000, was a Chinese commercial image-licensing agency (representing international agencies including Magnum Photos). ByteDance/Toutiao acquired it via a 2016 strategic investment, folding it under its Tuchong equity; the brand was upgraded to \"IC photo\" in 2019.",
+    "descZh": "东方 IC 创立于 2000 年，是一家中国商业图片授权机构（代理包括玛格南图片社在内的多家国际机构）。字节跳动/今日头条于 2016 年通过战略投资将其收购，归入图虫股权之下；该品牌于 2019 年升级为「IC photo」。它是一个付费的图片/编辑类图库，区别于图虫的摄影师社区，并于 2024 年 10 月与图虫一同被出售给即时设计。",
+    "killedReason": "As ByteDance pivoted from the text-image era to short video (Douyin) after 2017, the image-copyright business became marginal, and AIGC text-to-image further eroded the stock-photo market. In Oct 2024 ByteDance sold off Tuchong and its team (which controlled IC photo's operating entity 上海映脉文化传播, 95%) to design-tool company 即时设计 (Jishi Design), divesting the entire image-licensing business.",
+    "reasonZh": "随着字节 2017 年后从图文转向短视频（抖音），图片版权业务边缘化，AIGC 文生图进一步侵蚀图库市场。2024 年 10 月字节将图虫及其团队（持 IC photo 运营主体上海映脉 95% 股份）售予即时设计，剥离整个图片授权业务。",
+    "link": "https://news.qq.com/rain/a/20231108A05WD800",
+    "sources": [
+      "https://news.qq.com/rain/a/20231108A05WD800",
+      "https://news.qq.com/rain/a/20241104A09IG300",
+      "https://www.jiemian.com/article/11833717.html",
+      "https://finance.sina.com.cn/tech/discovery/2024-10-17/doc-incsvscz9681612.shtml",
+      "https://baike.baidu.com/item/%E4%B8%9C%E6%96%B9IC/581345"
+    ]
+  },
+  {
     "name": "Dragonheir: Silent Gods",
     "nameEn": "Dragonheir: Silent Gods",
     "nameZh": "龙息：神寂",
@@ -384,6 +713,50 @@ window.GRAVEYARD = [
       "https://www.cnn.com/2023/11/28/tech/bytedance-layoffs-video-gaming-intl-hnk",
       "https://variety.com/2023/digital/news/tiktok-bytedance-games-nuverse-1235810642/",
       "https://www.shacknews.com/article/137889/marvel-snap-nuverse-winding-down-bytedance-tiktok"
+    ]
+  },
+  {
+    "name": "河马爱学（更名为豆包爱学） (Hippo Aixue (renamed Doubao Aixue))",
+    "nameEn": "Hippo Aixue (renamed Doubao Aixue)",
+    "nameZh": "河马爱学（更名为豆包爱学）",
+    "aliases": [
+      "Hippo Aixue",
+      "Doubao Aixue",
+      "河马爱学",
+      "豆包爱学",
+      "Hema Aixue"
+    ],
+    "type": "app",
+    "category": "AI education / homework-help app",
+    "categoryZh": "AI 教育 / 作业辅导应用",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2024-01",
+    "dateKilled": "2024-09",
+    "status": "rebranded",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Dali Education (大力教育)",
+    "developerEntities": [
+      "上海仁静信息技术有限公司 (Shanghai Renjing Information Technology Co.), controlled by 北京比特智学科技有限公司 — a ByteDance/Dali Education subsidiary",
+      "字节跳动 ByteDance",
+      "大力教育 Dali Education",
+      "大力教育 ZERO 团队 (ZERO team)",
+      "上海仁静信息技术有限公司 Shanghai Renjing Information Technology",
+      "北京比特智学科技有限公司 Beijing Bite Zhixue Technology"
+    ],
+    "appStoreId": "",
+    "description": "河马爱学 (Hippo Aixue) was an AI-powered homework-help / study app launched by ByteDance's Dali Education (大力教育) ZERO team in January 2024, targeting K-12 students with photo-based question answering, homework/mental-math/essay grading and Q&A.",
+    "descZh": "河马爱学是字节跳动大力教育 ZERO 团队于 2024 年 1 月推出的一款 AI 驱动的作业辅导/学习应用，面向 K12 学生，提供拍照答题、作业/口算/作文批改和问答功能。在 ZERO 团队于 2024 年上半年并入豆包团队后，该应用于 2024 年 9 月更名为豆包爱学——成为首款冠以豆包品牌名的应用——并并入字节跳动的豆包 AI 产品矩阵。",
+    "killedReason": "The 河马爱学 brand was retired during a business restructuring: the Dali Education ZERO team was merged into the Doubao team in the first half of 2024, and the app was rebranded to 豆包爱学 (Doubao Aixue) and absorbed into the Doubao product matrix in September 2024. The product itself continues to operate under the new Doubao branding.",
+    "reasonZh": "河马爱学品牌在一次业务重组中退役：大力教育 ZERO 团队于 2024 年上半年并入豆包团队，该应用于 2024 年 9 月更名为豆包爱学并并入豆包产品矩阵。产品本身在新的豆包品牌下继续运营。",
+    "link": "https://36kr.com/p/2937295848544898",
+    "sources": [
+      "https://36kr.com/p/2937295848544898",
+      "https://www.ithome.com/0/794/002.htm",
+      "https://www.pingwest.com/w/298151",
+      "https://finance.sina.com.cn/2024-09-06/doc-incnfawq4750952.shtml",
+      "http://www.duozhi.com/industry/insight/2024090916584.shtml"
     ]
   },
   {
@@ -463,6 +836,257 @@ window.GRAVEYARD = [
       "https://www.sohu.com/a/794152366_100117963",
       "https://www.163.com/dy/article/J75JUVUQ0536W4EI.html",
       "https://finance.sina.com.cn/tech/roll/2024-07-19/doc-incervxa7773574.shtml"
+    ]
+  },
+  {
+    "name": "海绵音乐（原名海绵乐队） (Sponge Music (formerly Sponge Band))",
+    "nameEn": "Sponge Music (formerly Sponge Band)",
+    "nameZh": "海绵音乐（原名海绵乐队）",
+    "aliases": [
+      "Sponge Music",
+      "Sponge Band",
+      "Haimian Yinyue",
+      "Haimian Yuedui",
+      "海绵乐队",
+      "海绵音乐 - AI 为你写好歌"
+    ],
+    "type": "app",
+    "category": "AI music creation tool",
+    "categoryZh": "AI 音乐创作工具",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-05-16",
+    "dateKilled": "2024-07",
+    "status": "rebranded",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Yanxuan Technology Co., Ltd",
+    "developerEntities": [
+      "Beijing Yanxuan Technology Co., Ltd. (北京颜选科技有限公司), a wholly-owned ByteDance subsidiary (via Beijing Xingyun Chuangji Technology)",
+      "ByteDance (字节跳动)",
+      "Beijing Yanxuan Technology Co., Ltd. (北京颜选科技有限公司)",
+      "Beijing Xingyun Chuangji Technology Co., Ltd. (北京星云创迹科技有限公司)"
+    ],
+    "appStoreId": "",
+    "description": "A ByteDance mobile music-creation app first launched on 16 May 2022 as 海绵乐队 (Sponge Band), a recording-studio / vocal-optimization / one-click-Remix / auto-Mashup editing tool serving Soda Music and Douyin users.",
+    "descZh": "字节跳动旗下的一款移动音乐创作应用，最初于 2022 年 5 月 16 日以“海绵乐队”之名上线，是一款面向汽水音乐和抖音用户的录音棚／人声优化／一键 Remix／自动 Mashup 编辑工具。2024 年 6 至 8 月间，它更名并转型为“海绵音乐”，一款由字节跳动豆包音乐生成模型驱动的 AI 文本／歌词生成歌曲工具（对标 Suno），用户输入一句提示词、歌词或一张图片即可生成完整歌曲。",
+    "killedReason": "Not shut down — rebranded and repositioned. The original 海绵乐队 manual music-editing tool gained little traction; once ByteDance's Doubao music-generation model matured, the product was renamed 海绵音乐 in July 2024 (public launch Aug 2, 2024; closed beta from June 5, 2024) and re-focused on generative AI song creation to compete with Suno.",
+    "reasonZh": "并未被关停——而是更名并重新定位。原“海绵乐队”手动音乐编辑工具用户增长有限；待字节跳动豆包音乐生成模型成熟后，该产品于 2024 年 7 月更名为“海绵音乐”（6 月 5 日起内测，8 月 2 日公开上线），转向生成式 AI 歌曲创作，与 Suno 竞争。",
+    "link": "https://news.qq.com/rain/a/20240808A09YN100",
+    "sources": [
+      "https://news.qq.com/rain/a/20240808A09YN100",
+      "https://news.qq.com/rain/a/20240802A09PX900",
+      "https://36kr.com/p/2897891150600836",
+      "https://www.aibase.com/news/10724",
+      "https://www.aibase.com/news/10726"
+    ]
+  },
+  {
+    "name": "高能手办团 (Figure Story (JP) / Figure Fantasy (Global))",
+    "nameEn": "Figure Story (JP) / Figure Fantasy (Global)",
+    "nameZh": "高能手办团",
+    "aliases": [
+      "Figure Fantasy",
+      "フィギュアストーリー",
+      "Model Girls: AWAKE",
+      "高能手办团",
+      "Gaoneng Shoubantuan"
+    ],
+    "type": "game",
+    "category": "Figure-collecting idle gacha RPG",
+    "categoryZh": "手办收集放置类抽卡 RPG（动漫/手办主题）",
+    "region": "Overseas (Japan & Southeast Asia, the",
+    "regionZh": "海外（日本与东南亚，字节跳动/朝夕光年运营的版本）",
+    "dateLaunched": "2021-06-24",
+    "dateKilled": "2024-06-21",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "Nuverse / 朝夕光年 (Beijing Zhaoxi Guangnian Information Technology Co., ByteDance's indirect wholly-owned subsidiary) — Japan & SEA publisher only. Developer is the INDEPENDENT third party Reflex Fox Stu",
+      "Reflex Fox Studio (反射狐工作室)",
+      "Hangzhou Xinguang Liumi Network Technology Co. (杭州心光流美网络科技有限公司)",
+      "Nuverse / 朝夕光年 (ByteDance subsidiary, Japan & SEA publisher only)"
+    ],
+    "appStoreId": "",
+    "description": "高能手办团 (Figure Story in Japan, Figure Fantasy internationally) is a 3D figurine-collecting idle gacha RPG where players collect anime-style scale figures via blind-box gacha, view them with AR, and use them in grid-based strategic battles.",
+    "descZh": "高能手办团（日服为 Figure Story，国际版为 Figure Fantasy）是一款 3D 手办收集放置类抽卡 RPG，玩家通过盲盒抽卡收集动漫风格比例手办，用 AR 观赏，并在格子棋盘式策略战斗中使用它们。它由独立工作室 Reflex Fox Studio（隶属杭州新光流觅）开发；字节跳动游戏子公司朝夕光年仅作为日本和东南亚版本的发行/运营方，这些版本在字节跳动 2023 至 2024 年退出游戏期间被剥离/关停。",
+    "killedReason": "The Nuverse-operated Japan (and Southeast Asia) servers were shut down / divested as part of ByteDance's November 2023 decision to wind down its Nuverse game-publishing arm and exit gaming; the Japan server ended service 2024-06-21. The game itself was NOT killed — it is a third-party title that continues globally under its independent developer (China version still live; International version operated by the developer since May 2024; Japan version later remade/relaunched by others).",
+    "reasonZh": "朝夕光年运营的日本及东南亚服务器作为字节 2023 年 11 月退出游戏的一部分被关停/剥离，日服于 2024 年 6 月 21 日停服。游戏本身并未消亡——作为第三方作品在其独立开发商旗下继续全球运营（国服仍在线，国际版自 2024 年 5 月由开发商运营）。",
+    "link": "https://zh.wikipedia.org/zh-hans/%E9%AB%98%E8%83%BD%E6%89%8B%E5%8A%9E%E5%9B%A2",
+    "sources": [
+      "https://zh.wikipedia.org/zh-hans/%E9%AB%98%E8%83%BD%E6%89%8B%E5%8A%9E%E5%9B%A2",
+      "https://zh.wikipedia.org/zh-hans/%E5%BF%83%E5%85%89%E6%B5%81%E7%BE%8E",
+      "https://m.tgbus.com/chinajoy/news/161368",
+      "https://www.youxituoluo.com/527589.html",
+      "https://apps.qoo-app.com/en/app/17419"
+    ]
+  },
+  {
+    "name": "泡泡心选 / 爪爪心选 / 果冻心选 (Paopao Xinxuan / Zhuazhua Xinxuan / Guodong Xinxuan (Bubble / Paw Paw / Jelly Heart Select))",
+    "nameEn": "Paopao Xinxuan / Zhuazhua Xinxuan / Guodong Xinxuan (Bubble / Paw Paw / Jelly Heart Select)",
+    "nameZh": "泡泡心选 / 爪爪心选 / 果冻心选",
+    "aliases": [
+      "Paopao Xinxuan",
+      "Zhuazhua Xinxuan",
+      "Guodong Xinxuan",
+      "Bubble Heart Select",
+      "Paw Paw Heart Select",
+      "Jelly Heart Select"
+    ],
+    "type": "service",
+    "category": "Interactive drama / short drama (IAP",
+    "categoryZh": "互动剧 / 短剧（内购小程序）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2024-01",
+    "dateKilled": "2024-06-17",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "巨量引擎",
+    "developerEntities": [
+      "巨量引擎 (Ocean Engine), ByteDance's commercialization/advertising department",
+      "巨量引擎 / Ocean Engine (Juliang Engine)",
+      "字节跳动 / ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "A trio of in-app-purchase (IAP) interactive-drama mini-programs embedded inside the Douyin app, developed by ByteDance's commercialization unit Ocean Engine (巨量引擎) and launched in early 2024 to test paid interactive/branching short-drama content monetized via in-app \"看点\" credits and memberships.",
+    "descZh": "三款内嵌于抖音 App 的内购（IAP）互动剧小程序，由字节跳动商业化部门巨量引擎开发，于 2024 年初推出，用于测试通过应用内「看点」积分和会员变现的付费互动/分支短剧内容。三款产品于 2024 年 6 月 17 日一同关停——距上线还不到半年——未使用的积分余额和剩余会员时长按原支付方式退还给用户。",
+    "killedReason": "Weak traction/monetization: even the best-performing (泡泡心选) showed only ~24,000 recent users while 果冻心选 had ~1,068; unclear profit model and high content cost led ByteDance to exit the IAP interactive-drama format while keeping its free short-drama bets (Hongguo, Pipixia Lite).",
+    "reasonZh": "关注度/变现能力不足：即便表现最好的泡泡心选，近期用户也仅约 24000 人，而果冻心选仅约 1068 人；盈利模式不清晰加上内容成本高昂，促使字节跳动退出内购互动剧形式，同时保留其免费短剧布局（红果、皮皮虾 Lite）。",
+    "link": "https://m.163.com/dy/article/J4J8IC8E0511QVBU.html",
+    "sources": [
+      "https://m.163.com/dy/article/J4J8IC8E0511QVBU.html",
+      "https://www.donews.com/news/detail/4/4297144.html",
+      "https://36kr.com/p/2823915888937225",
+      "https://news.qq.com/rain/a/20240617A091HI00",
+      "https://www.jiemian.com/article/11296387.html"
+    ]
+  },
+  {
+    "name": "住小帮 (Zhu Xiaobang)",
+    "nameEn": "Zhu Xiaobang",
+    "nameZh": "住小帮",
+    "aliases": [
+      "Zhuxiaobang",
+      "Zhu Xiao Bang",
+      "生活始末 (former name)"
+    ],
+    "type": "app",
+    "category": "Home decoration / interior-design content",
+    "categoryZh": "家装／室内设计内容与服务社区",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2018-09",
+    "dateKilled": "2024-05-13",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "北京微字节网络科技有限公司",
+    "developerEntities": [
+      "北京微字节网络科技有限公司 (Beijing Weizijie Network Technology Co., Ltd.) — ByteDance-controlled entity, Zhang Yiming ultimate beneficiary ~98.81%; business also tied to 北京有竹居网络技术有限公司, a wholly-owned Douyin Group",
+      "北京微字节网络科技有限公司 (Beijing Weizijie Network Technology)",
+      "字节跳动 / 抖音集团 (ByteDance / Douyin Group)",
+      "北京有竹居网络技术有限公司 (Beijing Youzhuju Network Technology)"
+    ],
+    "appStoreId": "",
+    "description": "住小帮 (Zhu Xiaobang) was ByteDance's one-stop home-decoration and interior-furnishing content-and-services platform, launched September 2018 (originally named 生活始末).",
+    "descZh": "住小帮是字节跳动旗下的一站式家装与家居内容及服务平台，于 2018 年 9 月上线（原名“生活始末”）。它汇集装修案例图库、预算工具、设计师、装修公司和家居创作者，依托抖音和今日头条的流量，并在 2023 年 9 月被升格为字节跳动／抖音集团官方的家装业务平台。",
+    "killedReason": "On 13 May 2024 ByteDance restructured its real-estate (幸福里 Xingfuli) and home-decoration (住小帮) businesses, merging them from standalone first-level departments into Douyin Local Life Services (抖音本地生活服务) as an industry vertical; the head, Zhu Shiyu, was reassigned to e-commerce. This followed the Feb 2024 suspension of the self-operated 住好家 decoration sub-brand and a broader pivot away from heavy self-operated home services toward a lighter local-life/CPS model.",
+    "reasonZh": "2024 年 5 月 13 日，字节跳动重组房产（幸福里）和家装（住小帮）业务，将其从独立一级部门合并进抖音本地生活服务，作为行业垂类，负责人朱时雨调往电商。此前自营装修子品牌“住好家”已于 2024 年 2 月暂停，整体转向更轻的本地生活/CPS 模式。",
+    "link": "https://finance.sina.com.cn/tech/roll/2023-09-25/doc-imznxkme8949725.shtml",
+    "sources": [
+      "https://finance.sina.com.cn/tech/roll/2023-09-25/doc-imznxkme8949725.shtml",
+      "https://news.qq.com/rain/a/20240513A09PNF00",
+      "https://finance.sina.cn/2024-05-13/detail-inavayke2110309.d.html",
+      "https://36kr.com/p/2775187637634177",
+      "https://www.guancha.cn/ChanJing/2021_10_22_611875.shtml"
+    ]
+  },
+  {
+    "name": "A-SOUL",
+    "nameEn": "A-SOUL",
+    "nameZh": "A-SOUL",
+    "aliases": [
+      "枝江娱乐 (Zhijiang Entertainment, operating team)",
+      "朝夕光年虚拟偶像 (Chaoxi Light Year virtual idol)",
+      "Project V",
+      "向晚/贝拉/嘉然/乃琳/珈乐 (Ava/Bella/Diana/Eileen/Carol)"
+    ],
+    "type": "service",
+    "category": "Virtual idol group / VTuber IP",
+    "categoryZh": "虚拟偶像团体 / VTuber IP（动作捕捉虚拟直播）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2020-11-23",
+    "dateKilled": "2024-04-19",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "朝夕光年 / Chaoxi Light Year (a.k.a. Nuverse), ByteDance's gaming & interactive entertainment subsidiary; IP held via 杭州看潮信息咨询有限公司, majority-owned by ByteDance wholly-owned subsidiary 北京游逸科技有限公司 (Beijing ",
+      "朝夕光年 (Chaoxi Light Year / Nuverse)",
+      "北京游逸科技有限公司 (Beijing Youyi Technology, ByteDance wholly-owned)",
+      "杭州看潮信息咨询有限公司 (copyright holder)",
+      "枝江娱乐 (Zhijiang Entertainment, operating team)",
+      "乐华娱乐 (Yuehua Entertainment, co-founder / artist-management partner)"
+    ],
+    "appStoreId": "",
+    "description": "A-SOUL was a five-member Chinese virtual idol / VTuber group (Ava, Bella, Carol, Diana, Eileen) co-created in November 2020 by ByteDance's gaming arm 朝夕光年 (Chaoxi Light Year, internationally branded Nuverse) and Yuehua Entertainment, with ByteDance as the actual controller providing the…",
+    "descZh": "A-SOUL 是一个由五名成员（嘉然、贝拉、珈乐、向晚、乃琳）组成的中国虚拟偶像/VTuber 团体，于 2020 年 11 月由字节跳动游戏部门朝夕光年与乐华娱乐共同打造，字节跳动作为实际控制方，提供动作捕捉技术、运营，并通过全资子公司持有 IP/版权。在字节跳动退出该业务之前，它曾是中国哔哩哔哩上最知名的虚拟偶像团体之一。",
+    "killedReason": "ByteDance divested the entire A-SOUL IP — including technology, code, copyrights, equipment, and domain names — selling it to partner Yuehua Entertainment (assets transferred to 尼斯未来/Nice Future) for ~RMB 30 million, announced April 19, 2024. ByteDance's broader retreat from virtual-idol/livestream-entertainment ventures (and earlier 2022 controversy over performer overwork / member Carol's hiatus) preceded the exit; member Ava also left as her voice actress declined the new Yuehua contract.",
+    "reasonZh": "字节将整个 A-SOUL IP（技术、代码、版权、设备、域名）以约 3000 万元售予合作方乐华娱乐（资产转入尼斯未来），2024 年 4 月 19 日宣布。此前字节已更广泛退出虚拟偶像/直播娱乐业务；成员向晚也因其声优拒签新乐华合约而离开。",
+    "link": "https://zh.wikipedia.org/zh-hans/A-SOUL",
+    "sources": [
+      "https://zh.wikipedia.org/zh-hans/A-SOUL",
+      "https://www.vrtuoluo.cn/539963.html",
+      "https://www.pingwest.com/a/246568",
+      "https://k.sina.com.cn/article_6012711797_16662b37501901876a.html",
+      "https://m.thepaper.cn/newsDetail_forward_27107166"
+    ]
+  },
+  {
+    "name": "摸摸鱼 (Momoyu)",
+    "nameEn": "Momoyu",
+    "nameZh": "摸摸鱼",
+    "aliases": [
+      "Momoyu",
+      "Momo Fish",
+      "MomoFish",
+      "摸摸鱼游戏平台"
+    ],
+    "type": "app",
+    "category": "Instant-play / casual mini-game platform",
+    "categoryZh": "即点即玩 / 休闲小游戏平台（游戏盒子）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-04",
+    "dateKilled": "2024-03-29",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Ohayoo",
+    "developerEntities": [
+      "ByteDance (字节跳动) — Android package com.moyu.wfy; carried Douyin-account login and hosted Ohayoo casual games",
+      "字节跳动 (ByteDance)",
+      "北京字节跳动",
+      "Ohayoo (字节跳动休闲游戏发行平台, supplied much of the game catalog)"
+    ],
+    "appStoreId": "",
+    "description": "摸摸鱼 (Momoyu) was ByteDance's casual / instant-play mini-game platform (\"game box\") launched in April 2021. Users played lightweight casual games and earned a virtual reward token called 小鱼币 (Xiaoyu coins / \"little fish coins\") by completing tasks (browsing/launching/rating games, joining player…",
+    "descZh": "摸摸鱼是字节跳动于2021年4月推出的休闲/即点即玩小游戏平台（“游戏盒子”）。用户玩轻量休闲游戏，并通过完成任务（浏览/启动/评价游戏、加入玩家群）赚取名为“小鱼币”的虚拟奖励代币，可兑换免广告权益及盲盒、扭蛋玩具等实物奖品；上线三个月内月活跃用户达约900万，主要靠游戏内广告变现，并曾有一个（后被放弃的）游戏主播/直播赞助计划。",
+    "killedReason": "Shut down March 29, 2024 (less than three years after launch) as part of ByteDance's broad retreat from gaming (layoffs/wind-down at Ohayoo and Nuverse/朝夕光年). Casual-game competition was fierce and monetization difficult; its streamer livestream-sponsorship program had effectively stalled by 2022. On shutdown the 小鱼币 redemption shop closed and unredeemed virtual assets were forfeited with no compensation.",
+    "reasonZh": "2024年3月29日关停（上线不足三年），系字节跳动全面收缩游戏业务（Ohayoo及朝夕光年裁员/收尾）的一部分。休闲游戏竞争激烈、变现困难；其主播直播赞助计划到2022年已基本停滞。关停时小鱼币兑换商城关闭，未兑换的虚拟资产被作废且无补偿。",
+    "link": "https://m.jiemian.com/article/10748991.html",
+    "sources": [
+      "https://m.jiemian.com/article/10748991.html",
+      "http://www.gamelook.com.cn/2021/04/437106/",
+      "https://news.qq.com/rain/a/20240130A05LK700",
+      "https://36kr.com/p/2627070593794311",
+      "https://www.donews.com/news/detail/8/3983331.html"
     ]
   },
   {
@@ -547,6 +1171,45 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "住好家 (Zhuhaojia)",
+    "nameEn": "Zhuhaojia",
+    "nameZh": "住好家",
+    "aliases": [
+      "Zhuhaojia",
+      "Zhu Hao Jia"
+    ],
+    "type": "service",
+    "category": "Home renovation / interior decoration",
+    "categoryZh": "家装／室内装修（自营）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-12",
+    "dateKilled": "2024-02",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "ByteDance",
+    "developerEntities": [
+      "ByteDance / Douyin home-renovation business (字节跳动 / 抖音家装业务平台)",
+      "字节跳动 (ByteDance)",
+      "抖音 (Douyin)",
+      "住小帮 (Zhuxiaobang) home-renovation platform"
+    ],
+    "appStoreId": "",
+    "description": "住好家 (Zhuhaojia) was ByteDance/Douyin's self-operated (自营) one-stop home-renovation service, offering whole-house design, standardized construction, and after-sales guarantees both online (within the 住小帮 app) and via an offline store in Beijing's Chaoyang district.",
+    "descZh": "住好家是字节跳动／抖音旗下的自营一站式家装服务，提供全屋设计、标准化施工和售后保障，既可线上（在住小帮应用内）也可通过位于北京朝阳区的线下门店办理。它于 2022 年 12 月从字节跳动家装平台住小帮中分拆为独立应用，2024 年 2 月停止签订新订单，并转型放弃自营模式。",
+    "killedReason": "In February 2024 ByteDance halted new order signings for the self-operated renovation business and began refunding unexecuted contracts, pivoting from doing renovations itself to a lighter \"renovation service guarantee\" model. Reflects the broader retreat of ByteDance (and Alibaba/JD/Baidu) from capital-intensive, low-margin self-operated home-renovation; ByteDance also faced conflict-of-interest concerns acting as both platform and self-operating merchant (\"裁判和运动员兼任\"). Officially framed as a \"normal business direction adjustment,\" affecting a small number of staff prioritized for internal transfer.",
+    "reasonZh": "2024 年 2 月字节跳动停止自营装修新订单签约并退还未执行合同款，从亲自做装修转向更轻的“装修服务保障”模式。这反映了从重资本、低利润自营家装的整体撤退，也涉及既当平台又当自营商家的利益冲突质疑（“裁判和运动员兼任”）。",
+    "link": "https://www.jiemian.com/article/10825090.html",
+    "sources": [
+      "https://www.jiemian.com/article/10825090.html",
+      "https://www.stcn.com/article/detail/1125975.html",
+      "https://news.qq.com/rain/a/20240222A039Y400",
+      "https://news.qq.com/rain/a/20240222A03QO400",
+      "https://finance.sina.com.cn/jjxw/2024-02-22/doc-inaiwsyh9467749.shtml"
+    ]
+  },
+  {
     "name": "Resso",
     "nameEn": "Resso",
     "nameZh": "Resso",
@@ -582,6 +1245,48 @@ window.GRAVEYARD = [
       "https://musically.com/2024/01/11/bytedance-shuts-resso-in-india-after-government-crackdown/",
       "https://variety.com/2020/music/news/tiktok-bytedance-india-resso-launch-1203523772/",
       "https://entertainment.slashdot.org/story/20/03/04/1530251/resso-bytedances-music-streaming-app-officially-launches-in-india"
+    ]
+  },
+  {
+    "name": "百科名医网 (Baike Mingyi (Baike Famous Doctors))",
+    "nameEn": "Baike Mingyi (Baike Famous Doctors)",
+    "nameZh": "百科名医网",
+    "aliases": [
+      "Baike Mingyi",
+      "Baike Mingyiwang",
+      "Baike Famous Doctors",
+      "百科名医",
+      "baikemingyi.com"
+    ],
+    "type": "service",
+    "category": "Medical reference / health science",
+    "categoryZh": "医学参考 / 健康科普内容（在线医学百科）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2010-05",
+    "dateKilled": "2024-01-31",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology Co., Ltd.",
+    "developerEntities": [
+      "百科名医网（北京）科技有限公司 (acquired by 北京字节跳动 / ByteDance, legal rep changed to ByteDance exec)",
+      "百科名医网（北京）科技有限公司",
+      "字节跳动 ByteDance",
+      "小荷健康 / Xiaohe Health"
+    ],
+    "appStoreId": "",
+    "description": "An authoritative online medical encyclopedia / health-science content platform, founded May 2010, that held China's largest independent-copyright medical knowledge graph and was the sole designated website for the National Health Commission's authoritative medical popularization project.",
+    "descZh": "一个权威的在线医学百科/健康科普内容平台，创立于 2010 年 5 月，拥有中国最大的独立版权医学知识图谱，并且是国家卫健委权威医学科普项目的唯一指定网站。字节跳动于 2020 年 5 月将其全资收购（约 5 亿元人民币）以孵化其健康业务，随后在 2021 年初将其更名/升级为小荷医典；原百科名医网网站据报道已于 2024 年 1 月 31 日停止运营，其五位联合创始人和原班团队均已离开。",
+    "killedReason": "Acquired by ByteDance (2020) and folded into its 小荷 health business — rebranded to 小荷医典 in early 2021; original site/brand wound down (reported ceased Jan 31, 2024) as ByteDance's standalone internet-healthcare push faltered and content/operations shifted toward Douyin (mini-program, health content, OTC drug live-selling). Original founding team departed.",
+    "reasonZh": "被字节跳动收购（2020 年），并入其小荷健康业务——2021 年初更名为小荷医典；原网站/品牌被清退（据报道 2024 年 1 月 31 日停运），因字节跳动独立互联网医疗的推进受挫，内容/运营转向抖音（小程序、健康内容、OTC 药品直播带货）。原创始团队离职。",
+    "link": "https://www.jiemian.com/article/4409899.html",
+    "sources": [
+      "https://www.jiemian.com/article/4409899.html",
+      "https://m.jiemian.com/article/10759874.html",
+      "https://tech.sina.com.cn/i/2020-08-13/doc-iivhvpwy0766226.shtml",
+      "https://www.cls.cn/detail/1589308",
+      "http://www.eeo.com.cn/2024/0204/634926.shtml"
     ]
   },
   {
@@ -664,6 +1369,215 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "幸福里 (Xingfuli (Happy Home))",
+    "nameEn": "Xingfuli (Happy Home)",
+    "nameZh": "幸福里",
+    "aliases": [
+      "Xingfuli",
+      "Xingfu Li",
+      "Haoduofang",
+      "好房多",
+      "Happy Home",
+      "头条房产 Toutiao Real Estate channel"
+    ],
+    "type": "service",
+    "category": "Real estate listings & brokerage /",
+    "categoryZh": "房产信息与中介／交易平台",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2018",
+    "dateKilled": "2024",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology Co., Ltd.",
+    "developerEntities": [
+      "ByteDance (字节跳动) / 北京字节跳动 — real estate information platform incubated by ByteDance",
+      "ByteDance / 字节跳动",
+      "Beijing Bytedance Technology",
+      "Toutiao 今日头条 (origin property channel)"
+    ],
+    "appStoreId": "",
+    "description": "幸福里 (Xingfuli) was ByteDance's real estate listings and transaction platform. It originated from Toutiao's property channel, launched in 2018 as 好房多 (Haoduofang), and was renamed 幸福里 in 2019.",
+    "descZh": "幸福里是字节跳动旗下的房产信息与交易平台。它源自今日头条的房产频道，于 2018 年以“好房多”之名上线，并在 2019 年更名为“幸福里”。它发布新房和二手房信息，聚合中介房源（麦田、我爱我家等），并依托抖音和今日头条的流量，通过门户/导客费用变现。",
+    "killedReason": "Weak Chinese property market. A 2021 plan to spin off Xingfuli with external capital (Vanke, Country Garden, Sequoia reportedly courted) never closed. In May 2023 ByteDance exited offline brokerage, handing its 小麦房产 offline operation to 麦田 and repositioning Xingfuli as Douyin's online real estate mid-platform. In May 2024 it was folded into Douyin Life Services (抖音生活服务), ending its independent existence.",
+    "reasonZh": "中国房地产市场低迷。2021 年引入外部资本分拆的计划未能落地。2023 年 5 月字节跳动退出线下中介，将小麦房产线下业务移交麦田，把幸福里重新定位为抖音线上房产中台；2024 年 5 月它被并入抖音生活服务，结束独立存在。",
+    "link": "https://finance.sina.com.cn/tech/2021-11-29/doc-ikyamrmy5746396.shtml",
+    "sources": [
+      "https://finance.sina.com.cn/tech/2021-11-29/doc-ikyamrmy5746396.shtml",
+      "https://news.qq.com/rain/a/20240513A08S1800",
+      "https://www.jiemian.com/article/6846448.html",
+      "https://www.guancha.cn/economy/2023_05_10_691751.shtml",
+      "https://www.bbtnews.com.cn/2023/0506/474908.shtml"
+    ]
+  },
+  {
+    "name": "大十未来 (Oladance) (Oladance)",
+    "nameEn": "Oladance",
+    "nameZh": "大十未来 (Oladance)",
+    "aliases": [
+      "大十未来",
+      "Dashi Future",
+      "深圳市大十未来科技有限公司",
+      "Shenzhen Dashi Future Technology",
+      "OWS earbuds",
+      "Ola Friend (successor AI line)"
+    ],
+    "type": "hardware",
+    "category": "Open-ear / OWS (Open Wearable Stereo)",
+    "categoryZh": "开放式 / OWS 开放可穿戴立体声耳机",
+    "region": "Global / China",
+    "regionZh": "全球 / 中国",
+    "dateLaunched": "2021",
+    "dateKilled": "2024",
+    "status": "acquired",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Shenzhen Dashi Future Technology Co., Ltd",
+    "developerEntities": [
+      "Shenzhen Dashi Future Technology Co., Ltd. (深圳市大十未来科技有限公司), a wholly-owned ByteDance subsidiary since Sep 2024",
+      "Shenzhen Dashi Future Technology Co., Ltd. (深圳市大十未来科技有限公司)",
+      "ByteDance (字节跳动)"
+    ],
+    "appStoreId": "",
+    "description": "Oladance is a Chinese open-ear (OWS, Open Wearable Stereo) audio brand founded in 2021 by ex-Bose executive Li Haoqian and Bose engineers, claiming to be the first to commercialize fully-open OWS earbuds.",
+    "descZh": "Oladance 是一家中国开放式（OWS，开放可穿戴立体声）音频品牌，由前 Bose 高管李浩乾与 Bose 工程师团队于 2021 年创立，号称是全球首家将全开放式 OWS 耳机商业化的厂商。字节跳动于 2024 年 9 月前完成对其运营主体深圳大十未来科技的 100% 收购，金额约 5000 万美元（据报道为 3 至 5 亿元人民币），并以其团队和 OWS 技术为基础，打造了字节跳动首款自有品牌 AI 耳机 Ola Friend（集成豆包聊天机器人，2024 年 10 月在中国发布）。",
+    "killedReason": "Not killed. Acquired by ByteDance (100% control, Sep 2024) as a strategic move into AI wearables; the Oladance brand continues to sell products in global retail while its engineering team and OWS tech form the foundation of ByteDance's new Doubao-powered Ola Friend earbuds line.",
+    "reasonZh": "并非关停。被字节跳动收购（100% 控股，2024 年 9 月）作为进军 AI 可穿戴设备的战略举措；Oladance 品牌仍在全球零售渠道销售产品，其工程团队和 OWS 技术则成为字节跳动新款豆包驱动 Ola Friend 耳机的基础。",
+    "link": "https://www.bloomberg.com/news/articles/2024-05-21/tiktok-parent-bytedance-buys-earbud-maker-for-future-hardware",
+    "sources": [
+      "https://www.bloomberg.com/news/articles/2024-05-21/tiktok-parent-bytedance-buys-earbud-maker-for-future-hardware",
+      "https://pandaily.com/bytedance-completes-acquisition-of-oladance",
+      "https://cn.technode.com/post/2024-09-03/bytedance-completes-acquisition-of-oladance/",
+      "https://www.engadget.com/audio/headphones/tiktok-owner-bytedance-unveils-its-first-earbuds-in-china-143507603.html",
+      "https://finance.sina.com.cn/tech/mobile/n/n/2024-09-03/doc-incmvuvs0420121.shtml"
+    ]
+  },
+  {
+    "name": "AI学 (AI Xue (AI学))",
+    "nameEn": "AI Xue (AI学)",
+    "nameZh": "AI学",
+    "aliases": [
+      "学霸君 To-B / B端业务",
+      "Xueba Jun To-B",
+      "学霸君 AI学",
+      "AI Xue smart education platform"
+    ],
+    "type": "service",
+    "category": "AI smart-education / school SaaS",
+    "categoryZh": "AI 智慧教育 / 校园 SaaS（学习分析、手写识别）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2018",
+    "dateKilled": "2024",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Dali Education (大力教育)",
+    "developerEntities": [
+      "ByteDance / 大力教育 (Dali Education)",
+      "字节跳动 (ByteDance)",
+      "大力教育 (Dali Education)",
+      "上海谦问万答吧云计算科技有限公司 (Xueba Jun parent, pre-acquisition)"
+    ],
+    "appStoreId": "",
+    "description": "AI学 (AI Xue) is the To-B / B-end smart-education SaaS platform originally developed by EdTech startup 学霸君 (Xueba Jun), using AI-based learning analytics and smart handwriting-recognition pens to digitize students' handwritten work on teachers' iPads; it was deployed in 200+ schools.",
+    "descZh": "AI 学是一个面向 B 端的智慧教育 SaaS 平台，最初由教育科技创业公司学霸君开发，利用基于 AI 的学习分析和智能手写识别笔，将学生的手写作业数字化呈现到教师的 iPad 上；它已部署于 200 多所学校。字节跳动约在 2018 年 7 至 9 月收购了学霸君的 To-B 业务（即 AI 学产品，约占学霸君营收的 30%），击败了好未来，并将团队并入后来的大力教育。2021 年双减整顿迫使大力退出国内 K9 培训后，AI 学被重新定位为智慧教育平台，并在字节跳动的教育业务组合中持续列示至 2024 年。",
+    "killedReason": "Not discontinued. The acquired To-B AI学 platform survived the 2021 双减 (double-reduction) crackdown by pivoting from K12 tutoring to smart-education/teacher-training/hardware, and remains part of ByteDance/Dali Education's education portfolio. (Distinct: the separate C-end 学霸君 consumer brand — 学霸君拍照搜题 app and 学霸君1对1 online tutoring — was NOT acquired by ByteDance; it stayed with founder Zhang Kaile and went bankrupt/collapsed in December 2020.)",
+    "reasonZh": "并未停运。被收购的 To-B 产品 AI 学从 K12 培训转向智慧教育/教师培训/硬件，挺过 2021 年双减，至今仍属字节/大力教育业务组合。（需区分：C 端学霸君品牌未被字节收购，留在创始人张凯磊手中，2020 年 12 月破产。）",
+    "link": "https://news.qq.com/rain/a/20231108A05WD800",
+    "sources": [
+      "https://news.qq.com/rain/a/20231108A05WD800",
+      "https://www.thepaper.cn/newsDetail_forward_8467337",
+      "https://m.21jingji.com/article/20201231/herald/bae2605610fcf54041dce56a5ea5165c_zaker.html",
+      "http://www.eeo.com.cn/2024/0220/637761.shtml",
+      "https://www.jiemian.com/article/10810529.html"
+    ]
+  },
+  {
+    "name": "芒果斗地主 (Mango Doudizhu)",
+    "nameEn": "Mango Doudizhu",
+    "nameZh": "芒果斗地主",
+    "aliases": [
+      "Mango Doudizhu",
+      "Mango Dou Dizhu",
+      "Mango Fight the Landlord"
+    ],
+    "type": "game",
+    "category": "Card game (Doudizhu / 棋牌)",
+    "categoryZh": "卡牌游戏（斗地主 / 棋牌）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2020-09-15",
+    "dateKilled": "2024",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Developer",
+    "developerEntities": [
+      "Developer: 深圳市林子互娱科技有限公司 (Shenzhen Linzi Huyu) — became 100%-owned by ByteDance affiliate 北京游逸科技有限公司 (Beijing Youyi Technology) in April 2021. Co-published / later operated under 北京畅元国讯科技有限公司 (Beijing",
+      "深圳市林子互娱科技有限公司 (Shenzhen Linzi Huyu Technology)",
+      "北京游逸科技有限公司 (Beijing Youyi Technology, ByteDance affiliate, 100% owner from 2021-04)",
+      "朝夕光年/Nuverse 绿洲工作室 (Oasis Studio)",
+      "北京畅元国讯科技有限公司 (Beijing Changyuan Guoxun, operator)"
+    ],
+    "appStoreId": "",
+    "description": "芒果斗地主 (Mango Doudizhu) is a casual Doudizhu card game that started as a viral Douyin mini-game (over 2M Douyin followers, ~570M hashtag views).",
+    "descZh": "芒果斗地主是一款休闲斗地主卡牌游戏，起初是抖音上的爆款小游戏（抖音粉丝超 200 万，话题播放量约 5.7 亿）。其开发商深圳林子互娱于 2021 年 4 月被字节跳动关联公司北京有爱科技 100% 收购，并入朝夕光年绿洲工作室，立项为「P7」。它是字节跳动/朝夕光年真正自有的作品，区别于绿洲工作室的另一款爆款晶核（Crystal of Atlan）。",
+    "killedReason": "Caught in ByteDance's November 2023 wind-down/divestiture of its game (Nuverse) business. NOTE: contrary to the candidate's claim, the game was NOT discontinued/killed in the 2023 shutdown — sources (including the candidate's own) explicitly show it survived alongside 晶核 and remained in the iOS top-grossing 200. ByteDance subsequently divested its acquired game studios (e.g. 有爱互娱 sold to a China Ruyi/Tencent-affiliated buyer in May 2024 for RMB 259M); the 芒果斗地主 / Linzi Huyu asset's exact disposition is less documented, but the game continued operating and now appears under a non-ByteDance operator (北京畅元国讯), with versions/updates running into 2025. So the correct status is 'divested' and the title itself is still live — not dead.",
+    "reasonZh": "被卷入字节 2023 年 11 月游戏（朝夕光年）业务的收缩/剥离，但游戏并未关停——它与晶核一同存续并保持 iOS 畅销榜前 200。字节随后剥离收购的游戏工作室，该游戏现归非字节运营方（北京畅元国讯）旗下，更新延续至 2025 年。故正确状态为「剥离」，游戏本身仍在线。",
+    "link": "https://www.youxituoluo.com/527174.html",
+    "sources": [
+      "https://www.youxituoluo.com/527174.html",
+      "https://www.36kr.com/newsflashes/1178545399693831",
+      "https://www.jiemian.com/article/5939427.html",
+      "https://news.qq.com/rain/a/20231128A0BQAY00",
+      "https://www.yfchuhai.com/article/12420.html"
+    ]
+  },
+  {
+    "name": "热血街篮 (Basketrio: Allstar Streetball)",
+    "nameEn": "Basketrio: Allstar Streetball",
+    "nameZh": "热血街篮",
+    "aliases": [
+      "Basketrio",
+      "Basketrio: Allstar Streetball",
+      "极限街篮",
+      "极限街篮：零秒出手",
+      "Rexue Jielan"
+    ],
+    "type": "game",
+    "category": "Mobile basketball game (3v3 streetball",
+    "categoryZh": "篮球手游（3v3 街头篮球，中核）",
+    "region": "China (domestic 热血街篮) + International (as",
+    "regionZh": "中国（国内为热血街篮）＋国际（Basketrio: Allstar Streetball）",
+    "dateLaunched": "2020-03-12",
+    "dateKilled": "2023-20",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "Published/operated by 北京朝夕光年信息技术有限公司 (Beijing Nuverse Info Tech Co., wholly-owned ByteDance subsidiary); developed by 竞技世界（成都）网络技术有限公司 (JJ World) and ALL9FUN LTD. International App Store/Play listings",
+      "北京朝夕光年信息技术有限公司 (Beijing Nuverse / 朝夕光年, ByteDance subsidiary) — publisher/operator",
+      "竞技世界（成都）网络技术有限公司 (JJ World) — developer",
+      "ALL9FUN LTD. — co-developer/intl operator"
+    ],
+    "appStoreId": "",
+    "description": "A 3v3 streetball mobile game with stylized 3D cartoon graphics and motion-capture animation, launched in China on 12 March 2020 as one of ByteDance/Nuverse's (朝夕光年) first three mid-core agency-publishing titles.",
+    "descZh": "一款 3v3 街头篮球手游，采用风格化 3D 卡通画面和动作捕捉动画，于 2020 年 3 月 12 日在中国上线，是字节跳动/朝夕光年首批三款中核代理发行作品之一。它在上线时一度冲到 iOS 免费游戏榜第二，但约一周内便失去势头，被普遍视为表现不佳之作。它的国际版名为「Basketrio: Allstar Streetball」（极限街篮）。",
+    "killedReason": "Commercial underperformance plus ByteDance's November 2023 decision to wind down/divest its gaming business (朝夕光年/Nuverse). As a well-enough-performing live title it was divested rather than shut down: operations and the official site (rxjl.jjworld.net) were transferred to developer 竞技世界 (JJ World), with players migrated to JJ World accounts; ByteDance/Nuverse ceased to be the publisher.",
+    "reasonZh": "商业表现不佳，加上字节 2023 年 11 月收缩/剥离游戏业务（朝夕光年）。作为表现尚可的在运营作品，它被剥离而非关停：运营和官网转交给开发商竞技世界（JJ World），玩家迁移至 JJ World 账号，字节/朝夕光年不再担任发行方。",
+    "link": "https://www.thepaper.cn/newsDetail_forward_6488215",
+    "sources": [
+      "https://www.thepaper.cn/newsDetail_forward_6488215",
+      "https://zh.wikipedia.org/zh-hans/%E8%A1%97%E5%A4%B4%E7%AF%AE%E7%90%83_(%E6%B8%B8%E6%88%8F)",
+      "https://www.gameres.com/877465.html",
+      "https://m.21jingji.com/article/20231127/herald/1db143c9d051d9efd64484360e09ece4.html",
+      "https://rxjl.jjworld.net/"
+    ]
+  },
+  {
     "name": "灵猫传 (Spirit Cat)",
     "nameEn": "Legend of the Spirit Cat",
     "nameZh": "灵猫传",
@@ -740,6 +1654,46 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "神仙道3 (Shenxiandao 3)",
+    "nameEn": "Shenxiandao 3",
+    "nameZh": "神仙道3",
+    "aliases": [
+      "Shenxiandao 3",
+      "Tale of Immortal 3",
+      "神仙道III",
+      "Shen Xian Dao 3"
+    ],
+    "type": "game",
+    "category": "Idle/placement strategy card RPG (Chinese",
+    "categoryZh": "放置类策略卡牌 RPG（中国神话）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2023-06-07",
+    "dateKilled": "2023-12-01",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "朝夕光年 (Nuverse), ByteDance's game publishing label — operations transferred to developer 飞鱼科技 (Feiyu Technology / FEIYU) on 2023-12-01",
+      "飞鱼科技 (Feiyu Technology / FEIYU Inc.) — developer & IP owner",
+      "朝夕光年 (Nuverse / Shanghai Chaoxi Guangnian) — ByteDance publishing/operating entity"
+    ],
+    "appStoreId": "",
+    "description": "神仙道3 (Shenxiandao 3) is an idle/placement strategy card RPG set in Chinese mythology, developed by Feiyu Technology (飞鱼科技) using its own 神仙道 IP (originating from a 2011 browser game) and published/operated in mainland China by ByteDance's game label Nuverse (朝夕光年).",
+    "descZh": "神仙道 3 是一款以中国神话为背景的放置类策略卡牌 RPG，由飞鱼科技开发，使用其自有的神仙道 IP（源自一款 2011 年的网页游戏），在中国大陆由字节跳动游戏厂牌朝夕光年发行/运营。它于 2023 年 6 月 7 日全平台公测，上线当日登顶中国 App Store 免费榜，首周畅销榜约第 12 位，随后朝夕光年于 2023 年 12 月 1 日将运营交还飞鱼，正值字节跳动游戏业务退潮之际。",
+    "killedReason": "ByteDance's game label Nuverse divested the title back to its developer Feiyu Technology as part of ByteDance's November 2023 wind-down (\"大撤退\") of its gaming business. Nuverse stopped operating the game on 2023-12-01, migrating player data to a Feiyu-run version. The game continues to exist under Feiyu (not ByteDance), so it is divested rather than fully shut down.",
+    "reasonZh": "字节跳动游戏厂牌朝夕光年作为其 2023 年 11 月游戏业务收缩（「大撤退」）的一部分，将该作剥离交还给开发商飞鱼科技。朝夕光年于 2023 年 12 月 1 日停止运营该游戏，将玩家数据迁移至飞鱼运营的版本。该游戏在飞鱼旗下（而非字节跳动）继续存在，因此属于剥离而非完全关停。",
+    "link": "https://news.qq.com/rain/a/20240221A09G7A00",
+    "sources": [
+      "https://news.qq.com/rain/a/20240221A09G7A00",
+      "https://www.taptap.cn/moment/468379655133465808",
+      "https://www.taptap.cn/app/225255",
+      "https://feiyu.com/news/4-293.html",
+      "http://www.kankancity.com/yule//2023061763493.html"
+    ]
+  },
+  {
     "name": "闪电搜索 (Shandian Search)",
     "nameEn": "Shandian Search",
     "nameZh": "闪电搜索",
@@ -773,6 +1727,87 @@ window.GRAVEYARD = [
       "https://news.qq.com/rain/a/20230928A09AJZ00",
       "https://www.3elife.net/Art/internet/202309/27/87122.html",
       "https://www.sohu.com/a/724081478_184641"
+    ]
+  },
+  {
+    "name": "时光相册 (Everphoto)",
+    "nameEn": "Everphoto",
+    "nameZh": "时光相册",
+    "aliases": [
+      "Time Album",
+      "Shiguang Xiangce",
+      "tc.everphoto",
+      "Shanghai Time Infinite",
+      "上海时光无限"
+    ],
+    "type": "app",
+    "category": "Cloud photo storage / AI smart album",
+    "categoryZh": "云端照片存储／AI 智能相册",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2015-10",
+    "dateKilled": "2023-11-15",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Shanghai Time Infinite Technology Co",
+    "developerEntities": [
+      "ByteDance",
+      "Shanghai Time Infinite Technology Co. (上海时光无限科技有限公司)"
+    ],
+    "appStoreId": "",
+    "description": "Everphoto (时光相册) was a Chinese intelligent cloud photo-album app offering AI face-recognition auto-categorization, encrypted cloud backup, and shared albums, and went viral with a Makoto Shinkai-style \"Your Name\" photo filter.",
+    "descZh": "时光相册（Everphoto）是一款中国的智能云相册应用，提供 AI 人脸识别自动分类、加密云端备份和共享相册功能，并曾凭借一款新海诚《你的名字》风格的照片滤镜走红。字节跳动于 2017 年收购了其开发商上海时光无限科技；该应用于 2023 年 8 月 17 日停止接收上传，并在 2023 年 11 月 15 日前后停止运营，之后已备份的照片视频被清空。",
+    "killedReason": "Discontinued under ByteDance's cost-cutting / resource-reallocation (\"降本增效\") drive; cloud-album business neither generated direct revenue nor supported core business, and faced commoditization from general-purpose cloud storage services in China.",
+    "reasonZh": "在字节跳动“降本增效”、重新分配资源的浪潮中被关停；云相册业务既不直接创收，也不支撑核心业务，还面临中国通用云存储服务带来的同质化竞争。",
+    "link": "https://technode.com/2023/08/18/bytedance-backed-intelligent-photo-management-app-everphoto-to-discontinue/",
+    "sources": [
+      "https://technode.com/2023/08/18/bytedance-backed-intelligent-photo-management-app-everphoto-to-discontinue/",
+      "https://www.scmp.com/tech/tech-trends/article/3231813/bytedance-closes-eight-year-old-cloud-album-app-amid-proliferation-general-purpose-cloud-services",
+      "https://en.pingwest.com/w/12091",
+      "https://36kr.com/p/2522317356492549",
+      "https://baike.baidu.com/item/%E6%97%B6%E5%85%89%E7%9B%B8%E5%86%8C/19689178"
+    ]
+  },
+  {
+    "name": "武林闲侠（海外港澳台版：放肆武林） (Wulin Xianxia (overseas: Fangsi Wulin))",
+    "nameEn": "Wulin Xianxia (overseas: Fangsi Wulin)",
+    "nameZh": "武林闲侠（海外港澳台版：放肆武林）",
+    "aliases": [
+      "Wulin Xianxia",
+      "Wulin Idle Heroes",
+      "放肆武林",
+      "Fangsi Wulin",
+      "Unbridled Wulin"
+    ],
+    "type": "game",
+    "category": "Wuxia (martial-arts) idle / card RPG",
+    "categoryZh": "武侠放置类卡牌 RPG",
+    "region": "China mainland + Hong Kong/Macau/Taiwan",
+    "regionZh": "中国大陆＋港澳台（海外为放肆武林）",
+    "dateLaunched": "2021-11-18",
+    "dateKilled": "2023-10-31",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "北京朝夕光年信息技术有限公司 (Nuverse) — ByteDance's wholly-owned game publishing subsidiary; CN App Store/store publisher under Nuverse, overseas under Nuverse brand",
+      "成都西山居世游科技有限公司 / 金山世游 (Seasun / Kingsoft World Game) — developer",
+      "北京朝夕光年信息技术有限公司 / Nuverse (ByteDance) — publisher"
+    ],
+    "appStoreId": "",
+    "description": "武林闲侠 was a guofeng wuxia-themed idle/placement card RPG developed by Kingsoft's Seasun studio (西山居世游/金山世游) and published by ByteDance's game arm Nuverse (朝夕光年).",
+    "descZh": "武林闲侠是一款国风武侠题材的放置类卡牌 RPG，由金山西山居工作室（西山居世游/金山世游）开发，由字节跳动游戏部门朝夕光年发行。它于 2021 年 11 月 18 日在中国大陆上线，曾登上 iOS 畅销榜前十，并获金山 CEO 雷军推广；其海外港澳台版本放肆武林也在上线当日登顶 iOS 免费榜榜首。",
+    "killedReason": "Steady revenue and ranking decline (out of top-100 by June 2023, below top-200 by September); an August crossover collaboration failed to revive it. Mainland CN operations terminated Oct 31, 2023, amid ByteDance's broad 2023 retrenchment/divestiture of its gaming business; the overseas 放肆武林 version was likewise wound down.",
+    "reasonZh": "营收和排名持续下滑（2023 年 6 月跌出前 100，9 月跌至前 200 之外）；8 月的一次联动合作未能挽回颓势。中国大陆运营于 2023 年 10 月 31 日终止，正值字节跳动 2023 年全面收缩/剥离游戏业务之际；海外放肆武林版本同样被关停。",
+    "link": "https://www.yfchuhai.com/article/11438.html",
+    "sources": [
+      "https://www.yfchuhai.com/article/11438.html",
+      "https://baike.baidu.com/item/%E6%AD%A6%E6%9E%97%E9%97%B2%E4%BE%A0/59117174",
+      "https://www.9game.cn/wulinxianxia1/8674952.html",
+      "https://zh.moegirl.org.cn/zh-hans/%E6%9C%9D%E5%A4%95%E5%85%89%E5%B9%B4",
+      "https://baike.baidu.com/item/%E6%9C%9D%E5%A4%95%E5%85%89%E5%B9%B4/56116840"
     ]
   },
   {
@@ -854,6 +1889,44 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "TikTok Now",
+    "nameEn": "TikTok Now",
+    "nameZh": "TikTok Now",
+    "aliases": [
+      "TikTok Now (standalone app)",
+      "TikTok Now (in-app feature)"
+    ],
+    "type": "app",
+    "category": "BeReal-style dual-camera \"authentic",
+    "categoryZh": "BeReal 式双摄「真实瞬间」社交",
+    "region": "Global (in-app feature in the US",
+    "regionZh": "全球（美国为应用内功能，海外为独立 App）",
+    "dateLaunched": "2022-09",
+    "dateKilled": "2023-06-27",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "TikTok Pte. Ltd.",
+    "developerEntities": [
+      "TikTok Pte. Ltd. (ByteDance)",
+      "TikTok",
+      "ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "TikTok Now was TikTok's BeReal clone: at a random time each day it prompted users to capture a simultaneous front-and-back-camera photo or 10-second video of an \"authentic\" moment.",
+    "descZh": "TikTok Now 是 TikTok 推出的 BeReal 仿制品：每天随机时刻提示用户用前后摄像头同时拍摄一张照片或一段 10 秒视频，记录某个「真实」瞬间。它于 2022 年 9 月推出，在美国作为应用内功能、在其他地区作为独立 App 上线，并于 2023 年 6 月 27 日停运——上线还不到一年。",
+    "killedReason": "Failed to gain traction; BeReal/\"authentic moments\" fad faded fast (BeReal itself saw a reported ~61% user drop). TikTok told users it was \"updating the TikTok experience and discontinuing TikTok Now\" without a specific reason.",
+    "reasonZh": "未能获得用户关注；BeReal 式「真实瞬间」热潮迅速退去（BeReal 本身据报道用户流失约 61%）。TikTok 告知用户其正在「更新 TikTok 体验并停用 TikTok Now」，但未给出具体原因。",
+    "link": "https://techcrunch.com/2023/06/27/tiktok-kills-bereal-clone-tiktok-now-after-less-than-a-year",
+    "sources": [
+      "https://techcrunch.com/2023/06/27/tiktok-kills-bereal-clone-tiktok-now-after-less-than-a-year",
+      "https://www.engadget.com/tiktok-is-jumping-off-the-bereal-bandwagon-by-killing-tiktok-now-125023950.html",
+      "https://www.socialmediatoday.com/news/tiktok-discontinues-tiktok-now-bereal-clone/654086/",
+      "https://techcrunch.com/2022/09/19/tiktoks-bereal-clone-is-now-available-as-standalone-app-outside-the-u-s",
+      "https://www.techtimes.com/articles/280788/20220920/tiktoknow-standalone-app-bereal.htm"
+    ]
+  },
+  {
     "name": "Fanno",
     "nameEn": "Fanno",
     "nameZh": "Fanno",
@@ -927,6 +2000,403 @@ window.GRAVEYARD = [
       "https://technode.com/2020/02/28/bytedance-ups-baidu-rivalry-with-new-search-app/",
       "https://tech.sina.com.cn/i/2020-02-28/doc-iimxxstf4956149.shtml",
       "https://www.chinaz.com/2020/0228/1113382.shtml"
+    ]
+  },
+  {
+    "name": "小麦房产 (Xiaomai Real Estate (Wheat Property))",
+    "nameEn": "Xiaomai Real Estate (Wheat Property)",
+    "nameZh": "小麦房产",
+    "aliases": [
+      "Xiaomai Real Estate",
+      "Wheat Property",
+      "小麦",
+      "好房有幸 (Haofang Youxing, operating entity)"
+    ],
+    "type": "service",
+    "category": "Offline real-estate brokerage (franchise)",
+    "categoryZh": "线下房产中介（加盟）",
+    "region": "China (Fuzhou)",
+    "regionZh": "中国大陆（福州）",
+    "dateLaunched": "2022-05",
+    "dateKilled": "2023-04",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "福建",
+    "developerEntities": [
+      "福建/北京好房有幸信息技术有限公司 (Haofang Youxing Information Technology), 100% owned by 抖音集团（香港）/字节跳动（香港）有限公司 (Douyin Group HK / ByteDance HK)",
+      "北京好房有幸信息技术有限公司 (Beijing Haofang Youxing)",
+      "福建好房有幸信息技术有限公司 (Fujian Haofang Youxing)",
+      "幸福里 (Xingfuli)",
+      "字节跳动/抖音集团（香港）有限公司 (ByteDance/Douyin Group HK)"
+    ],
+    "appStoreId": "",
+    "description": "小麦房产 (Xiaomai/Wheat Property) was ByteDance's offline real-estate brokerage brand, run under its 幸福里 (Xingfuli) property platform and operated by the wholly-owned subsidiary 好房有幸 (Haofang Youxing).",
+    "descZh": "小麦房产是字节跳动旗下的线下房产中介品牌，隶属于其幸福里房产平台，由全资子公司好房有幸运营。它采用面向中小中介的加盟模式，一年内在福州发展到约 200 家门店，是字节跳动试水将抖音/今日头条的线上房产流量与线下交易相结合的尝试。",
+    "killedReason": "In April–May 2023 ByteDance exited offline brokerage to \"focus on its main business\": the entire offline operating entity (Haofang Youxing) was transferred to broker 麦田 (Maitian Group), with ByteDance's wholly-owned shareholder replaced by Maitian's subsidiary. Xingfuli repositioned as an online-only Douyin real-estate platform.",
+    "reasonZh": "2023 年 4 至 5 月，字节跳动为“聚焦主业”退出线下中介业务：整个线下运营主体（好房有幸）被转让给中介公司麦田集团，字节跳动作为全资股东被麦田旗下子公司取代。幸福里随之重新定位为纯线上的抖音房产平台。",
+    "link": "https://www.guancha.cn/economy/2023_05_10_691751.shtml",
+    "sources": [
+      "https://www.guancha.cn/economy/2023_05_10_691751.shtml",
+      "https://www.bbtnews.com.cn/2023/0506/474908.shtml",
+      "https://www.jiemian.com/article/10049748.html",
+      "https://finance.sina.com.cn/tech/internet/2022-09-21/doc-imqmmtha8128686.shtml",
+      "https://news.stcn.com/sd/202209/t20220921_4871087.html"
+    ]
+  },
+  {
+    "name": "幕布 (Mubu)",
+    "nameEn": "Mubu",
+    "nameZh": "幕布",
+    "aliases": [
+      "Mubu",
+      "幕布大纲笔记",
+      "mubu.com"
+    ],
+    "type": "app",
+    "category": "Productivity / outliner note-taking &",
+    "categoryZh": "效率工具 / 大纲笔记与思维导图",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2016",
+    "dateKilled": "2023-03",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Feishu Technology (Lark CN)",
+    "developerEntities": [
+      "Originally Beijing Kundu/founder team; under ByteDance merged into Feishu (飞书); now operated by Shenzhen Shili Hu Technology Co., Ltd. (深圳市十里湖科技有限公司, flomo's operator)",
+      "ByteDance (字节跳动)",
+      "Feishu / Lark (飞书)",
+      "Toutiao strategic investment dept (今日头条战略投资部)"
+    ],
+    "appStoreId": "",
+    "description": "Mubu (幕布) is a Chinese productivity app combining hierarchical outline notes with one-click mind-map conversion, launched in 2016.",
+    "descZh": "幕布是一款中国效率类App，将层级式大纲笔记与一键转思维导图相结合，于2016年推出。字节跳动于2018年底（通过今日头条战略投资部门，作价数百万元人民币）秘密全资收购了它，作为早期To-B/效率工具布局，并将其并入飞书（Lark）产品体系；2023年3月，字节跳动/飞书将幕布剥离给笔记产品flomo（浮墨笔记，深圳市十里虎科技），后者继续独立运营。",
+    "killedReason": "ByteDance/Feishu divested Mubu in March 2023 because Feishu already had its flagship Feishu Documents with overlapping functionality, and Mubu's original founders had left, so there was little incentive to keep maintaining it. It was sold to flomo (浮墨笔记) rather than shut down, so from ByteDance's perspective it is a divestment (the product continues under new owner).",
+    "reasonZh": "字节跳动/飞书于2023年3月剥离幕布，因为飞书已有功能重叠的旗舰产品飞书文档，且幕布原创始团队已离开，缺乏继续维护的动力。它被出售给flomo（浮墨笔记）而非关停，故从字节跳动角度看属剥离（产品在新东家旗下延续）。",
+    "link": "https://36kr.com/p/5189673",
+    "sources": [
+      "https://36kr.com/p/5189673",
+      "https://www.36kr.com/p/2163146749079812",
+      "http://www.eeo.com.cn/2019/0329/351981.shtml",
+      "https://www.yicai.com/brief/100151091.html",
+      "http://www.nbd.com.cn/articles/2019-03-29/1315745.html"
+    ]
+  },
+  {
+    "name": "奇妙相机 (Qimiao Camera)",
+    "nameEn": "Qimiao Camera",
+    "nameZh": "奇妙相机",
+    "aliases": [
+      "Qimiao Xiangji",
+      "Qimiao Camera",
+      "Magic Camera",
+      "Wonderful Camera"
+    ],
+    "type": "app",
+    "category": "Camera / photo app",
+    "categoryZh": "相机／照片应用",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2017-20",
+    "dateKilled": "2023",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology (Toutiao)",
+    "developerEntities": [
+      "ByteDance (Toutiao-era camera/photo app; app-store package com.ss.android.camera under ByteDance's signature com.ss.android.* namespace)",
+      "ByteDance (字节跳动)",
+      "Beijing ByteDance / Toutiao (com.ss.android.* package namespace)"
+    ],
+    "appStoreId": "",
+    "description": "A ByteDance-owned camera/photo app (Android package com.ss.android.camera). Chinese tech/financial outlets 36Kr and Cailianshe both list it among ByteDance's discarded photo-related apps (alongside uoka有咔, 狸猫相机, Helo), while 轻颜相机 and Faceu激萌 remained operating.",
+    "descZh": "一款字节跳动旗下的相机／照片应用（安卓包名 com.ss.android.camera）。中国科技/财经媒体 36 氪和财联社都将其列入字节跳动被舍弃的照片类应用之中（与有咔 UOKA、狸猫相机、Helo 并列），而轻颜相机和 Faceu 激萌则继续运营。除被归类为“照片类应用”外，可获得的资料中对其具体功能记载不多。",
+    "killedReason": "Abandoned as part of ByteDance's consolidation of its photo/camera app portfolio. Standalone photo/camera apps lost relevance as phone-maker cloud services improved, and ByteDance focused resources on its winners (轻颜相机 Qingyan, Faceu激萌).",
+    "reasonZh": "作为字节跳动整合其照片／相机应用矩阵的一部分而被放弃。随着手机厂商云服务的提升，独立的照片／相机应用日渐失去存在意义，字节跳动转而将资源集中在胜出的产品上（轻颜相机、Faceu 激萌）。",
+    "link": "https://www.36kr.com/p/2392708671871876",
+    "sources": [
+      "https://www.36kr.com/p/2392708671871876",
+      "https://www.cls.cn/detail/1435933"
+    ]
+  },
+  {
+    "name": "快拍 (Kuaipai)",
+    "nameEn": "Kuaipai",
+    "nameZh": "快拍",
+    "aliases": [
+      "Kuaipai",
+      "Quick Shot"
+    ],
+    "type": "app",
+    "category": "Camera / photo app",
+    "categoryZh": "相机／照片应用",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "",
+    "dateKilled": "2023",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "上海时光无限科技有限公司",
+    "developerEntities": [
+      "上海时光无限科技有限公司 (Shanghai Shiguang Wuxian Technology Co., Ltd.) — a ByteDance subsidiary, now wholly owned via 抖音有限公司 / 北京星云创迹科技",
+      "上海时光无限科技有限公司 (Shanghai Shiguang Wuxian Technology)",
+      "时光相册 team",
+      "ByteDance / 抖音有限公司"
+    ],
+    "appStoreId": "",
+    "description": "快拍 (Kuaipai) was a photo/camera app launched by the team behind ByteDance's cloud photo-album product 时光相册 (Shiguang Album). It was one of several side products (alongside the photo-editor Luna and 时光相册极速版) that the team spun off; it performed poorly and was eventually delisted.",
+    "descZh": "快拍是由字节跳动云相册产品时光相册背后的团队推出的一款照片／相机应用。它是该团队孵化的多个支线产品之一（与 P 图软件 Luna、时光相册极速版并列），市场表现平平，最终被下架。",
+    "killedReason": "Poor market performance / low traction (效果平平), eventually delisted; part of ByteDance's broader retrenchment of its photo/camera app experiments (the parent 时光相册 itself was shut down in Nov 2023).",
+    "reasonZh": "市场表现不佳、用户增长乏力（效果平平），最终被下架；属于字节跳动对其照片／相机应用尝试整体收缩的一部分（母产品时光相册本身已于 2023 年 11 月关停）。",
+    "link": "https://www.36kr.com/p/2392708671871876",
+    "sources": [
+      "https://www.36kr.com/p/2392708671871876",
+      "https://www.cls.cn/detail/1435933",
+      "https://news.qq.com/rain/a/20230821A00ROF00"
+    ]
+  },
+  {
+    "name": "Luna (时光相册团队 P图软件) (Luna)",
+    "nameEn": "Luna",
+    "nameZh": "Luna (时光相册团队 P图软件)",
+    "aliases": [
+      "时光相册 Luna",
+      "Luna P图",
+      "Luna photo editor"
+    ],
+    "type": "app",
+    "category": "Photo editing app",
+    "categoryZh": "照片编辑应用",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2017",
+    "dateKilled": "2023",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "上海时光无限科技有限公司",
+    "developerEntities": [
+      "上海时光无限科技有限公司 (Shanghai Time Unlimited Technology Co., Ltd.) — wholly-owned subsidiary of Douyin Ltd / ByteDance",
+      "上海时光无限科技有限公司 (Shanghai Time Unlimited Technology Co., Ltd.)",
+      "时光相册 team",
+      "ByteDance 字节跳动 / Douyin Ltd 抖音有限公司"
+    ],
+    "appStoreId": "",
+    "description": "Luna was a photo-editing (P图) app launched by the 时光相册 (Shiguang Album / Time Album) team, which became a wholly-owned ByteDance subsidiary after ByteDance acquired 时光相册 (developed by 上海时光无限科技有限公司) in 2017.",
+    "descZh": "Luna 是由时光相册（Time Album）团队推出的一款 P 图（照片编辑）应用。字节跳动于 2017 年收购了时光相册（由上海时光无限科技有限公司开发）后，该团队成为字节跳动的全资子公司。Luna 提供照片修饰／特效功能，但用户增长乏力，最终与同门支线产品快拍（Kuaipai）和时光相册极速版一同被下架。它与无关联的 Insta360 “Luna” 硬件产品并非同一事物。",
+    "killedReason": "Underperformed — \"效果平平，最终被下架\" (poor traction, eventually removed from app stores), one of several failed spinoffs by the 时光相册 team.",
+    "reasonZh": "表现不佳——“效果平平，最终被下架”，是时光相册团队多个失败支线产品之一。",
+    "link": "https://www.36kr.com/p/2392708671871876",
+    "sources": [
+      "https://www.36kr.com/p/2392708671871876",
+      "https://www.cls.cn/detail/1435933",
+      "https://cn.technode.com/post/2023-11-15/bytedance-shiguangxiangce-shut-down/"
+    ]
+  },
+  {
+    "name": "抖音小窝 (Douyin Xiaowo (Douyin Little Nest))",
+    "nameEn": "Douyin Xiaowo (Douyin Little Nest)",
+    "nameZh": "抖音小窝",
+    "aliases": [
+      "Douyin Xiaowo",
+      "Douyin Little Nest",
+      "抖音仔仔小窝"
+    ],
+    "type": "service",
+    "category": "Metaverse / virtual social space (in-app",
+    "categoryZh": "元宇宙 / 虚拟社交空间（App内功能）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-10",
+    "dateKilled": "2023",
+    "status": "discontinued",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Douyin Information Service Co., Ltd.",
+    "developerEntities": [
+      "Douyin / Beijing Douyin Information Service Co. (ByteDance / 字节跳动)",
+      "ByteDance / 字节跳动",
+      "Douyin / 抖音"
+    ],
+    "appStoreId": "",
+    "description": "A virtual social space launched inside the Douyin app in October 2022, built for the 抖音仔仔 (Douyin Zizai) 3D avatar system.",
+    "descZh": "这是2022年10月在抖音App内推出的一个虚拟社交空间，基于“抖音仔仔”3D虚拟形象系统打造。用户通过签到、看视频、社交互动和完成任务赚取“能量”，用以装饰自己的个人“小窝”并造访好友房间——明确对标腾讯的QQ小窝/超级QQ秀，被视为张一鸣对元宇宙式社交的再度押注。",
+    "killedReason": "Part of ByteDance's 2022 metaverse-social push (alongside the disbanded standalone app 派对岛/Party Island and the 抖音仔仔 avatar system) that was subsequently de-prioritized amid the broader 2023 metaverse pullback, product homogenization concerns ('a clone of Super QQ Show'), and ByteDance redirecting resources to monetizable businesses (e-commerce, local services). No public source pins an exact discontinuation date.",
+    "reasonZh": "它是字节跳动2022年元宇宙社交攻势的一部分（与已解散的独立App派对岛及抖音仔仔虚拟形象系统同期），随后在2023年更大范围的元宇宙退潮、产品同质化质疑（“超级QQ秀的翻版”）以及字节跳动将资源转向可变现业务（电商、本地生活）的背景下被降级。没有公开来源能确定其确切停运日期。",
+    "link": "https://finance.sina.com.cn/tech/csj/2022-10-17/doc-imqqsmrp2814215.shtml",
+    "sources": [
+      "https://finance.sina.com.cn/tech/csj/2022-10-17/doc-imqqsmrp2814215.shtml",
+      "https://www.cls.cn/detail/1158593",
+      "https://news.qq.com/rain/a/20221018A0059L00",
+      "https://www.woshipm.com/it/5662781.html",
+      "https://36kr.com/p/1977458167343491"
+    ]
+  },
+  {
+    "name": "开言英语 (OpenLanguage)",
+    "nameEn": "OpenLanguage",
+    "nameZh": "开言英语",
+    "aliases": [
+      "OpenLanguage",
+      "Kaiyan English",
+      "开言",
+      "潘吉Jenny告诉你 (origin podcast)"
+    ],
+    "type": "app",
+    "category": "Adult English audio/dialogue-learning app",
+    "categoryZh": "成人英语音频/对话学习应用（在线教育）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2012",
+    "dateKilled": "2023",
+    "status": "discontinued",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Bytedance Pte. Ltd.",
+    "developerEntities": [
+      "Bytedance Pte. Ltd (Apple App Store seller); operating entity 北京点点看看科技有限公司 / formerly 上海随训通电子科技有限公司 (100% ByteDance-controlled)",
+      "ByteDance (字节跳动)",
+      "今日头条 (Toutiao, acquirer)",
+      "大力教育 (Dali Education)",
+      "北京点点看看科技有限公司",
+      "上海随训通电子科技有限公司 (pre-acquisition entity)"
+    ],
+    "appStoreId": "",
+    "description": "OpenLanguage (开言英语) is an adult English-learning app built around scenario-based audio dialogues hosted by North American native speakers, originating from founder Jenny's long-running podcast 《潘吉Jenny告诉你》 (started 2012).",
+    "descZh": "开言英语是一款面向成人的英语学习应用，围绕由北美母语者主持的情景音频对话构建，源自创始人 Jenny 长期运营的播客《潘吉 Jenny 告诉你》（始于 2012 年）。字节跳动于 2018 年 4 月 11 日完成保密全资收购，将其并入大力教育板块；2021 年双减教育整顿后，它被收缩，约在 2023 年底实质停运。",
+    "killedReason": "Casualty of ByteDance's education-business retreat after the July 2021 双减 (double-reduction) crackdown and heavy losses at Dali Education; consumer complaints and reputation issues meant it never became a core product, and by Nov 2023 it had stopped meaningful operation (no logins, recording disabled, courses no longer updated, hosts' contracts not renewed).",
+    "reasonZh": "字节跳动在 2021 年 7 月双减整顿后退出教育业务、大力教育巨额亏损的牺牲品；消费者投诉和口碑问题使其从未成为核心产品，到 2023 年 11 月已停止实质运营（无法登录、录音功能禁用、课程不再更新、主持人合约未续签）。",
+    "link": "https://zhuanlan.zhihu.com/p/401322183",
+    "sources": [
+      "https://zhuanlan.zhihu.com/p/401322183",
+      "https://apps.apple.com/cn/app/openlanguage/id1497663562?l=en-GB",
+      "https://www.zhihu.com/question/560937056",
+      "https://news.qq.com/rain/a/20211025A07LRS00",
+      "https://finance.jrj.com.cn/tech/2019/12/24153828579451.shtml"
+    ]
+  },
+  {
+    "name": "小荷医典 (Xiaohe Yidian (Xiaohe Medical Encyclopedia))",
+    "nameEn": "Xiaohe Yidian (Xiaohe Medical Encyclopedia)",
+    "nameZh": "小荷医典",
+    "aliases": [
+      "Xiaohe Yidian",
+      "Xiaohe Medical Encyclopedia",
+      "Xiaohe Medical Dictionary",
+      "百科名医 (predecessor)",
+      "Baike Mingyi (predecessor brand)"
+    ],
+    "type": "service",
+    "category": "Medical-knowledge / health",
+    "categoryZh": "医学知识 / 健康科普内容平台",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-01-30",
+    "dateKilled": "2023",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology Co., Ltd.",
+    "developerEntities": [
+      "字节跳动 / ByteDance (北京字节跳动 / Beijing Douyin / Xiaohe Jiankang)",
+      "字节跳动 ByteDance",
+      "小荷健康 Xiaohe Health (内部品牌)",
+      "百科名医网 Baike Mingyi (acquired predecessor)"
+    ],
+    "appStoreId": "",
+    "description": "小荷医典 (Xiaohe Yidian) was ByteDance's medical-knowledge / health science-popularization content platform, launched January 30, 2021 by upgrading and rebranding the 百科名医网 (Baike Mingyi) encyclopedia that ByteDance had acquired for ~500M yuan in May 2020.",
+    "descZh": "小荷医典是字节跳动的医学知识/健康科普内容平台，于 2021 年 1 月 30 日推出，由字节跳动于 2020 年 5 月以约 5 亿元人民币收购的百科名医网升级更名而来。它收录了 32000 多条专业编辑的疾病/医学词条，作为字节跳动旗下应用（今日头条、抖音、西瓜及小荷健康 App）的权威健康内容基础。",
+    "killedReason": "As ByteDance's broader medical ambitions cooled, the standalone 百科名医网 site was wound down (reduced to a bare text page) and the 小荷医典 knowledge base was folded into Douyin and Toutiao search/short-video health content rather than continuing as an independent destination. The associated 小荷健康 app/brand was largely absorbed into Douyin in 2023 (the 小荷医典 content team was reportedly retained to feed the Douyin health ecosystem). It no longer exists as a distinct consumer product.",
+    "reasonZh": "随着字节医疗野心降温，独立的百科名医网被清退（缩减为纯文本页面），小荷医典知识库并入抖音和今日头条的搜索/短视频健康内容。关联的小荷健康 App/品牌于 2023 年基本并入抖音（内容团队据报保留以充实抖音健康生态）。已不再是独立消费级产品。",
+    "link": "https://m.jiemian.com/article/10759874.html",
+    "sources": [
+      "https://m.jiemian.com/article/10759874.html",
+      "https://www.cn-healthcare.com/articlewm/20220811/content-1416412.html",
+      "https://finance.sina.cn/chanjing/gsxw/2023-02-02/detail-imyeierp4285797.d.html",
+      "https://www.21jingji.com/article/20230213/herald/81d371e78374caa922a5033c2e54ed8e.html",
+      "https://m.thepaper.cn/newsDetail_forward_9816051"
+    ]
+  },
+  {
+    "name": "Mawf（无官方中文名） (Mawf)",
+    "nameEn": "Mawf",
+    "nameZh": "Mawf（无官方中文名）",
+    "aliases": [
+      "Mawf synth",
+      "Mawf plugin",
+      "mawf.io"
+    ],
+    "type": "app",
+    "category": "AI/ML audio synthesis",
+    "categoryZh": "AI/机器学习音频合成——DAW 乐器插件（音色迁移）",
+    "region": "Europe / UK (beta available outside the",
+    "regionZh": "欧洲／英国（测试版面向美国以外地区）",
+    "dateLaunched": "2022-04",
+    "dateKilled": "2022-20",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "ByteDance",
+    "developerEntities": [
+      "ByteDance (developed by an internal ByteDance/TikTok ML-audio team; distributed via mawf.io, not app stores)",
+      "ByteDance",
+      "TikTok"
+    ],
+    "appStoreId": "",
+    "description": "Mawf was a free machine-learning desktop audio plugin (VST3/AU, macOS-first with Windows promised) from ByteDance that used DDSP-style ML timbre transfer to morph any audio signal or MIDI input into realistic instrument sounds — e.g.",
+    "descZh": "Mawf 是字节跳动推出的一款免费的机器学习桌面音频插件（VST3/AU，优先支持 macOS，并承诺支持 Windows），它采用 DDSP 式的机器学习音色迁移技术，把任何音频信号或 MIDI 输入变换成逼真的乐器音色——例如把一段演唱的人声变成萨克斯、小号或泰国竹笛（khlui）的声音。它自称是首款以 CD 音质实时通过机器学习系统合成音频的专业音频插件。",
+    "killedReason": "Released only as a limited free closed beta (first 500 sign-ups, EU/UK). It never reached a full public release; the mawf.io site is now down (HTTP 502) with broken download links, and no development activity is visible past 2022-2023. ByteDance's later, separate music app Ripple (2023) effectively superseded its consumer music-creation experiments.",
+    "reasonZh": "仅以限量免费封闭测试形式发布（前 500 名注册者，面向欧盟／英国），从未迎来完整公开发布；mawf.io 网站已无法访问、下载链接失效，2022—2023 年后再无开发动态。字节跳动后来的音乐应用 Ripple 实际取代了它的尝试。",
+    "link": "https://musically.com/2022/04/21/bytedance-music-creation-app-mawf/",
+    "sources": [
+      "https://musically.com/2022/04/21/bytedance-music-creation-app-mawf/",
+      "https://www.musicradar.com/news/mawf-machine-learning-tik-tok-plugin",
+      "https://dot.la/tiktok-tests-mawf-2657186750.html",
+      "https://bedroomproducersblog.com/2022/05/02/tiktok-mawf/",
+      "https://www.marktechpost.com/2022/04/27/bytedance-announces-a-new-plugin-that-utilizes-machine-learning-for-audio-synthesis/"
+    ]
+  },
+  {
+    "name": "灵选 (Lingxuan)",
+    "nameEn": "Lingxuan",
+    "nameZh": "灵选",
+    "aliases": [
+      "Lingxuan",
+      "灵选游戏社区",
+      "灵选 game store"
+    ],
+    "type": "app",
+    "category": "Gaming community / game distribution",
+    "categoryZh": "游戏社区 / 游戏分发（TapTap式游戏商店）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-01",
+    "dateKilled": "2022-20",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "里游互娱",
+    "developerEntities": [
+      "里游互娱 (Riyou Huyu) under ByteDance's 巨量引擎 / Juliang Engine (Ocean Engine)",
+      "ByteDance (字节跳动)",
+      "巨量引擎 / Juliang Engine (Ocean Engine)",
+      "里游互娱 (Riyou Huyu / Biliyou Interactive Entertainment)"
+    ],
+    "appStoreId": "",
+    "description": "灵选 (Lingxuan) was a ByteDance TapTap/WeGame-style mobile game community and distribution app, launched in a closed test on Douyin in late January 2022 with the slogan \"灵机一动，选到好游戏.\" It combined game discovery, reservations, downloads, rankings and user reviews, aiming to become a distribution…",
+    "descZh": "灵选是字节跳动一款类似TapTap/WeGame的手游社区与分发App，2022年1月底在抖音内开启封闭测试，口号为“灵机一动，选到好游戏”。它集游戏发现、预约、下载、排行和用户评测于一体，意在成为中重度游戏的分发渠道——比字节跳动早期的休闲游戏平台摸摸鱼更进一步。",
+    "killedReason": "Never advanced past closed testing to a full public launch; quietly abandoned as ByteDance retreated from gaming and game distribution, culminating in the November 2023 wind-down of its games arm 朝夕光年 (Nuverse). It was one of several \"app factory\" experiments launched in early 2022 (alongside Party Island and Wukong Search) that did not survive.",
+    "reasonZh": "始终未从封测推进到正式公开上线；随着字节跳动收缩游戏及游戏分发业务，并在2023年11月关停游戏部门朝夕光年，灵选被悄然放弃。它是2022年初一批“App工厂”实验（与派对岛、悟空搜索同期）中未能存活的产品之一。",
+    "link": "https://www.jiemian.com/article/7055426.html",
+    "sources": [
+      "https://www.jiemian.com/article/7055426.html",
+      "https://news.qq.com/rain/a/20220127A0BRLI00",
+      "https://www.sohu.com/a/519365265_120073179",
+      "http://www.gamelook.com.cn/2022/01/471225",
+      "https://m.21jingji.com/article/20220129/herald/7de6011d713705ae99e3b4f442fc470e.html"
     ]
   },
   {
@@ -1004,6 +2474,45 @@ window.GRAVEYARD = [
       "https://pandaily.com/bytedance-apps-including-shiqu-removed-from-stores/",
       "https://m.jiemian.com/article/8524669.html",
       "https://www.ifanr.com/app/1480539"
+    ]
+  },
+  {
+    "name": "轻世界 (Pico Worlds)",
+    "nameEn": "Pico Worlds",
+    "nameZh": "轻世界",
+    "aliases": [
+      "PICO Worlds",
+      "Pico Light World",
+      "Qingshijie"
+    ],
+    "type": "service",
+    "category": "VR / XR social metaverse (UGC creation",
+    "categoryZh": "VR / XR社交元宇宙（UGC创作平台）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-09",
+    "dateKilled": "2022-12",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Pico (ByteDance)",
+    "developerEntities": [
+      "Pico (北京小鸟看看科技 / Pico Interactive), a ByteDance subsidiary",
+      "Pico (小鸟看看)",
+      "ByteDance (字节跳动)"
+    ],
+    "appStoreId": "",
+    "description": "轻世界 (Pico Worlds) was a self-developed VR social UGC \"metaverse\" app announced by ByteDance's Pico at the Pico 4 launch event in September 2022, positioned as China's answer to Meta's Horizon Worlds — users hand-modeled their own 3D worlds, customized avatars across ~26 dimensions, and socialized…",
+    "descZh": "轻世界是字节跳动旗下Pico在2022年9月Pico 4发布会上公布的一款自研VR社交UGC“元宇宙”App，被定位为中国版的Meta Horizon Worlds——用户可亲手建模自己的3D世界，在约26个维度上自定义虚拟形象，并与好友一起社交、探索、运动和玩游戏。它运行于Pico VR平台。",
+    "killedReason": "Weak engagement data (DAU only in the low thousands) led ByteDance/Pico to slim down the 轻世界 team at the end of 2022, cutting investment and keeping only basic features; the lead (Ma Jiedong / 马杰思) was later reassigned to the OS department in 2023, and the product was wound down amid Pico's broader metaverse-social retreat and the Oct/Nov 2023 mass layoffs.",
+    "reasonZh": "用户活跃度数据疲弱（日活仅数千），促使字节跳动/Pico在2022年底精简轻世界团队，削减投入并仅保留基础功能；负责人马杰思后于2023年被调往操作系统部门，该产品在Pico更大范围的元宇宙社交退潮及2023年10月/11月大规模裁员中被关停。",
+    "link": "https://vr.ofweek.com/news/2022-07/ART-815009-8500-30568148.html",
+    "sources": [
+      "https://vr.ofweek.com/news/2022-07/ART-815009-8500-30568148.html",
+      "https://www.thepaper.cn/newsDetail_forward_25027434",
+      "https://www.vrtuoluo.cn/538208.html",
+      "https://www.zhihu.com/question/564945228",
+      "https://www.pingwest.com/a/278287"
     ]
   },
   {
@@ -1279,6 +2788,87 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "黑帕云 (Heipayun (HAP))",
+    "nameEn": "Heipayun (HAP)",
+    "nameZh": "黑帕云",
+    "aliases": [
+      "Heipayun",
+      "HAP",
+      "Heipa Cloud",
+      "hipacloud",
+      "黑帕云 HAP"
+    ],
+    "type": "service",
+    "category": "No-code / low-code application building",
+    "categoryZh": "无代码 / 低代码应用搭建平台（aPaaS）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2019",
+    "dateKilled": "2022-05-31",
+    "status": "acquired-shut",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Feishu Technology (Lark CN)",
+    "developerEntities": [
+      "成都黑帕云信息技术有限公司 (Chengdu Heipayun Information Technology Co., Ltd.); team absorbed into ByteDance Feishu",
+      "成都黑帕云信息技术有限公司 (Chengdu Heipayun Information Technology Co.)",
+      "ByteDance / 字节跳动 (acquirer)",
+      "Feishu / 飞书 (absorbing team)"
+    ],
+    "appStoreId": "",
+    "description": "Heipayun (黑帕云, brand HAP) was a Chinese no-code/low-code platform founded in 2019 by serial entrepreneur Chen Jinzhou (陈金洲, who earlier founded Jinshuju/金数据) for building enterprise applications without coding.",
+    "descZh": "黑帕云（品牌HAP）是一款中国无代码/低代码平台，由连续创业者陈金洲（曾创办金数据）于2019年创立，用于无需编码即可搭建企业应用。字节跳动战略投资部门于2021年7月领投其A轮，随后收购了团队；独立产品于2022年5月31日关停，陈金洲及部分团队加入飞书，打造面向大型企业客户的aPaaS产品“昆仑”。",
+    "killedReason": "Acqui-hire: ByteDance acquired the Heipayun team and folded talent into Feishu's enterprise aPaaS effort (codename Kunlun/昆仑); the standalone product was discontinued, with users directed to export data or migrate to Mingdao Cloud (明道云) before service ended May 31, 2022.",
+    "reasonZh": "属人才收购：字节跳动收购黑帕云团队并将人才并入飞书的企业级aPaaS项目（代号昆仑/Kunlun）；独立产品被停运，在2022年5月31日服务终止前，用户被引导导出数据或迁移至明道云。",
+    "link": "https://finance.sina.com.cn/tech/2022-03-21/doc-imcwiwss7288367.shtml",
+    "sources": [
+      "https://finance.sina.com.cn/tech/2022-03-21/doc-imcwiwss7288367.shtml",
+      "https://news.pedaily.cn/202203/488700.shtml",
+      "https://36kr.com/p/1664035663353602",
+      "https://www.jiemian.com/article/7237999.html",
+      "https://m.huanqiu.com/article/47IEBx2Zuv7"
+    ]
+  },
+  {
+    "name": "索尼克在2020东京奥运会 (Sonic at the Olympic Games – Tokyo 2020 (China server))",
+    "nameEn": "Sonic at the Olympic Games – Tokyo 2020 (China server)",
+    "nameZh": "索尼克在2020东京奥运会",
+    "aliases": [
+      "索尼克在2020东京奥运会",
+      "Sonic at the Olympic Games Tokyo 2020",
+      "索尼克 东京奥运会"
+    ],
+    "type": "game",
+    "category": "Licensed sports/endless-runner mobile game",
+    "categoryZh": "授权体育/跑酷手游",
+    "region": "China (mainland)",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-07-12",
+    "dateKilled": "2022-05-31",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "Nuverse / 朝夕光年 (ByteDance)",
+      "SEGA (developer)",
+      "Nuverse / 朝夕光年 (ByteDance, mainland China publisher)"
+    ],
+    "appStoreId": "",
+    "description": "A SEGA-developed mobile game tied to the Tokyo 2020 Olympics, the only officially licensed Olympic mobile game, published exclusively in mainland China by ByteDance's game brand Nuverse (朝夕光年).",
+    "descZh": "一款由世嘉开发、与 2020 东京奥运会绑定的手游，是唯一官方授权的奥运手游，在中国大陆由字节跳动游戏品牌朝夕光年独家发行。它约于 2021 年 7 月 12 日上线，首日即登顶 iOS App Store 免费榜，并在抖音上进行交叉推广，包括整合好友列表。",
+    "killedReason": "Discontinued during ByteDance/Nuverse's wave of game shutdowns; mainland China service ceased at 12:00 on May 31, 2022. The game was an event-tied licensed title with limited longevity after the Tokyo Olympics.",
+    "reasonZh": "在字节跳动/朝夕光年的游戏关停浪潮中被停运；中国大陆服务于 2022 年 5 月 31 日 12:00 终止。该游戏是与赛事绑定的授权作品，在东京奥运会后续航能力有限。",
+    "link": "https://x.com/zhugeex/status/1416893368827842561",
+    "sources": [
+      "https://x.com/zhugeex/status/1416893368827842561",
+      "https://news.qq.com/rain/a/20231128A0BQAY00",
+      "https://www.taptap.cn/moment/164434554071812530",
+      "https://zhuanlan.zhihu.com/p/543810166",
+      "https://zh.moegirl.org.cn/%E6%9C%9D%E5%A4%95%E5%85%89%E5%B9%B4"
+    ]
+  },
+  {
     "name": "镖人 (Biao Ren)",
     "nameEn": "Biao Ren",
     "nameZh": "镖人",
@@ -1315,6 +2905,44 @@ window.GRAVEYARD = [
       "https://www.taptap.cn/app/133943/topic",
       "https://www.9game.cn/biaoren/6531127.html",
       "https://www.7723.cn/strategy/60926.html"
+    ]
+  },
+  {
+    "name": "清北小班 (Qingbei Xiaoban)",
+    "nameEn": "Qingbei Xiaoban",
+    "nameZh": "清北小班",
+    "aliases": [
+      "Qingbei Xiaoban",
+      "清北小班"
+    ],
+    "type": "service",
+    "category": "K-12 online small-class live tutoring",
+    "categoryZh": "K12 在线小班直播辅导",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2020-08",
+    "dateKilled": "2022-02-18",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Dali Education (大力教育)",
+    "developerEntities": [
+      "ByteDance / Dali Education (大力教育)",
+      "字节跳动 (ByteDance)",
+      "大力教育 (Dali Education)"
+    ],
+    "appStoreId": "",
+    "description": "清北小班 (Qingbei Xiaoban) was a ByteDance/Dali Education K-12 online tutoring app launched in August 2020 that used a small-class (≤25 students) live, interactive teaching model to bring premium Beijing teaching resources to primary and middle school students (Chinese, math, English) in lower-tier…",
+    "descZh": "清北小班是字节跳动/大力教育于 2020 年 8 月推出的一款 K12 在线辅导应用，采用小班（≤25 名学生）直播互动教学模式，将北京的优质教学资源带给下沉城市的中小学生（语文、数学、英语）。它与单独收购的大班产品清北网校不同，二者仅共用「清北」品牌。",
+    "killedReason": "Shut down by ByteDance amid China's July 2021 \"双减\" (double-reduction) policy that banned for-profit, capital-backed K-12 academic tutoring. It ceased service by end of 2021 and was one of four Dali Education businesses (alongside GogoKid, 你拍一/NPY, and 汤圆英语/Tangyuan English) whose shutdown was officially announced on Feb 18, 2022.",
+    "reasonZh": "在中国 2021 年 7 月「双减」政策（禁止营利性、资本支持的 K12 学科培训）下被字节跳动关停。它于 2021 年底前停止服务，是大力教育四项业务之一（与 GogoKid、你拍一、汤圆英语并列），其关停于 2022 年 2 月 18 日正式宣布。",
+    "link": "https://www.thepaper.cn/newsDetail_forward_16785544",
+    "sources": [
+      "https://www.thepaper.cn/newsDetail_forward_16785544",
+      "https://new.qq.com/rain/a/20220221A04MAW00",
+      "https://www.jiemian.com/article/4827990.html",
+      "https://news.zol.com.cn/750/7502948.html",
+      "https://www.iyiou.com/news/202008131006743"
     ]
   },
   {
@@ -1356,6 +2984,49 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "海豚股票 (Dolphin Stock)",
+    "nameEn": "Dolphin Stock",
+    "nameZh": "海豚股票",
+    "aliases": [
+      "Dolphin Stock",
+      "钠镁股票",
+      "Namei Stock / Sodium-Magnesium Stock",
+      "纳镁股票 (common misspelling)",
+      "海豚 (current app store name)",
+      "文星在线 Wenxing Online (operator)"
+    ],
+    "type": "app",
+    "category": "Securities / stock-market data &",
+    "categoryZh": "证券／股市数据与模拟交易应用",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2017",
+    "dateKilled": "2022-02",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology (Toutiao)",
+    "developerEntities": [
+      "Beijing Wenxing Online Technology Co., Ltd. (北京文星在线科技有限公司), 100% held by Jiangsu Toutiao / ByteDance; package com.ss.android.caijing.stock. After divestiture the app store developer is Hualin Securiti",
+      "北京文星在线科技有限公司 (Beijing Wenxing Online Technology)",
+      "江苏今日头条 (Jiangsu Toutiao, ByteDance)",
+      "字节跳动 ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "ByteDance's first finance product: a stock-market quote, data-analysis and (paper-trading) app launched in 2017 as 钠镁股票 and renamed 海豚股票 (Dolphin Stock) in 2019, operated by ByteDance subsidiary 文星在线. It applied ByteDance's recommendation/ML tech to securities information.",
+    "descZh": "字节跳动的首款金融产品：一款股市行情、数据分析及（模拟交易）应用，2017 年以“钠镁股票”之名上线，2019 年更名为“海豚股票”，由字节跳动子公司文星在线运营。它将字节跳动的推荐／机器学习技术应用于证券资讯。2022 年 2 月，字节跳动以 2000 万元人民币将运营方文星在线（100% 股权）出售给华林证券，并在中国金融监管收紧之际全面退出证券业务、关停该应用；该业务约有 13.4 万日活且处于亏损状态。",
+    "killedReason": "ByteDance fully exited the securities business amid tightening Chinese regulation of internet giants' financial operations; the unit was small and loss-making (2021 revenue ~RMB28.5M, net loss ~RMB1.64M, ~134k DAU). Operator 文星在线 sold to 华林证券 for RMB20M (Feb 2022), after which ByteDance discontinued the app.",
+    "reasonZh": "在中国对互联网巨头金融业务监管收紧之际，字节跳动全面退出证券业务；该业务规模小且亏损（2021 年营收约 2850 万元、净亏损约 164 万元、约 13.4 万日活）。运营方文星在线于 2022 年 2 月以 2000 万元出售给华林证券，之后字节跳动停掉了该应用。",
+    "link": "http://m.ce.cn/gp/gd/202202/22/t20220222_37346127.shtml",
+    "sources": [
+      "http://m.ce.cn/gp/gd/202202/22/t20220222_37346127.shtml",
+      "https://www.pingwest.com/a/259100",
+      "https://www.caixinglobal.com/2022-02-22/bytedance-looks-to-exit-securities-business-as-fintech-rules-tighten-101845498.html",
+      "https://news.cnstock.com/news,bwkx-202202-4830665.htm",
+      "https://www.stcn.com/article/detail/527741.html"
+    ]
+  },
+  {
     "name": "Pixsoul",
     "nameEn": "Pixsoul",
     "nameZh": "Pixsoul",
@@ -1392,6 +3063,320 @@ window.GRAVEYARD = [
       "https://www.pingwest.com/w/249512",
       "https://www.ithome.com/0/575/067.htm",
       "https://tech.chinadaily.com.cn/a/202109/18/WS6145a8bda3107be4979ee9d5.html"
+    ]
+  },
+  {
+    "name": "松鼠证券 (Squirrel Securities)",
+    "nameEn": "Squirrel Securities",
+    "nameZh": "松鼠证券",
+    "aliases": [
+      "Squirrel Securities",
+      "Songshu Zhengquan",
+      "Squirrel Securities International Company Limited",
+      "松鼠证券国际"
+    ],
+    "type": "service",
+    "category": "Securities/online brokerage (Hong Kong",
+    "categoryZh": "证券／在线券商（香港，港股/美股交易）",
+    "region": "Hong Kong (overseas HK/US equities)",
+    "regionZh": "香港（海外港股/美股）",
+    "dateLaunched": "2019",
+    "dateKilled": "2022",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Squirrel Securities International Company Limited",
+    "developerEntities": [
+      "Squirrel Securities International Company Limited (松鼠证券国际有限公司), a ByteDance HK entity",
+      "ByteDance (字节跳动)",
+      "Squirrel Securities International Company Limited (松鼠证券国际有限公司)"
+    ],
+    "appStoreId": "",
+    "description": "Squirrel Securities was ByteDance's Hong Kong online securities brokerage, registered around late 2019/2020, which obtained HK SFC Type 1, 4, 5, 6 and 9 licenses to offer securities and futures trading, investment/futures advice, institutional financing advice and asset management for overseas…",
+    "descZh": "松鼠证券是字节跳动旗下的香港在线证券经纪商，约于 2019 年底/2020 年注册，取得香港证监会第 1、4、5、6、9 类牌照，可提供证券和期货交易、投资/期货咨询、机构融资咨询及资产管理服务，面向海外（港股/美股）股票。它与另行搭建的恒星证券以及中国大陆的海豚股票行情应用一起，构成了字节跳动的海外证券版块。",
+    "killedReason": "ByteDance retreated from its broader fintech ambitions amid tightened Chinese/HK regulatory scrutiny of unlicensed cross-border internet brokerage and low engagement (Squirrel reportedly ~200k DAU). In Feb 2022 ByteDance announced it would completely divest the securities business and not pursue it in future; Dolphin Stock was sold to Huaxin Securities (华林证券) while Squirrel Securities and Stellar Securities were sold to/contacted by potential buyers or wound down (Stellar's app shut June 28, 2022).",
+    "reasonZh": "在跨境互联网券商监管收紧、参与度低迷（据报道约 20 万日活）之际，字节跳动从金融科技布局中撤退。2022 年 2 月宣布彻底剥离证券业务、不再涉足；海豚股票售予华林证券，松鼠证券与恒星证券则被出售或关停。",
+    "link": "https://www.jiemian.com/article/7164025.html",
+    "sources": [
+      "https://www.jiemian.com/article/7164025.html",
+      "https://finance.eastmoney.com/a2/202008131592870325.html",
+      "https://finance.sina.cn/stock/qs/2020-08-13/detail-iivhuipn8438161.d.html",
+      "https://m.jiemian.com/article/6552259.html",
+      "https://m.21jingji.com/article/20210904/herald/2c7095df1f99ab4dc5a7101697cbcd5c.html"
+    ]
+  },
+  {
+    "name": "恒星证券 (Stellar Securities)",
+    "nameEn": "Stellar Securities",
+    "nameZh": "恒星证券",
+    "aliases": [
+      "恒星证券",
+      "Stellar Securities",
+      "亚洲太平证券有限公司",
+      "Asia Pacific Securities Limited",
+      "亚太证券 (HK)"
+    ],
+    "type": "service",
+    "category": "Financial services / securities brokerage",
+    "categoryZh": "金融服务／证券经纪（香港）",
+    "region": "Hong Kong",
+    "regionZh": "香港",
+    "dateLaunched": "2021-03-05",
+    "dateKilled": "2022",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "ByteDance",
+    "developerEntities": [
+      "ByteDance (字节跳动) — acquired Asia Pacific Securities Limited 亚洲太平证券有限公司, an SFC-licensed Hong Kong brokerage",
+      "ByteDance (字节跳动)",
+      "Asia Pacific Securities Limited (亚洲太平证券有限公司)",
+      "恒星证券"
+    ],
+    "appStoreId": "",
+    "description": "恒星证券 (Stellar Securities) was a Hong Kong securities brokerage that ByteDance acquired in January 2021 by buying the established local broker 亚洲太平证券有限公司 (Asia Pacific Securities Limited, founded 1996) and renaming it on 5 March 2021.",
+    "descZh": "恒星证券是字节跳动于 2021 年 1 月通过收购成立已久的本地券商亚洲太平证券有限公司（Asia Pacific Securities Limited，1996 年成立）、并在 2021 年 3 月 5 日将其更名而来的一家香港券商。它是字节跳动更广泛的金融科技/证券布局的一部分（与海豚股票应用和松鼠证券并列），但始终是一个内部测试主体，从未正式向公开市场开放。",
+    "killedReason": "ByteDance announced a full exit from the securities business in February 2022 amid Beijing's tech/fintech crackdown, falling Hong Kong tech valuations, and regulatory scrutiny of cross-border internet brokerages operating \"unlicensed\" within mainland China. It sold the Dolphin stock app and 文星在线 to ChinaLin Securities (华林证券, ~RMB 20M) and divested or internally wound down its other securities entities, including Stellar Securities, which was ultimately shut down.",
+    "reasonZh": "在科技/金融科技整顿、香港科技股估值下跌及跨境互联网券商在中国大陆“无牌”经营受监管审查之际，字节跳动于 2022 年 2 月宣布全面退出证券业务，将海豚股票及文星在线售予华林证券，并剥离或内部关停其他证券主体，恒星证券最终被关停。",
+    "link": "https://www.zhitongcaijing.com/content/detail/481112.html",
+    "sources": [
+      "https://www.zhitongcaijing.com/content/detail/481112.html",
+      "https://cn.technode.com/post/2021-09-06/bytedance-sell-securities/",
+      "https://www.cbdio.com/BigData/2022-02/22/content_6167837.htm",
+      "https://finance.sina.com.cn/stock/quanshang/qsyj/2022-02-21/doc-imcwiwss2147167.shtml",
+      "https://finance.caixin.com/m/2022-02-21/101844968.html"
+    ]
+  },
+  {
+    "name": "小趣星 (Xiaoquxing)",
+    "nameEn": "Xiaoquxing",
+    "nameZh": "小趣星",
+    "aliases": [
+      "Xiaoquxing",
+      "Xiao Quxing",
+      "Little Fun Star",
+      "儿童版抖音"
+    ],
+    "type": "app",
+    "category": "Kids educational short video",
+    "categoryZh": "儿童教育短视频",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-09-20",
+    "dateKilled": "2022",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Dali Education (大力教育)",
+    "developerEntities": [
+      "北京未来智学教育科技有限公司 (Beijing Future Smart Learning Education Technology Co., Ltd.) — a wholly-owned subsidiary of ByteDance's Dali Education (大力教育)",
+      "ByteDance (字节跳动)",
+      "Dali Education (大力教育)",
+      "北京未来智学教育科技有限公司 (Beijing Future Smart Learning Education Technology Co., Ltd.)"
+    ],
+    "appStoreId": "",
+    "description": "小趣星 (Xiaoquxing) was a children's interest/educational short-video app launched by ByteDance's Dali Education unit on ~September 20, 2021, billed as ByteDance's third short-video app after Douyin and Douyin Volcano version.",
+    "descZh": "小趣星是字节跳动大力教育部门于2021年9月20日前后推出的一款儿童兴趣/教育短视频App，号称是继抖音和抖音火山版之后字节跳动的第三款短视频App。它提供按年龄匹配、限制使用时长（约每天40分钟）的精选内容，涵盖人文、科学、绘本、儿歌等34个品类，内容源自抖音青少年模式的创作者，不设录制、发布、评论、分享等社交功能。",
+    "killedReason": "Discontinued amid the collapse and restructuring of ByteDance's Dali Education business following China's 2021 \"double reduction\" (双减) policy on after-school tutoring, which forced ByteDance to wind down or pivot most of its education products after heavy losses and layoffs.",
+    "reasonZh": "在中国2021年“双减”课外辅导政策导致字节跳动大力教育业务崩塌与重组后停运；该政策迫使字节跳动在巨额亏损和裁员后关停或转型大部分教育产品。",
+    "link": "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5260012.shtml",
+    "sources": [
+      "https://finance.sina.com.cn/tech/2021-09-20/doc-iktzscyx5260012.shtml",
+      "https://www.jiemodui.com/N/128457.html",
+      "https://www.sohu.com/a/491035576_115563",
+      "https://www.sohu.com/a/491396903_120780844",
+      "https://www.cnpp.cn/focus/4549.html"
+    ]
+  },
+  {
+    "name": "大力智慧眼 (Dali Smart Eye)",
+    "nameEn": "Dali Smart Eye",
+    "nameZh": "大力智慧眼",
+    "aliases": [
+      "Dali Smart Eye",
+      "大力智慧眼",
+      "大力一起学HD (companion app)"
+    ],
+    "type": "hardware",
+    "category": "Education hardware accessory",
+    "categoryZh": "教育硬件配件（平板转学习机配件）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-10",
+    "dateKilled": "2022",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Dali Education (大力教育)",
+    "developerEntities": [
+      "北京大力教育科技有限公司 (Beijing Dali Education Technology Co., Ltd.), a wholly-owned ByteDance subsidiary",
+      "大力教育 (Dali Education)",
+      "字节跳动 ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "A low-cost (~RMB99) tablet accessory consisting of a support stand plus a reflective mirror that redirects a tablet's front camera to read materials on the desk.",
+    "descZh": "一款低价（约 99 元人民币）的平板电脑配件，由一个支撑架加一面反射镜组成，可将平板的前置摄像头转向，读取桌面上的学习材料。配合配套 App「大力一起学 HD」，它能把普通的 7.9 至 11 英寸平板变成一台「学习机」，具备手指查词、指读、课本点读、AI 批改作业、语音问答和在线自习室等功能。这是大力教育继智能作业灯/学习灯之后推出的硬件产品。",
+    "killedReason": "Released in October 2021, just months after China's July 2021 \"double reduction\" (双减) policy crippled the K-12 tutoring industry. ByteDance gutted its Dali Education business with mass layoffs; the product and its companion app are defunct.",
+    "reasonZh": "于 2021 年 10 月发布，距中国 2021 年 7 月「双减」政策重创 K12 课外培训行业仅数月。字节跳动通过大规模裁员收缩大力教育业务；该产品及其配套 App 已停止运营。",
+    "link": "https://www.jiemodui.com/N/128928.html",
+    "sources": [
+      "https://www.jiemodui.com/N/128928.html",
+      "https://www.chinaventure.com.cn/news/110-20211022-365098.html",
+      "https://edu.sina.com.cn/l/2021-10-21/doc-iktzqtyu2735224.shtml",
+      "http://www.duozhi.com/industry/K12/2021102213018.shtml",
+      "https://www.lanjinger.com/d/169297"
+    ]
+  },
+  {
+    "name": "If Yooou（字节跳动快时尚独立站） (If Yooou)",
+    "nameEn": "If Yooou",
+    "nameZh": "If Yooou（字节跳动快时尚独立站）",
+    "aliases": [
+      "IfYooou",
+      "If Yooou 独立站"
+    ],
+    "type": "service",
+    "category": "Cross-border fast-fashion e-commerce",
+    "categoryZh": "跨境快时尚电商（女装 DTC 独立站）",
+    "region": "Europe",
+    "regionZh": "欧洲",
+    "dateLaunched": "2022",
+    "dateKilled": "2022",
+    "status": "discontinued",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "ByteDance",
+    "developerEntities": [
+      "ByteDance (字节跳动) — cross-border e-commerce / overseas business unit; operating legal entity not publicly disclosed in sources",
+      "ByteDance (字节跳动)"
+    ],
+    "appStoreId": "",
+    "description": "If Yooou was ByteDance's third cross-border fast-fashion attempt: a women's apparel DTC \"independent site\" (独立站) targeting Europe (UK, France, Germany, Italy, Spain, plus Belgium, Ireland, Sweden, Finland), positioned as a low-price/high-service Shein and Temu rival with most items priced roughly…",
+    "descZh": "If Yooou 是字节跳动第三次跨境快时尚尝试：一个面向欧洲（英、法、德、意、西，以及比利时、爱尔兰、瑞典、芬兰）的女装 DTC「独立站」，定位为低价/高服务的 Shein 和 Temu 竞争对手，多数商品定价约 5 至 53 英镑。2022 年上线后，月访问量从 6 月的约 35.1 万次暴跌至 10 月的约 5000 次，该站基本被弃置，再未更新冬季/黑五库存。",
+    "killedReason": "Failed to gain traction against Shein/Temu; traffic collapsed ~99% within months and ByteDance let the standalone fast-fashion site wither, consistent with its earlier Dmonstudio (shut after ~3 months, Feb 2022) and Fanno (dissolved ~April 2022) failures. ByteDance refocused cross-border e-commerce on TikTok Shop.",
+    "reasonZh": "未能在与 Shein/Temu 的竞争中获得关注；数月内流量暴跌约 99%，字节跳动任由这个独立快时尚站点衰落，延续了此前 Dmonstudio（约 3 个月即关停）和 Fanno（2022 年 4 月解散）的失败。跨境电商重心重新聚焦于 TikTok Shop。",
+    "link": "https://pandaily.com/bytedance-launches-womens-fashion-retail-platform-if-yooou/",
+    "sources": [
+      "https://pandaily.com/bytedance-launches-womens-fashion-retail-platform-if-yooou/",
+      "https://pandaily.com/bytedances-womenswear-retail-platform-if-yooou-faces-crisis/",
+      "https://en.pingwest.com/a/10861",
+      "https://daoinsights.com/news/bytedance-launches-womens-fashion-retail-platform-if-yooou/",
+      "https://www.jiemian.com/article/8185896.html"
+    ]
+  },
+  {
+    "name": "松果门诊 / 小荷门诊 (Songguo Clinic (Pinecone Clinic) / Xiaohe Clinic)",
+    "nameEn": "Songguo Clinic (Pinecone Clinic) / Xiaohe Clinic",
+    "nameZh": "松果门诊 / 小荷门诊",
+    "aliases": [
+      "Songguo Clinic",
+      "Pinecone Clinic",
+      "Xiaohe Clinic",
+      "松果门诊",
+      "北京松果门诊部",
+      "小荷门诊"
+    ],
+    "type": "service",
+    "category": "Offline clinic / healthcare",
+    "categoryZh": "线下门诊 / 医疗",
+    "region": "China (Beijing",
+    "regionZh": "中国（北京——海淀/中关村，e世界财富中心）",
+    "dateLaunched": "2020-11",
+    "dateKilled": "2022",
+    "status": "rebranded",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Hainan Xiaohe Health (小荷健康)",
+    "developerEntities": [
+      "北京松果门诊部有限公司 (Beijing Songguo Clinic Co., Ltd.), 100% held via 北京松果医疗 → 小荷健康科技(北京) → ByteDance; originally under 北京极光半径科技 (Aurora Radius)",
+      "字节跳动 ByteDance",
+      "小荷健康科技(北京)有限公司 Xiaohe Health Technology (Beijing)",
+      "北京松果医疗有限公司 Beijing Songguo Medical",
+      "北京松果门诊部有限公司 Beijing Songguo Clinic",
+      "北京极光半径科技有限公司 Beijing Aurora Radius Technology (极光 health division)"
+    ],
+    "appStoreId": "",
+    "description": "松果门诊 (Songguo / \"Pinecone\" Clinic) was ByteDance's first brick-and-mortar comprehensive outpatient clinic, opened in Beijing's Zhongguancun in late 2020 under its 极光 (Aurora) health unit.",
+    "descZh": "松果门诊是字节跳动首家实体综合门诊，于 2020 年底在北京中关村开业，隶属其极光健康部门。字节跳动于 2021 年 1 月取得全资控股后，将其更名为小荷门诊，归入小荷健康/小荷医疗品牌；在字节跳动收购美中宜和医院集团后，又被更名为新中关宜和门诊部，其小程序退役，改用美中宜和的小程序。",
+    "killedReason": "ByteDance's first offline clinic was folded into its newly acquired Amcare (美中宜和) hospital group: the 小荷门诊 brand lasted only about a month before being renamed 新中关宜和门诊部 (New Zhongguancun Amcare Clinic), its standalone mini-program was taken offline and replaced by Amcare's, and the parent 极光/小荷健康 health division was merged into Douyin in 2023. Reflects ByteDance's difficulty making online-to-offline (O2O) internet healthcare work.",
+    "reasonZh": "字节跳动首家线下门诊被并入其新收购的美中宜和医院集团：小荷门诊品牌仅存续约一个月即被更名为新中关宜和门诊部，其独立小程序下线并被美中宜和的取代，母级极光/小荷健康部门于 2023 年并入抖音。这反映出字节跳动在打通线上到线下（O2O）互联网医疗方面的困难。",
+    "link": "https://news.qq.com/rain/a/20240520A08XN200",
+    "sources": [
+      "https://news.qq.com/rain/a/20240520A08XN200",
+      "https://www.chinatimes.net.cn/article/124809.html",
+      "https://www.pai.com.cn/137268.html",
+      "https://m.gelonghui.com/p/428427",
+      "https://www.chinaventure.com.cn/news/111-20220809-370487.html"
+    ]
+  },
+  {
+    "name": "BeatDynamic（音乐发行平台） (BeatDynamic)",
+    "nameEn": "BeatDynamic",
+    "nameZh": "BeatDynamic（音乐发行平台）",
+    "aliases": [],
+    "type": "service",
+    "category": "Music distribution / copyright platform",
+    "categoryZh": "音乐分发／版权平台（测试）",
+    "region": "China / unclear (reported during",
+    "regionZh": "中国大陆／不明确（在字节跳动更大规模的音乐布局期间被报道）",
+    "dateLaunched": "2021-01",
+    "dateKilled": "2021-20",
+    "status": "discontinued",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "ByteDance",
+    "developerEntities": [
+      "ByteDance (字节跳动) — no App Store/Play listing found; never released as a public consumer product",
+      "ByteDance (字节跳动)"
+    ],
+    "appStoreId": "",
+    "description": "BeatDynamic was a music distribution platform that ByteDance was internally testing around January 2021 to pilot its music copyright/distribution business, as part of building an end-to-end music industry chain (playback, distribution, copyright operations) alongside the contemporaneous \"Feiyue\"…",
+    "descZh": "BeatDynamic 是字节跳动在 2021 年 1 月前后内部测试的一个音乐分发平台，用于试水其音乐版权／分发业务，是其搭建音乐产业全链条（播放、分发、版权运营）的一部分，与同期的“飞乐”测试并行推进。它曾被中国科技媒体报道，但从未作为独立品牌的消费级产品上线。",
+    "killedReason": "Appears to have been an early test that never shipped as a public product; ByteDance's music-distribution ambitions were ultimately carried by SoundOn (launched 2022) and Resso, with BeatDynamic disappearing from coverage after the initial 2021 reports.",
+    "reasonZh": "似乎只是一个从未推出为公开产品的早期测试；字节跳动的音乐分发布局最终由 SoundOn（2022 年上线）和 Resso 承接，BeatDynamic 在 2021 年的初次报道之后便从公众视野中消失。",
+    "link": "https://www.jiemian.com/article/6003282.html",
+    "sources": [
+      "https://www.jiemian.com/article/6003282.html",
+      "https://m.21jingji.com/article/20210810/herald/0afd22d2a00aa9a01b18a053a120784f.html",
+      "https://news.qq.com/rain/a/20210705A0CJ4O00",
+      "http://www.woshipm.com/it/5018277.html"
+    ]
+  },
+  {
+    "name": "海豚财富 (Dolphin Wealth)",
+    "nameEn": "Dolphin Wealth",
+    "nameZh": "海豚财富",
+    "aliases": [
+      "Dolphin Wealth",
+      "Haitun Caifu"
+    ],
+    "type": "app",
+    "category": "Finance / financial-information platform",
+    "categoryZh": "金融／财经资讯平台",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2017",
+    "dateKilled": "2021-20",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "北京文星在线科技有限公司",
+    "developerEntities": [
+      "北京文星在线科技有限公司 (Beijing Wenxing Online Technology Co., Ltd.) — ByteDance's finance operating entity",
+      "ByteDance (字节跳动)",
+      "北京文星在线科技有限公司 / Beijing Wenxing Online Technology"
+    ],
+    "appStoreId": "",
+    "description": "海豚财富 (Dolphin Wealth) was a financial-information / wealth platform in ByteDance's \"Dolphin\" (海豚) finance product line — the prefix personally chosen by founder Zhang Yiming — alongside the mock-trading app 海豚股票 (Dolphin Stock).",
+    "descZh": "海豚财富是字节跳动“海豚”金融产品线中的一个金融资讯／财富平台——“海豚”这一前缀由创始人张一鸣亲自选定——与模拟交易应用海豚股票并列。它在字节跳动 2021—2022 年退出金融／证券业务期间被关停。",
+    "killedReason": "Wound down as part of ByteDance's broader 2021–2022 retreat from financial/securities businesses. The sibling product 海豚股票 (Dolphin Stock) and operating entity 文星在线 were sold to Hualing Securities (华林证券) for ~20M RMB in Feb 2022; the Dolphin finance line as a whole was shut down/divested as ByteDance stated it would no longer pursue securities business.",
+    "reasonZh": "作为字节跳动 2021—2022 年从金融／证券业务整体撤退的一部分而被关停。同门产品海豚股票及运营主体文星在线于 2022 年 2 月以约 2000 万元出售给华林证券；随着字节跳动表示不再涉足证券业务，整条海豚金融产品线被关停／剥离。",
+    "link": "https://www.pingwest.com/a/259100",
+    "sources": [
+      "https://www.pingwest.com/a/259100",
+      "https://www.jiemian.com/article/7133025.html",
+      "https://www.cls.cn/detail/938917",
+      "https://www.stcn.com/article/detail/527434.html"
     ]
   },
   {
@@ -1466,6 +3451,87 @@ window.GRAVEYARD = [
       "https://technode.com/2019/05/20/bytedance-launches-new-social-app-feiliao/",
       "https://technode.com/2019/07/12/bytedances-social-app-feiliao-removed-from-apples-app-store/",
       "https://kr-asia.com/feiliao-bytedances-second-social-app-to-challenge-wechat-gets-removed-from-apples-app-store"
+    ]
+  },
+  {
+    "name": "TikTok 高光时刻 (TikTok Top Moments)",
+    "nameEn": "TikTok Top Moments",
+    "nameZh": "TikTok 高光时刻",
+    "aliases": [
+      "TikTok NFT",
+      "TikTok Top Moments NFT",
+      "TikTok's first creator-led NFT collection"
+    ],
+    "type": "service",
+    "category": "Crypto / Web3 / NFT",
+    "categoryZh": "加密货币 / Web3 / NFT",
+    "region": "Global",
+    "regionZh": "全球",
+    "dateLaunched": "2021-09-30",
+    "dateKilled": "2021-12",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "TikTok",
+    "developerEntities": [
+      "TikTok (ByteDance)",
+      "TikTok",
+      "ByteDance",
+      "Immutable X (blockchain infrastructure partner)"
+    ],
+    "appStoreId": "",
+    "description": "TikTok Top Moments was TikTok's first-ever (and only) NFT collection, announced Sep 30, 2021, with the first auction Oct 6, 2021.",
+    "descZh": "TikTok Top Moments 是 TikTok 首个（也是唯一一个）NFT 系列，于 2021 年 9 月 30 日宣布，首场拍卖在 2021 年 10 月 6 日举行。该系列原计划将六段「具有文化意义」的 TikTok 视频作为创作者（Lil Nas X、Bella Poarch、Grimes、Brittany Broski、Curtis Roach、Jess Marciante、FNMeka）的独版 NFT，与加密原生艺术家（RTFKT、Coin Artist、x0r）合作推出，在以太坊上铸造，限量版由碳中和的 L2 网络 Immutable X…",
+    "killedReason": "Project was rushed and collapsed within ~2 months: TikTok could not secure music publishing rights (e.g. Lil Nas X's \"Montero,\" complicated by crypto-royalty payment issues with publishers like Universal Music Publishing Group), Lil Nas X and other marquee names (Bella Poarch, Grimes, Brittany Broski) dropped out, and NFT-community pushback against a big corporation entering Web3 deterred participation. Only ~2 of 6 planned NFTs ever dropped; effectively abandoned by December 2021.",
+    "reasonZh": "项目仓促上马，约两个月内崩盘：TikTok 无法取得音乐版权（Lil Nas X 的《Montero》因加密版税问题受阻），多位大牌退出，NFT 社区抵触大公司进军 Web3。六个 NFT 仅约两个上线，至 2021 年 12 月实质放弃。",
+    "link": "https://newsroom.tiktok.com/en-us/tiktok-launches-first-creator-led-nft-collection-powered-by-immutable-x",
+    "sources": [
+      "https://newsroom.tiktok.com/en-us/tiktok-launches-first-creator-led-nft-collection-powered-by-immutable-x",
+      "https://www.rollingstone.com/music/music-news/tiktok-nfts-lil-nas-x-bella-poarch-grimes-1266048/",
+      "https://decrypt.co/82298/tiktok-ethereum-nfts-lil-nas-x-gary-vee-grimes",
+      "https://www.hollywoodreporter.com/business/digital/tiktok-nft-lil-nax-x-grimes-bella-poarch-brittany-broski-1235023340/",
+      "https://www.billboard.com/pro/plugged-in-tiktok-nft-brands/"
+    ]
+  },
+  {
+    "name": "心动外卖 (Xindong Waimai (Heartbeat Takeout))",
+    "nameEn": "Xindong Waimai (Heartbeat Takeout)",
+    "nameZh": "心动外卖",
+    "aliases": [
+      "Xindong Waimai",
+      "Heartbeat Takeout",
+      "心动外卖小程序",
+      "Douyin food delivery beta"
+    ],
+    "type": "service",
+    "category": "Food delivery / Local life services",
+    "categoryZh": "外卖 / 本地生活服务",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-07",
+    "dateKilled": "2021-12",
+    "status": "discontinued",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "北京字跳网络技术有限公司",
+    "developerEntities": [
+      "北京字跳网络技术有限公司 (Beijing Zitiao Network Technology Co., Ltd.) — ByteDance subsidiary",
+      "北京字跳网络技术有限公司 (Beijing Zitiao Network Technology Co., Ltd.)",
+      "ByteDance",
+      "Douyin / 抖音"
+    ],
+    "appStoreId": "",
+    "description": "心动外卖 (Heartbeat Takeout) was ByteDance/Douyin's standalone food-delivery beta, launched as an internal test inside the Douyin app in July 2021 under the slogan \"心动外卖，吃你所爱\" (Heartbeat Takeout, eat what you love). The mini-program software was copyright-registered (reg. no.",
+    "descZh": "心动外卖是字节跳动/抖音的独立外卖业务测试版，于 2021 年 7 月作为抖音 App 内的内部测试推出，口号为「心动外卖，吃你所爱」。该小程序软件由字节跳动子公司北京字跳网络技术有限公司进行了著作权登记（登记号 2021SR1481161，2021 年 10 月 11 日核准）；其目标是直接招募餐饮商家入驻，并可能作为聚合平台运营。",
+    "killedReason": "Standalone build-out failed — Douyin lacked its own delivery/courier infrastructure and merchant onboarding was thin; the company publicly denied formal takeout plans, suspended internal testing, and removed the mini-program by end of 2021. ByteDance later abandoned the in-house model and pivoted to a delivery partnership with Alibaba's Ele.me (announced August 2022).",
+    "reasonZh": "独立搭建以失败告终——抖音缺乏自有的配送/骑手基础设施，商家入驻量薄弱；公司公开否认有正式外卖计划，暂停了内部测试，并在 2021 年底前下线了该小程序。字节跳动后来放弃了自营模式，转而与阿里巴巴旗下饿了么达成配送合作（2022 年 8 月宣布）。",
+    "link": "https://news.qq.com/rain/a/20211014A05DJJ00",
+    "sources": [
+      "https://news.qq.com/rain/a/20211014A05DJJ00",
+      "https://m.163.com/dy/article/GM95CHIN0511CPVM.html",
+      "https://m.163.com/dy/article/GGLC1TEA05198SDK.html",
+      "https://www.guancha.cn/ChanJing/2021_07_15_598642.shtml",
+      "https://36kr.com/p/1311268092723721"
     ]
   },
   {
@@ -1818,6 +3884,48 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "Smartisan TNT go（坚果 TNT 显示器 / TNT 扩展本） (Smartisan TNT Go)",
+    "nameEn": "Smartisan TNT Go",
+    "nameZh": "Smartisan TNT go（坚果 TNT 显示器 / TNT 扩展本）",
+    "aliases": [
+      "Smartisan TNT go",
+      "TNT 显示器",
+      "TNT Monitor",
+      "坚果 TNT 扩展本",
+      "TNT extension display"
+    ],
+    "type": "hardware",
+    "category": "Computer hardware / portable touch",
+    "categoryZh": "电脑硬件 / 便携触控显示器（TNT 系统扩展）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2020-10-20",
+    "dateKilled": "2021-01",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Smartisan / New Stone Lab (新石实验室)",
+    "developerEntities": [
+      "新石实验室 (Xinshi Lab), a ByteDance team/subsidiary formed from the former Hammer Technology (锤子科技 / Smartisan) staff after ByteDance acquired Smartisan patent rights in Jan 2019",
+      "新石实验室 Xinshi Lab",
+      "字节跳动 ByteDance",
+      "(brand) Smartisan / 坚果 Jinguo"
+    ],
+    "appStoreId": "",
+    "description": "Smartisan TNT go was a 12-inch 2K (2160x1440, 3:2) ten-point touch portable monitor/\"extension notebook\" released on Oct 20, 2020 alongside the Jinguo R2 phone, designed to pair with a TNT-OS phone to deliver a large-screen desktop computing experience.",
+    "descZh": "Smartisan TNT go 是一款 12 英寸 2K（2160×1440，3:2）十点触控便携显示器/「扩展本」，于 2020 年 10 月 20 日与坚果 R2 手机同步发布，旨在与 TNT-OS 手机配合，提供大屏桌面计算体验。它由字节跳动新石实验室（即 2019 年加入字节跳动的原锤子/Smartisan 团队）开发并销售；有线版售价 1999 元人民币，无线加触控笔版售价 2999 元人民币。",
+    "killedReason": "In January 2021 ByteDance restructured its hardware arm: Xinshi Lab (the ex-Hammer/Smartisan team) was merged into ByteDance's education-hardware team (the Dali Smart / Dali 大力 group) and explicitly stopped developing Jinguo phones and TNT displays to focus on education. Commercial failure drove the decision — the bundled R2 + TNT Go (\"LKP\" suite) reportedly sold under 1,000 units.",
+    "reasonZh": "2021 年 1 月字节跳动重组硬件部门：新石实验室（原锤子团队）并入大力教育硬件团队，明确停止开发坚果手机和 TNT 显示器，转聚焦教育。商业失败是主因——R2 加 TNT Go（「LKP」套装）据报道销量不足 1000 台。",
+    "link": "https://finance.sina.com.cn/tech/2020-10-21/doc-iiznctkc6809001.shtml",
+    "sources": [
+      "https://finance.sina.com.cn/tech/2020-10-21/doc-iiznctkc6809001.shtml",
+      "https://www.ithome.com/0/514/701.htm",
+      "https://www.yicai.com/news/100806163.html",
+      "https://3c.ycwb.com/2021-01/18/content_1419299.htm",
+      "https://news.qq.com/rain/a/20210118A0FCLX00"
+    ]
+  },
+  {
     "name": "汤圆英语 (Tangyuan English)",
     "nameEn": "Tangyuan English",
     "nameZh": "汤圆英语",
@@ -1890,6 +3998,251 @@ window.GRAVEYARD = [
       "http://finance.sina.com.cn/tech/csj/2022-03-08/doc-imcwiwss4906953.shtml",
       "https://zhuanlan.zhihu.com/p/494983019",
       "https://m.21jingji.com/article/20181220/herald/2e9f411a6c486be775377fe747ab823c.html"
+    ]
+  },
+  {
+    "name": "福巷海购 (Fuxiang Haigou)",
+    "nameEn": "Fuxiang Haigou",
+    "nameZh": "福巷海购",
+    "aliases": [
+      "Fuxiang Haigou",
+      "福巷海购"
+    ],
+    "type": "service",
+    "category": "Cross-border import e-commerce",
+    "categoryZh": "跨境进口电商",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2020-06",
+    "dateKilled": "2021",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Space Transformation (空间变换)",
+    "developerEntities": [
+      "北京空间变换科技有限公司 (Beijing Space Change/Transformation Technology Co., Ltd.), a wholly-owned ByteDance subsidiary",
+      "字节跳动 (ByteDance)",
+      "北京空间变换科技有限公司 (Beijing Space Change/Transformation Technology Co., Ltd.)"
+    ],
+    "appStoreId": "",
+    "description": "福巷海购 (Fuxiang Haigou) was ByteDance's early cross-border IMPORT e-commerce experiment for Chinese consumers — a \"cross-border boutique discount mall\" mini-program carrying foreign brands from a dozen-plus countries, embedded inside the Douyin and Toutiao apps.",
+    "descZh": "福巷海购是字节跳动早期面向中国消费者的跨境进口电商试验——一个内嵌于抖音和今日头条 App 的「跨境精品折扣商城」小程序，售卖来自十多个国家的国外品牌。它约于 2020 年 6 月通过全资子公司北京空间变换科技有限公司上线（该公司当月申请了多个「福巷海购」商标），但 2020 年底的报道称该小程序仍在测试中且无法正常运行，随着字节跳动将跨境重心转向出口业务（麦哲伦 XYZ、Fanno），它被悄然放弃。",
+    "killedReason": "Never reached a fully working public launch — repeatedly reported as in-testing/non-functional; ByteDance shifted its cross-border e-commerce priority to export businesses (Fanno, TikTok Shop) and shelved the standalone import mini-program.",
+    "reasonZh": "始终未实现完全可用的公开上线——多次被报道处于测试中/无法正常运行；字节跳动将跨境电商优先级转向出口业务（Fanno、TikTok Shop），搁置了这个独立进口小程序。",
+    "link": "https://www.sohu.com/a/425675247_100233806",
+    "sources": [
+      "https://www.sohu.com/a/425675247_100233806",
+      "https://www.cifnews.com/article/79698",
+      "https://www.cifnews.com/article/84984",
+      "https://m.ebrun.com/414313.html",
+      "https://news.pedaily.cn/202012/464021.shtml"
+    ]
+  },
+  {
+    "name": "极课大数据 (Jike Big Data)",
+    "nameEn": "Jike Big Data",
+    "nameZh": "极课大数据",
+    "aliases": [
+      "Jike Dashuju",
+      "极课AI",
+      "极客大数据 (misspelling)",
+      "EI教育智能系统",
+      "Jiangsu Qusu Education (operating entity)"
+    ],
+    "type": "service",
+    "category": "K-12 in-school big-data /",
+    "categoryZh": "K12 校内大数据 / 精准教学分析平台",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2014-10",
+    "dateKilled": "2021",
+    "status": "discontinued",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Bitezhixue (比特智学)",
+    "developerEntities": [
+      "Operating entity: 江苏曲速教育科技有限公司 (Jiangsu Qusu Education Technology Co., Ltd.); controlling shareholder 北京比特智学科技有限公司 (Beijing Bitwise Zhixue Technology Co., Ltd., a ByteDance subsidiary / aiKID operator",
+      "ByteDance (字节跳动)",
+      "北京比特智学科技有限公司 (Beijing Bitwise Zhixue Technology)",
+      "江苏曲速教育科技有限公司 (Jiangsu Qusu Education Technology)",
+      "大力教育 (Dali Education)"
+    ],
+    "appStoreId": "",
+    "description": "极课大数据 was a K-12 in-school big-data precision-teaching platform (its \"EI\" intelligent education system used image recognition and analytics to manage homework, exams and teaching data across 3,500+ schools reaching 5.7M+ teachers/students/parents).",
+    "descZh": "极课大数据是一个 K12 校内大数据精准教学平台（其「EI」智能教育系统利用图像识别和数据分析来管理作业、考试和教学数据，覆盖 3500 多所学校，触达 570 多万名教师/学生/家长）。字节跳动于 2019 年 11 月通过其子公司北京比特智学（aiKID）投资，取得 60.37% 控股权，随后在 2020 年 12 月通过收购紫光学大 9.63% 的持股将股份提升至约 70%，并将其并入字节跳动大力教育的校内教育业务线。",
+    "killedReason": "China's July 2021 \"double reduction\" (双减) K-12 policy crackdown devastated ByteDance's education unit; Dali Education conducted mass layoffs and shut down K12 products in August 2021, and the standalone in-school big-data business was curtailed/wound down. Founder Li Kejia left ByteDance in 2022. (The big-data/teacher capability was reported to feed into the teacher platform 潭水源/Tanshuiyuan.)",
+    "reasonZh": "中国 2021 年 7 月「双减」K12 政策整顿重创了字节跳动的教育部门；大力教育进行大规模裁员并在 2021 年 8 月关停 K12 产品，独立的校内大数据业务被收缩/清退。创始人李轲佳于 2022 年离开字节跳动。（其大数据/教师能力据报道并入了教师平台潭水源。）",
+    "link": "https://www.jiemian.com/article/3706117.html",
+    "sources": [
+      "https://www.jiemian.com/article/3706117.html",
+      "http://www.duozhi.com/EduInformatization/201911229483.shtml",
+      "http://www.duozhi.com/industry/insight/2020120911436.shtml",
+      "https://www.chinaventure.com.cn/news/110-20191122-350409.html",
+      "https://baike.baidu.com/item/%E6%9E%81%E8%AF%BE%E5%A4%A7%E6%95%B0%E6%8D%AE/20842015"
+    ]
+  },
+  {
+    "name": "Ai学 (AI学) (AI Xue (Ai Study))",
+    "nameEn": "AI Xue (Ai Study)",
+    "nameZh": "Ai学 (AI学)",
+    "aliases": [
+      "Aixue",
+      "AI Xue",
+      "AI Study"
+    ],
+    "type": "service",
+    "category": "In-school AI learning analytics /",
+    "categoryZh": "校内 AI 学习分析 / 自适应学习（B 端教育）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2016",
+    "dateKilled": "2021",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Dali Education (大力教育)",
+    "developerEntities": [
+      "ByteDance / Dali Education (大力教育); originally Xuebajun (上海谦问万答吧云计算科技有限公司)",
+      "学霸君 (Xuebajun) — original developer",
+      "字节跳动 ByteDance / 大力教育 Dali Education — owner since Sept 2018"
+    ],
+    "appStoreId": "",
+    "description": "Ai学 (AI学) is a B-end, in-school AI learning-analytics and adaptive-learning platform — using big data, AI problem-solving and OCR handwriting recognition to provide personalized teaching/learning solutions for education regulators, schools, teachers, students and parents.",
+    "descZh": "Ai 学是一个面向 B 端的校内 AI 学习分析与自适应学习平台——利用大数据、AI 解题和 OCR 手写识别，为教育主管部门、学校、教师、学生和家长提供个性化的教/学解决方案。它最初由学霸君开发，覆盖 200 多所学校，其 toB 业务于 2018 年 9 月被字节跳动收购，后并入大力教育品牌，与单独投资的极课大数据并列。",
+    "killedReason": "B-end/in-school edtech business scaled back after China's July 2021 \"双减\" (double reduction) K-12 crackdown; product folded into the 大力教育 (Dali Education) brand and effectively dormant. Not a standalone consumer product.",
+    "reasonZh": "B 端/校内教育科技业务在中国 2021 年 7 月「双减」K12 整顿后被收缩；产品并入大力教育品牌并实质处于休眠状态。并非独立的消费级产品。",
+    "link": "https://www.qbitai.com/2020/10/19520.html",
+    "sources": [
+      "https://www.qbitai.com/2020/10/19520.html",
+      "https://m.21jingji.com/article/20201105/herald/99159f3d35b4a3a455bb52ac2ac90cf3_ths.html",
+      "http://www.eeo.com.cn/2024/0220/637761.shtml",
+      "https://www.jiemian.com/article/3706117.html",
+      "http://www.duozhi.com/EduInformatization/201911229483.shtml"
+    ]
+  },
+  {
+    "name": "火力对决 (Strike Royale)",
+    "nameEn": "Strike Royale",
+    "nameZh": "火力对决",
+    "aliases": [
+      "Huoli Duijue",
+      "超凡火力 (Super Fire Force, original working title)",
+      "冲击同盟 (Charge/Impact Alliance, internal rename)",
+      "Speed Gunfire",
+      "com.duoli.oversea.hldj"
+    ],
+    "type": "game",
+    "category": "Cartoon-style MOBA + third-person shooter",
+    "categoryZh": "卡通风格 MOBA＋第三人称射击（TPS）混合，3v3",
+    "region": "Overseas soft-launch (Southeast Asia",
+    "regionZh": "海外软启动（东南亚、欧洲）＋中国开发",
+    "dateLaunched": "2019-12-23",
+    "dateKilled": "2021",
+    "status": "cancelled",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "Nuverse (朝夕光年), ByteDance's game division; overseas Android build signed under entity \"Duoli\" (package com.duoli.oversea.hldj). Originally developed by Shanghe Network (上禾网络) before ByteDance acquired",
+      "朝夕光年 (Nuverse) — ByteDance gaming division",
+      "101工作室 (Studio 101) — internal ByteDance studio",
+      "上禾网络 (Shanghe Network) — original developer, acquired by ByteDance",
+      "Duoli / 朵力 — overseas app-signing entity (com.duoli.oversea.hldj)"
+    ],
+    "appStoreId": "",
+    "description": "Strike Royale (火力对决) was a cartoon-style 3v3 MOBA + third-person-shooter hybrid mobile game. It began as 超凡火力 (\"Super Fire Force\") at studio Shanghe Network (上禾网络); after ByteDance acquired the studio it became a Studio 101 / Nuverse project, was internally renamed 冲击同盟, and ran an overseas…",
+    "descZh": "火力对决是一款卡通风格的 3v3 MOBA＋第三人称射击（TPS）混合手游。它起初是上禾网络旗下的超凡火力；字节跳动收购该工作室后，它成为 101 工作室/朝夕光年的项目，内部更名为冲击同盟，并以「Strike Royale」之名在东南亚（2019 年 12 月）和欧洲（2020 年初）进行海外软启动。开发于 2021 年初停止。",
+    "killedReason": "Development ceased in early 2021 as a strategic abandonment during ByteDance/Nuverse project culling; internal sources tied the decision to ByteDance's concurrent ~$4B acquisition of Moonton (Mobile Legends), which reprioritized resources away from in-house MOBA efforts. Studio 101 was later dissolved in September 2022 amid broader gaming-portfolio restructuring.",
+    "reasonZh": "开发于 2021 年初停止，是字节跳动/朝夕光年项目筛汰中的战略放弃；内部消息将该决定与字节跳动同期约 40 亿美元收购沐瞳（《无尽对决》）联系起来，资源被重新优先分配，远离自研 MOBA。101 工作室后于 2022 年 9 月在更广泛的游戏组合重组中被解散。",
+    "link": "https://news.qq.com/rain/a/20231128A0BQAY00",
+    "sources": [
+      "https://news.qq.com/rain/a/20231128A0BQAY00",
+      "https://www.yfchuhai.com/article/12420.html",
+      "https://apkcombo.com/strike-royale/com.duoli.oversea.hldj/",
+      "https://speedy-gunfire.en.uptodown.com/android",
+      "https://www.bluestacks.com/apps/action/strike-royale-on-pc.html"
+    ]
+  },
+  {
+    "name": "有咔 (UOKA - Textured Life Camera)",
+    "nameEn": "UOKA - Textured Life Camera",
+    "nameZh": "有咔",
+    "aliases": [
+      "UOKA",
+      "UOKA Camera",
+      "UOKA Cam",
+      "有咔相机",
+      "Youka",
+      "柚咔相机"
+    ],
+    "type": "app",
+    "category": "Camera / AI-filter photography app",
+    "categoryZh": "相机／AI 滤镜拍照应用",
+    "region": "China + global (overseas Google Play",
+    "regionZh": "中国大陆＋海外（曾在 Google Play 发布）",
+    "dateLaunched": "2018-20",
+    "dateKilled": "2020-20",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Faceu / Shenzhen Lianmeng (脸萌)",
+    "developerEntities": [
+      "Shenzhen Faceu Technology Co., Ltd. (深圳市脸萌科技有限公司) / Bytedance Pte. Ltd. — a wholly-owned ByteDance subsidiary; Android package com.lemon.yokaoversea",
+      "深圳市脸萌科技有限公司 (Shenzhen Faceu/Lemon Technology Co., Ltd.)",
+      "Bytedance Pte. Ltd.",
+      "字节跳动 (ByteDance)"
+    ],
+    "appStoreId": "",
+    "description": "UOKA (有咔) was a ByteDance AI-filter camera app offering \"textured life\" filters for food, landscape, portrait and lifestyle scenes, using AI scene-recognition to identify 20+ shooting scenarios and auto-match curated photographer-designed filters.",
+    "descZh": "有咔（UOKA）是字节跳动推出的一款 AI 滤镜相机应用，主打面向美食、风景、人像和生活场景的“质感生活”滤镜，利用 AI 场景识别辨别 20 多种拍摄场景，并自动匹配由摄影师精心设计的滤镜。它同时推出了中国版（有咔）和海外版（“UOKA - Textured Life Camera”，包名 com.lemon.yokaoversea，最后一次更新为 2019 年 9 月 25 日的 v1.5.0 版本）。",
+    "killedReason": "Abandoned in ByteDance's culling of its many overlapping photo/camera apps; only 轻颜相机 (Ulike/Qingyan) and Faceu激萌 survived the consolidation. Failed to gain traction against ByteDance's own dominant camera apps.",
+    "reasonZh": "在字节跳动对旗下众多功能重叠的照片／相机应用的清理中被放弃，整合后只有轻颜相机（Ulike）和 Faceu 激萌存活下来；该应用未能在字节跳动自家占主导地位的相机应用面前打开局面。",
+    "link": "https://www.36kr.com/p/2392708671871876",
+    "sources": [
+      "https://www.36kr.com/p/2392708671871876",
+      "https://www.cls.cn/detail/1435933",
+      "https://play.google.com/store/apps/details?hl=en_SG&id=com.lemon.yokaoversea",
+      "https://apkfab.com/uoka-textured-life-camera/com.lemon.yokaoversea",
+      "https://www.amazon.com/%E6%B7%B1%E5%9C%B3%E5%B8%82%E8%84%B8%E8%90%8C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-UOKA-Textured-Life-Camera/dp/B07WK3VTRF"
+    ]
+  },
+  {
+    "name": "满分 (Manfen)",
+    "nameEn": "Manfen",
+    "nameZh": "满分",
+    "aliases": [
+      "Manfen",
+      "满分App",
+      "满分借款"
+    ],
+    "type": "app",
+    "category": "Fintech / consumer lending (cash",
+    "categoryZh": "金融科技 / 消费信贷（现金分期、消费信贷）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2019-10-10",
+    "dateKilled": "2020-20",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "北京未来视界科技有限公司",
+    "developerEntities": [
+      "北京未来视界科技有限公司 (Beijing Future Vision Technology Co., Ltd.) — legal rep 梁汝波/梁如波 (Liang Rubo, ByteDance co-founder/current CEO); ultimate beneficiary reported as 张一鸣 (Zhang Yiming, ByteDance founder)",
+      "北京未来视界科技有限公司 (Beijing Future Vision Technology Co., Ltd.)",
+      "字节跳动 (ByteDance)"
+    ],
+    "appStoreId": "",
+    "description": "满分 (Manfen) was a standalone Android consumer-finance app quietly launched by ByteDance on 10 October 2019, offering cash installment loans (up to ~200,000 yuan), consumer credit/installments, and bank co-branded credit cards.",
+    "descZh": "满分是字节跳动于2019年10月10日低调推出的一款独立安卓消费金融App，提供现金分期贷款（最高约20万元）、消费信贷/分期以及银行联名信用卡。它充当字节跳动/今日头条“放心借”借贷平台的专属App前端——满分本身是助贷/导流平台，将用户对接到持牌银行（如新网银行、华夏银行），而非直接放贷方。",
+    "killedReason": "The standalone Manfen app never gained traction (Android-only, iOS never shipped); ByteDance consolidated its consumer-lending business into the in-app 放心借 (Fangxinjie) and 抖音月付 products inside Douyin/Toutiao under separate operating entities, leaving the standalone Manfen app effectively abandoned and unsearchable on Android stores.",
+    "reasonZh": "独立的满分App始终未能打开局面（仅有安卓版，iOS从未上线）；字节跳动将消费信贷业务整合进抖音/今日头条内、由不同运营主体承做的放心借和抖音月付产品，致使独立的满分App实际被弃用，在安卓应用商店也搜索不到。",
+    "link": "https://www.51credit.com/info/youliaoxianbao/14466.html",
+    "sources": [
+      "https://www.51credit.com/info/youliaoxianbao/14466.html",
+      "https://m.51credit.com/mp/info/youliaoxianbao/14466.html",
+      "https://www.cebnet.com.cn/20191108/102614718.html",
+      "https://www.guancha.cn/ChanJing/2019_11_07_524398.shtml",
+      "https://zhuanlan.zhihu.com/p/95670057"
     ]
   },
   {
@@ -2054,6 +4407,87 @@ window.GRAVEYARD = [
       "https://www.caixinglobal.com/2020-01-09/bytedance-integrates-lesser-known-short-video-platform-with-douyin-101502657.html",
       "https://zh.wikipedia.org/zh-hans/%E6%8A%96%E9%9F%B3%E7%81%AB%E5%B1%B1%E7%89%88",
       "https://m.21jingji.com/article/20200108/herald/fdfbdc4e4fe7579d6ad81f6da234faf4.html"
+    ]
+  },
+  {
+    "name": "才云科技 (Caicloud)",
+    "nameEn": "Caicloud",
+    "nameZh": "才云科技",
+    "aliases": [
+      "Caicloud Compass",
+      "Caicloud Clever",
+      "Caicloud Cabernet",
+      "杭州才云科技有限公司"
+    ],
+    "type": "service",
+    "category": "Kubernetes / cloud-native container PaaS",
+    "categoryZh": "Kubernetes / 云原生容器 PaaS 与 AI 平台",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2015",
+    "dateKilled": "2020",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Caicloud",
+    "developerEntities": [
+      "Caicloud (杭州才云科技有限公司), acquired by ByteDance",
+      "Caicloud / 才云科技 (founded 2015 by ex-Google/CMU PhD Zhang Xin 张鑫)",
+      "ByteDance 字节跳动 (acquirer)",
+      "Volcano Engine 火山引擎 (integration unit)"
+    ],
+    "appStoreId": "",
+    "description": "Caicloud was a Hangzhou-based Kubernetes/container cloud-native PaaS startup (founded 2015 by ex-Google engineers, CNCF KCSP-certified) whose products included the Caicloud Compass container platform and Caicloud Clever AI middle platform, serving ~100 large enterprises such as China UnionPay…",
+    "descZh": "才云科技是一家总部位于杭州的 Kubernetes/容器云原生 PaaS 创业公司（2015 年由前 Google 工程师创立，通过 CNCF KCSP 认证），其产品包括才云 Compass 容器平台和才云 Clever AI 中台，服务约 100 家大型企业，如中国银联、招商银行和海尔。字节跳动于 2020 年将该公司全资收购，并将其团队和业务并入火山引擎，由 CEO 张鑫领导字节跳动的云原生业务。",
+    "killedReason": "Wholly acquired by ByteDance (deal disclosed late July 2020, announced complete ~18 Aug 2020); the standalone Caicloud company/brand was absorbed and its team and products folded into ByteDance's Volcano Engine (火山引擎) cloud-native offering.",
+    "reasonZh": "被字节跳动全资收购（交易于 2020 年 7 月底披露，约 2020 年 8 月 18 日宣布完成）；独立的才云科技公司/品牌被吸纳，其团队和产品并入字节跳动火山引擎的云原生业务。",
+    "link": "https://tech.sina.com.cn/i/2020-08-18/doc-iivhvpwy1632846.shtml",
+    "sources": [
+      "https://tech.sina.com.cn/i/2020-08-18/doc-iivhvpwy1632846.shtml",
+      "https://news.qq.com/rain/a/20200818A061DM00",
+      "https://www.sohu.com/a/413649203_430392",
+      "https://equalocean.com/news/2020081914566",
+      "https://www.crunchbase.com/acquisition/bytedance-acquires-caicloud--a1941360"
+    ]
+  },
+  {
+    "name": "Biu校园 (Biu Campus)",
+    "nameEn": "Biu Campus",
+    "nameZh": "Biu校园",
+    "aliases": [
+      "Biu Campus",
+      "Biu社交",
+      "biu校园"
+    ],
+    "type": "app",
+    "category": "Campus social network (anonymous social)",
+    "categoryZh": "校园社交（匿名社交）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2017",
+    "dateKilled": "2019-20",
+    "status": "acquired-shut",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "北京涨点姿势科技有限公司",
+    "developerEntities": [
+      "北京涨点姿势科技有限公司 (Beijing Zhangdian Zishi Technology Co., Ltd.)",
+      "北京涨点姿势科技有限公司 (Beijing Zhangdian Zishi Technology Co., Ltd. — original operator)",
+      "北京星云创迹科技有限公司 (Beijing Xingyun Chuangji Technology Co., Ltd. — ByteDance subsidiary/acquirer shell)",
+      "字节跳动 ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "Biu校园 was a China-only campus social networking app (launched 2017) offering anonymous posts, confessions, campus circles, and 1v1 real-time quiz battles among university students.",
+    "descZh": "Biu校园是一款仅在中国运营的校园社交App（2017年推出），面向大学生提供匿名发帖、表白、校园圈子及1对1实时答题对战。2019年，字节跳动子公司北京星云创迹全资控股了运营方北京掌点子时，作为字节跳动屡次进军垂直/校园社交的一部分，但该App彼时已停滞（约一年未在App Store更新），随后被下架。",
+    "killedReason": "Already stagnant at the time of acquisition (development had stalled ~1 year before the Sep 2019 deal); ByteDance's recurring failure to crack vertical campus social meant the product was wound down/delisted rather than scaled. Acquisition appears to have been talent/tech-focused.",
+    "reasonZh": "收购时该产品已停滞（在2019年9月交易前约一年便已停止开发）；字节跳动屡屡未能攻克垂直校园社交，导致该产品被关停/下架而非做大。此次收购似乎以人才/技术为目的。",
+    "link": "https://www.chinaventure.com.cn/news/110-20190912-348327.html",
+    "sources": [
+      "https://www.chinaventure.com.cn/news/110-20190912-348327.html",
+      "https://36kr.com/newsflashes/3279804465153",
+      "https://tech.sina.cn/i/gn/2019-09-12/detail-iicezzrq5452106.d.html",
+      "https://news.hexun.com/2019-09-12/198542824.html",
+      "https://www.jiemian.com/article/6163794.html"
     ]
   },
   {
@@ -2271,6 +4705,83 @@ window.GRAVEYARD = [
     ]
   },
   {
+    "name": "Jukedeck（无对应官方中文名） (Jukedeck)",
+    "nameEn": "Jukedeck",
+    "nameZh": "Jukedeck（无对应官方中文名）",
+    "aliases": [
+      "Jukedeck Make",
+      "Jukedeck MAKE"
+    ],
+    "type": "service",
+    "category": "AI music generation (royalty-free music",
+    "categoryZh": "AI 音乐生成（免版税音乐创作）",
+    "region": "UK / Global",
+    "regionZh": "英国／全球",
+    "dateLaunched": "2012",
+    "dateKilled": "2019",
+    "status": "acquired-shut",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Jukedeck Ltd",
+    "developerEntities": [
+      "Jukedeck Ltd (London-based startup), acquired by ByteDance Ltd. in July 2019",
+      "Jukedeck Ltd",
+      "ByteDance Ltd"
+    ],
+    "appStoreId": "",
+    "description": "Jukedeck was a London-based AI music startup (founded 2012 by Ed Newton-Rex, with Patrick Stobbs) whose flagship product \"Jukedeck Make\" let users automatically generate royalty-free background music using neural-network-based composition, with customizable genre, mood, instruments, length and…",
+    "descZh": "Jukedeck 是一家总部位于伦敦的 AI 音乐初创公司（2012 年由 Ed Newton-Rex 与 Patrick Stobbs 创立），其核心产品“Jukedeck Make”让用户借助基于神经网络的作曲技术自动生成免版税背景音乐，并可自定义风格、情绪、乐器、时长和节奏。字节跳动于 2019 年 7 月收购该公司；其网站和产品被下线（主页改为一则告示），团队并入字节跳动 AI Lab，创始人 Ed Newton-Rex 出任总监。",
+    "killedReason": "Acqui-hired by ByteDance in July 2019 primarily for its AI music-generation technology and talent (to reduce reliance on costly music licensing for Douyin/TikTok and bolster ByteDance AI Lab). The standalone consumer product/website was shut down and never relaunched; the technology and team were absorbed internally. Founder Ed Newton-Rex later left ByteDance around 2021.",
+    "reasonZh": "字节跳动于 2019 年 7 月对其进行收购式招募，主要看中其 AI 音乐生成技术和人才（以减少抖音/TikTok 对高成本音乐授权的依赖）。独立消费级产品/网站被关停且再未重启，技术和团队被内部吸收；创始人后于 2021 年前后离开。",
+    "link": "https://www.musicbusinessworldwide.com/tiktok-parent-bytedance-buys-ai-music-company-jukedeck/",
+    "sources": [
+      "https://www.musicbusinessworldwide.com/tiktok-parent-bytedance-buys-ai-music-company-jukedeck/",
+      "https://musically.com/2019/07/23/ai-music-startup-jukedecks-ceo-now-runs-the-ai-lab-of-tiktok-owner-bytedance/",
+      "https://technode.com/2019/07/24/bytedance-has-reportedly-acquired-uk-music-ai-startup-jukedeck/",
+      "https://www.scmp.com/tech/apps-social/article/3019926/bytedance-spurs-tiktoks-global-expansion-snapping-music-tech-ai",
+      "https://en.wikipedia.org/wiki/Jukedeck"
+    ]
+  },
+  {
+    "name": "aiKID",
+    "nameEn": "aiKID",
+    "nameZh": "aiKID",
+    "aliases": [
+      "AIKID",
+      "比特智学英语",
+      "北美外教录播课"
+    ],
+    "type": "app",
+    "category": "Kids English EdTech (AI recorded-course",
+    "categoryZh": "少儿英语教育科技（AI 录播课在线英语）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2018",
+    "dateKilled": "2019",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Bitezhixue (比特智学)",
+    "developerEntities": [
+      "Beijing Bitwise Smart Technology Co., Ltd. (北京比特智学科技有限公司), 100% held by Beijing Flashstar Technology Co., Ltd. (闪星科技) — a wholly-owned ByteDance subsidiary; same corporate vehicle as GoGoKid",
+      "北京比特智学科技有限公司 (Beijing Bitwise Smart Technology Co., Ltd.)",
+      "北京闪星科技有限公司 (Beijing Flashstar Technology Co., Ltd.)",
+      "字节跳动 ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "aiKID was ByteDance's AI-powered online children's English-learning app launched in late 2018. Rather than live tutoring, it played pre-recorded North-American-teacher lessons paired with AI features (adaptive learning, speech recognition, attention modeling, post-class reports) to create a cheaper…",
+    "descZh": "aiKID 是字节跳动于 2018 年底推出的 AI 驱动在线少儿英语学习应用。它不采用真人直播授课，而是播放预先录制的北美教师课程，并搭配 AI 功能（自适应学习、语音识别、专注度建模、课后报告），打造更便宜的「伪直播」体验（约 10 元/节课），瞄准下沉城市的小学生——明确定位为字节跳动高端 1 对 1 直播产品 GoGoKid 的差异化、下沉竞品。",
+    "killedReason": "Failed to gain market traction; the app went un-updated within months of launch and its team/operation was effectively absorbed into GoGoKid by around April 2019. It died well before the 2021 \"double reduction\" education crackdown — so it was an early-failure/merge casualty, not a 2021-retrenchment shutdown.",
+    "reasonZh": "未能获得市场关注；该应用在上线数月内即停止更新，其团队/运营约在 2019 年 4 月被实质并入 GoGoKid。它远在 2021 年「双减」教育整顿之前就已消亡——属于早期失败/合并的牺牲品，而非 2021 年收缩中的关停。",
+    "link": "https://edu.sina.com.cn/l/2018-12-07/doc-ihprknvt5238705.shtml",
+    "sources": [
+      "https://edu.sina.com.cn/l/2018-12-07/doc-ihprknvt5238705.shtml",
+      "http://www.duozhi.com/company/201812078041.shtml",
+      "https://www.sohu.com/a/231922829_114778",
+      "https://technode.com/2019/04/23/gogokid-layoff-beijing-gov/"
+    ]
+  },
+  {
     "name": "Musical.ly",
     "nameEn": "Musical.ly",
     "nameZh": "Musical.ly",
@@ -2421,6 +4932,256 @@ window.GRAVEYARD = [
       "https://technode.com/2018/04/11/toutiao-apology/",
       "https://pandaily.com/open-apology-from-ceo-of-toutiao-following-the-ban-of-neihan-duanzi/",
       "https://supchina.com/jokes-app-neihan-duanzi-shuttered-by-chinas-media-regulator-for-vulgarity/"
+    ]
+  },
+  {
+    "name": "百万英雄 (Million Hero)",
+    "nameEn": "Million Hero",
+    "nameZh": "百万英雄",
+    "aliases": [
+      "Million Hero",
+      "Baiwan Yingxiong",
+      "头号英雄",
+      "Toutiao Hero",
+      "Hero No. 1"
+    ],
+    "type": "service",
+    "category": "Live trivia quiz / interactive game show",
+    "categoryZh": "直播答题 / 互动游戏节目",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2018-01",
+    "dateKilled": "2018-02-15",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology (Toutiao)",
+    "developerEntities": [
+      "西瓜视频 (Xigua Video), a ByteDance / Toutiao platform; produced by Xigua Video with 今日头条 (Toutiao) and 抖音 (Douyin) as co-producers",
+      "字节跳动 ByteDance",
+      "今日头条 Toutiao",
+      "西瓜视频 Xigua Video",
+      "抖音 Douyin"
+    ],
+    "appStoreId": "",
+    "description": "百万英雄 (Million Hero) was a free, large-scale live-streamed trivia quiz game show launched by ByteDance's Xigua Video in January 2018, riding the early-2018 China live-quiz craze.",
+    "descZh": "百万英雄是字节跳动旗下西瓜视频于2018年1月推出的免费大型直播答题游戏节目，赶上了2018年初中国的直播答题热潮。主持人提出十二道多选题，在每题约10秒内全部答对的玩家瓜分5万至100万元人民币的现金奖池，通过分享/邀请好友可在字节跳动App矩阵中获得“复活卡”（一项重要的拉新机制）。它共举办278场，累计参与者近3亿，随后第一季结束；2019年12月更名/重启为“头号英雄”，该产品如今也已停运。",
+    "killedReason": "Season 1 ended February 15, 2018 after China's SARFT (广电总局) issued a directive requiring live online quiz programs to hold an \"Information Network Audiovisual Program Transmission License\" — the same crackdown that shut down 冲顶大会, 百万赢家, and other rivals. ByteDance later relaunched a compliant successor (头号英雄) under Xigua Video's license in Dec 2019, which subsequently wound down as the live-quiz fad faded.",
+    "reasonZh": "第一季于2018年2月15日结束，因中国广电总局发文要求网络直播答题节目须持《信息网络传播视听节目许可证》——同一轮整顿也关停了冲顶大会、百万赢家等竞品。字节跳动后于2019年12月以西瓜视频牌照重启合规继任产品“头号英雄”，但随直播答题热潮退去也逐渐停运。",
+    "link": "http://media.people.com.cn/n1/2019/0509/c426303-31076422.html",
+    "sources": [
+      "http://media.people.com.cn/n1/2019/0509/c426303-31076422.html",
+      "https://www.woshipm.com/operate/901443.html",
+      "https://m.jiemian.com/article/1873309.html",
+      "https://news.sina.cn/2018-02-19/detail-ifyrqwkc8007588.d.html",
+      "https://m.21jingji.com/article/20191211/herald/d8b11bba59894a4bf57366e946c6033b_zaker.html"
+    ]
+  },
+  {
+    "name": "维境视讯 (VSCENE)",
+    "nameEn": "VSCENE",
+    "nameZh": "维境视讯",
+    "aliases": [
+      "VSCENE",
+      "Weijing Shixun",
+      "Weijing",
+      "北京维境视讯信息技术有限公司",
+      "Beijing Weijing Vision Information Technology"
+    ],
+    "type": "service",
+    "category": "VR video livestreaming / broadcast",
+    "categoryZh": "VR视频直播 / 广播技术（采集、拼接）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2016-06",
+    "dateKilled": "2018-02",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Banciyuan (半次元)",
+    "developerEntities": [
+      "Beijing Weijing Vision Information Technology Co., Ltd.; acquired via Beijing Shanxing Technology Co., Ltd. (ByteDance)",
+      "Beijing Weijing Vision Information Technology Co., Ltd. (北京维境视讯信息技术有限公司)",
+      "Beijing Shanxing Technology Co., Ltd. (北京闪星科技有限公司)",
+      "ByteDance / Toutiao (今日头条)"
+    ],
+    "appStoreId": "",
+    "description": "VSCENE (维境视讯) was a Chinese VR-video startup founded in June 2016 that developed end-to-end VR live-streaming and VOD solutions, including VR video capture/stitching, high-efficiency compression and streaming distribution, with products such as the VliveCam panoramic camera, VLiveStudio software…",
+    "descZh": "维境视讯（VSCENE）是一家成立于2016年6月的中国VR视频创业公司，研发端到端的VR直播与点播解决方案，包括VR视频采集/拼接、高效压缩和流媒体分发，产品有VliveCam全景相机、VLiveStudio软件和V265 4K实时编码器。2018年2月，它被字节跳动/今日头条（通过投资主体北京闪星科技）收购，标志字节跳动首次涉足VR；其法定代表人由创始人王悦变更为字节跳动联合创始人梁汝波。",
+    "killedReason": "Acquired by ByteDance/Toutiao in Feb 2018 (founder/shareholders exited, control transferred to ByteDance co-founder Liang Rubo) and absorbed into ByteDance's internal VR/video efforts. It never produced a lasting standalone ByteDance-branded consumer VR-livestreaming product; ByteDance's XR strategy was later redefined by its 2021 Pico acquisition.",
+    "reasonZh": "2018年2月被字节跳动/今日头条收购（创始人/股东退出，控制权移交字节跳动联合创始人梁汝波），并入字节跳动内部VR/视频业务。它从未产出持续存在的字节跳动品牌消费级VR直播产品；字节跳动的XR战略后由2021年收购Pico重新定义。",
+    "link": "https://www.leiphone.com/category/arvr/luJI1VnbTl33DM15.html",
+    "sources": [
+      "https://www.leiphone.com/category/arvr/luJI1VnbTl33DM15.html",
+      "https://www.newrank.cn/article/detail/6259",
+      "http://www.dvbcn.com/p/60684.html",
+      "https://www.pencilnews.cn/p/17956.html",
+      "https://www.sohu.com/a/224300321_649045"
+    ]
+  },
+  {
+    "name": "朝夕日历 (Chaoxi Calendar)",
+    "nameEn": "Chaoxi Calendar",
+    "nameZh": "朝夕日历",
+    "aliases": [
+      "Chaoxi Rili",
+      "Chaoxi Calendar",
+      "朝夕",
+      "朝夕时间管理",
+      "Chronos Calendar"
+    ],
+    "type": "app",
+    "category": "Calendar / time-management & scheduling",
+    "categoryZh": "日历 / 时间管理与日程工具",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2013-20",
+    "dateKilled": "2018",
+    "status": "acquired-shut",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "北京朝夕光年信息技术有限公司 (Beijing Chaoxi Guangnian Information Technology Co., Ltd.) — controlled via ByteDance subsidiary 北京闪星科技 (Beijing Shanxing Technology, 100% ByteDance-owned)",
+      "北京朝夕光年信息技术有限公司 (Beijing Chaoxi Guangnian Information Technology Co.)",
+      "北京闪星科技 (Beijing Shanxing Technology, ByteDance 100% subsidiary)",
+      "字节跳动 / 今日头条 (ByteDance)"
+    ],
+    "appStoreId": "",
+    "description": "朝夕日历 (Chaoxi Calendar) was a smart, WeChat-integrated social calendar and time-management app that used voice recognition, NLP and AI to help users quickly schedule events and coordinate group time.",
+    "descZh": "朝夕日历是一款智能、与微信打通的社交日历及时间管理App，利用语音识别、自然语言处理和AI帮助用户快速安排日程并协调群体时间。它由程昊及清华校友于2013年创办，在被字节跳动/今日头条于2017年收购前，其App、微信公众号、小程序和网页端累计用户约500万。",
+    "killedReason": "Acquired by ByteDance in 2017 (via wholly-owned subsidiary 闪星科技). The independent calendar product was wound down; founder Cheng Hao and core team joined ByteDance, where the calendar/scheduling technology was folded into the Feishu/Lark productivity suite. The parent entity 朝夕光年 was subsequently (from 2019) repurposed as ByteDance's game-publishing brand \"Nuverse,\" so the original calendar product effectively ceased to exist as a standalone offering.",
+    "reasonZh": "2017年被字节跳动（通过全资子公司闪星科技）收购。独立的日历产品被关停；创始人程昊及核心团队加入字节跳动，日历/日程技术被并入飞书（Lark）效率套件。母体“朝夕光年”随后（自2019年起）被改作字节跳动游戏发行品牌“Nuverse”，原日历产品作为独立产品实际不复存在。",
+    "link": "https://www.sohu.com/a/227683771_114778",
+    "sources": [
+      "https://www.sohu.com/a/227683771_114778",
+      "https://baike.baidu.com/item/%E6%9C%9D%E5%A4%95%E6%97%A5%E5%8E%86/19848536",
+      "https://www.itjuzi.com/company/30205",
+      "https://baike.baidu.com/item/%E6%9C%9D%E5%A4%95%E5%85%89%E5%B9%B4/56116840",
+      "https://www.sohu.com/a/452343297_413980"
+    ]
+  },
+  {
+    "name": "脸萌 (MyOtee (international name: FaceQ))",
+    "nameEn": "MyOtee (international name: FaceQ)",
+    "nameZh": "脸萌",
+    "aliases": [
+      "MYOTee",
+      "MYOTee脸萌",
+      "FaceQ",
+      "Lianmeng",
+      "Lemon (脸萌科技)",
+      "com.miantan.myoface"
+    ],
+    "type": "app",
+    "category": "Avatar / cartoon-face maker (photo &",
+    "categoryZh": "卡通头像制作（照片与社交）",
+    "region": "China (also international as FaceQ)",
+    "regionZh": "中国大陆（海外以 FaceQ 之名发行）",
+    "dateLaunched": "2013-12",
+    "dateKilled": "2014",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Faceu / Shenzhen Lianmeng (脸萌)",
+    "developerEntities": [
+      "深圳市脸萌科技有限公司 (Shenzhen Lianmeng Technology Co., Ltd. / Faceu Technology) — acquired by ByteDance/Toutiao Feb 2018; Beijing entity transferred to Pico (ByteDance VR subsidiary, via 上海屏可科技) April 2022",
+      "深圳市脸萌科技有限公司 (Shenzhen Lianmeng Technology / Faceu Technology)",
+      "字节跳动 ByteDance / 今日头条 Toutiao (acquirer 2018)",
+      "Pico / 上海屏可科技 (2022)"
+    ],
+    "appStoreId": "",
+    "description": "MyOtee (脸萌) was the viral cartoon-avatar maker by founder Guo Lie's team — users assemble a customized cartoon face from interchangeable parts.",
+    "descZh": "脸萌（MyOtee）是创始人郭列团队打造的爆款卡通头像制作应用——用户可用可替换的部件拼出个性化卡通脸。它在 2014 年年中登顶 17 个国家的 App Store（下载量超 3000 万），随后迅速衰落，之后同一家公司转型推出了 Faceu 自拍相机应用。这两款应用都隶属于脸萌科技，即字节跳动于 2018 年以约 3 亿美元收购、后并入 Pico 的实体。",
+    "killedReason": "Fad collapse — explosive 2014 growth followed by one of the steepest DAU declines of any app that year (no sustainable retention/monetization); the team shifted focus to Faceu, and the standalone MyOtee/FaceQ app was effectively abandoned. The owning entity was later repurposed under Pico in 2022.",
+    "reasonZh": "潮流退去——2014 年爆发式增长后，出现了当年所有应用中最陡峭的日活下跌之一（缺乏可持续的留存／变现）；团队转向 Faceu，独立的脸萌／FaceQ 应用实际上被放弃。其所属实体后于 2022 年并入 Pico 重新利用。",
+    "link": "https://news.yxrb.net/202204/15229321.html",
+    "sources": [
+      "https://news.yxrb.net/202204/15229321.html",
+      "https://www.jiemian.com/article/1950183.html",
+      "https://www.itjuzi.com/company/7788",
+      "https://baike.baidu.com/item/myotee%E8%84%B8%E8%90%8C/12980987",
+      "https://apkpure.com/faceq/com.miantan.myoface"
+    ]
+  },
+  {
+    "name": "图吧 (Tuba)",
+    "nameEn": "Tuba",
+    "nameZh": "图吧",
+    "aliases": [
+      "Tuba",
+      "图片社区图吧",
+      "Image Bar"
+    ],
+    "type": "app",
+    "category": "Photo-sharing / image community (UGC)",
+    "categoryZh": "图片分享 / 图片社区（UGC）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2013",
+    "dateKilled": "2014",
+    "status": "acquired-shut",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology (Toutiao)",
+    "developerEntities": [
+      "N/A (pre-acquisition independent startup; acquired by ByteDance/今日头条 Toutiao in 2014)",
+      "张楠 (Zhang Nan / Kelly Zhang) founding team",
+      "字节跳动 ByteDance / 今日头条 Toutiao (acquirer)"
+    ],
+    "appStoreId": "",
+    "description": "图吧 (Tuba) was an early Chinese photo-sharing / image community mobile app founded by Zhang Nan (张楠, later Douyin and ByteDance China CEO) in 2013; it reportedly grew to hundreds of thousands of users within months, catching Zhang Yiming's attention.",
+    "descZh": "图吧是一款早期的中国图片分享/图片社区移动应用，由张楠（后任抖音及字节跳动中国 CEO）于 2013 年创立；据报道它在数月内增长至数十万用户，引起了张一鸣的注意。字节跳动/今日头条于 2014 年以人才收购的方式将其收购，吸纳了创始团队，独立产品则被停运。",
+    "killedReason": "Acqui-hire: ByteDance/Toutiao acquired the startup primarily to bring in founder Zhang Nan and her team (who took over UGC product work, e.g. 内涵段子, and later built Douyin). The standalone 图吧 product was not continued and was folded after the team joined ByteDance in 2014.",
+    "reasonZh": "人才收购：字节跳动/今日头条收购这家创业公司主要是为了引入创始人张楠及其团队（她接手了 UGC 产品工作，如内涵段子，后来打造了抖音）。独立的图吧产品未被延续，在团队于 2014 年加入字节跳动后被并入。",
+    "link": "https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E6%A5%A0_(%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8)",
+    "sources": [
+      "https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E6%A5%A0_(%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8)",
+      "https://news.qq.com/rain/a/20231108A05WD800",
+      "https://www.sohu.com/a/532401995_350699",
+      "https://startup.aliyun.com/info/1053428.html"
+    ]
+  },
+  {
+    "name": "内涵漫画 / 搞笑囧图（字节跳动早期\"内涵系\"内容应用矩阵） (Neihan Comics / Gaoxiao Jiongtu (early ByteDance single-purpose content apps))",
+    "nameEn": "Neihan Comics / Gaoxiao Jiongtu (early ByteDance single-purpose content apps)",
+    "nameZh": "内涵漫画 / 搞笑囧图（字节跳动早期\"内涵系\"内容应用矩阵）",
+    "aliases": [
+      "Neihan Manhua",
+      "Neihan Comics",
+      "Gaoxiao Jiongtu",
+      "Hilarious Goofy Pics",
+      "搞笑囧图",
+      "美女相册"
+    ],
+    "type": "app",
+    "category": "Early content-seeding / single-purpose",
+    "categoryZh": "早期内容种子 / 单一用途内容应用（漫画等）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2012",
+    "dateKilled": "2013-20",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology Co., Ltd.",
+    "developerEntities": [
+      "北京字节跳动科技有限公司 (Beijing ByteDance Technology Co.) / 北京字节跳动网络技术有限公司",
+      "ByteDance (字节跳动)",
+      "Beijing ByteDance Technology Co., Ltd."
+    ],
+    "appStoreId": "",
+    "description": "A cluster of roughly a dozen single-theme content apps that ByteDance launched in its founding year (2012) — each pairing one topic with one content format (e.g.",
+    "descZh": "字节跳动在创立之年（2012 年）推出的约十几款单一主题内容应用集群——每款将一个话题与一种内容形式配对（如内涵漫画＝幽默＋漫画，搞笑囧图＝幽默＋图片，好看图片＝照片，我是吃货＝美食，美女相册＝美女照片，早晚必读的话＝语录/阅读）——旨在验证公司的推荐算法，并通过交叉推广系统获取用户并导流至今日头条。最终只有今日头条和内涵段子成长为主力产品，其余在几年内被悄然下线。",
+    "killedReason": "Experimental MVPs to test the recommendation engine and feed users into Toutiao; once Toutiao (Aug 2012) and 内涵段子 became the breakout products, the other single-purpose apps lost their purpose and were quietly discontinued/merged.",
+    "reasonZh": "作为测试推荐引擎并向今日头条导流的实验性 MVP；当今日头条（2012 年 8 月）和内涵段子成为爆款产品后，其他单一用途应用失去存在意义，被悄然停用/合并。",
+    "link": "https://www.opp2.com/78521.html",
+    "sources": [
+      "https://www.opp2.com/78521.html",
+      "https://baike.baidu.com/en/item/ByteDance/985720",
+      "https://en.wikipedia.org/wiki/ByteDance",
+      "https://www.huxiu.com/article/4810826.html",
+      "https://www.9k9k.com/app/4954.html"
     ]
   },
   {
@@ -4080,6 +6841,1396 @@ window.GRAVEYARD = [
       "https://www.youxituoluo.com/528586.html",
       "https://www.youxituoluo.com/528448.html",
       "https://www.bbtnews.com.cn/2021/1126/420457.shtml"
+    ]
+  },
+  {
+    "name": "星绘 (Xinghui)",
+    "nameEn": "Xinghui",
+    "nameZh": "星绘",
+    "aliases": [
+      "Xinghui",
+      "Doubao Xinghui",
+      "豆包星绘",
+      "Star Painting"
+    ],
+    "type": "app",
+    "category": "AI portrait / AI avatar photo & video",
+    "categoryZh": "AI 写真／AI 分身照片与视频生成应用",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2024-04",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Chuntian Zhiyun (春田知韵)",
+    "developerEntities": [
+      "北京春田知韵科技有限公司 (Beijing Chuntian Zhiyun Technology Co., Ltd.) — ByteDance's AI-products shell entity, same publisher as Doubao/Coze; Android package com.butterfly.unicorn",
+      "ByteDance (字节跳动)",
+      "Flow AI products division (朱骏)",
+      "北京春田知韵科技有限公司 / Beijing Chuntian Zhiyun Technology Co., Ltd."
+    ],
+    "appStoreId": "",
+    "description": "星绘 (Xinghui) is a ByteDance AI portrait/avatar app launched April 2024 by its Flow AI division, letting users generate personalized AI photos and short videos of themselves (\"AI 分身写真\"). It shares underlying Seed/即梦-family image models and is branded \"豆包旗下\" (a Doubao sub-brand).",
+    "descZh": "星绘是字节跳动旗下 Flow AI 部门于 2024 年 4 月推出的一款 AI 写真／分身应用，让用户生成个性化的 AI 照片和自己的短视频（“AI 分身写真”）。它共用 Seed/即梦系列的底层图像模型，并以“豆包旗下”子品牌的形式呈现。",
+    "killedReason": "NOT killed. In April 2025 ByteDance reorganized its underperforming AI apps (~160k DAU): the Xinghui *team* was folded into Doubao management (led by Doubao App head Lu You/陆游) to concentrate resources on the flagship Doubao. However, the standalone Xinghui app continued shipping updates (v1.4.1 Sep 2025, v1.5.1 Oct 2025, v1.7.x in 2026) and was not delisted, so this is a team/org merger rather than a product shutdown.",
+    "reasonZh": "并未被关停。2025 年 4 月字节跳动重组旗下表现不佳的 AI 应用，星绘“团队”并入豆包管理体系以集中资源发展豆包；但星绘独立应用仍持续更新、也未被下架，属团队／组织合并而非产品关停。",
+    "link": "https://news.qq.com/rain/a/20250423A00KH100",
+    "sources": [
+      "https://news.qq.com/rain/a/20250423A00KH100",
+      "https://www.bianews.com/news/details?id=210967",
+      "https://c.m.163.com/news/a/JTPQAITS0531M1CO.html",
+      "https://finance.sina.com.cn/jjxw/2025-04-23/doc-ineucccy7019811.shtml",
+      "https://www.aibase.com/news/17432"
+    ]
+  },
+  {
+    "name": "猫箱（原名话炉） (Maoxiang (Cat Box))",
+    "nameEn": "Maoxiang (Cat Box)",
+    "nameZh": "猫箱（原名话炉）",
+    "aliases": [
+      "Maoxiang",
+      "Cat Box",
+      "话炉 Huahuo (original name)",
+      "Huolu"
+    ],
+    "type": "app",
+    "category": "AI character roleplay /",
+    "categoryZh": "AI 角色扮演／情感陪伴聊天应用",
+    "region": "China (domestic)",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2024-03",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Chuntian Zhiyun (春田知韵)",
+    "developerEntities": [
+      "北京春田知韵科技有限公司 (Beijing Chuntian Zhiyun Technology Co., Ltd.), a ByteDance-controlled entity; App Store bundle/package com.parallel.odyssey",
+      "ByteDance Flow department (字节跳动 Flow)",
+      "北京春田知韵科技有限公司 (Beijing Chuntian Zhiyun Technology Co., Ltd.)"
+    ],
+    "appStoreId": "",
+    "description": "猫箱 (Maoxiang / \"Cat Box\") is ByteDance's domestic-China AI character-roleplay and emotional-companion chat app, built on ByteDance's Yunque/Doubao large model.",
+    "descZh": "猫箱是字节跳动面向中国大陆的 AI 角色扮演与情感陪伴聊天应用，基于字节跳动的云雀／豆包大模型构建。用户可创建可自定义的 AI 角色并与之进行文字或语音聊天，体验分支式互动剧情；它于 2024 年 3 月以“话炉”之名上线，并在 2024 年 4 月 11 日更名为“猫箱”。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://news.qq.com/rain/a/20250423A00KH100",
+    "sources": [
+      "https://news.qq.com/rain/a/20250423A00KH100",
+      "https://www.aibase.com/news/17432",
+      "https://cn.technode.com/post/2025-08-29/maoxiang-ai-app-whats-going-on/",
+      "https://ai-bot.cn/app/10308.html",
+      "https://apps.apple.com/cn/app/id6475000292"
+    ]
+  },
+  {
+    "name": "即创 (Jichuang (Ocean Engine AI Creative))",
+    "nameEn": "Jichuang (Ocean Engine AI Creative)",
+    "nameZh": "即创",
+    "aliases": [
+      "Jichuang",
+      "即创AI",
+      "AI Creative",
+      "Ocean Engine AI Creative",
+      "巨量引擎即创"
+    ],
+    "type": "service",
+    "category": "AI marketing / advertising creative",
+    "categoryZh": "AI 营销／广告创意生产平台",
+    "region": "China (domestic)",
+    "regionZh": "中国大陆（巨量引擎另有面向海外的英文版）",
+    "dateLaunched": "2023-10",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "巨量引擎",
+    "developerEntities": [
+      "巨量引擎 / Ocean Engine (ByteDance advertising/marketing unit; contact ibc-oceanengine@bytedance.com). Companion iOS app published under Ocean Engine.",
+      "巨量引擎 (Ocean Engine)",
+      "ByteDance / 字节跳动"
+    ],
+    "appStoreId": "",
+    "description": "即创 (Jichuang) is a one-stop AI creative production and management platform from ByteDance's Ocean Engine (巨量引擎) advertising business.",
+    "descZh": "即创是字节跳动旗下广告业务巨量引擎推出的一站式 AI 创意生产与管理平台。它生成抖音广告／营销素材——AI 脚本、智能自动剪辑视频、数字人口播视频、商品卡、可购物图文内容和 AI 直播背景——由字节跳动自研模型（包括云雀大模型等）驱动，并提供投放前检查、投放后诊断、“爆款裂变”和“一键过审”等功能。它被定位为字节跳动广告业务的“第二增长曲线”。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://www.oceanengine.io/resource/unleash-creativity-ai-creative",
+    "sources": [
+      "https://www.oceanengine.io/resource/unleash-creativity-ai-creative",
+      "https://news.qq.com/rain/a/20250117A01Q8400",
+      "https://news.qq.com/rain/a/20250109A0500800",
+      "https://news.aibase.com/news/14590",
+      "https://www.chinaz.com/2023/1024/1569347.shtml"
+    ]
+  },
+  {
+    "name": "Ripple",
+    "nameEn": "Ripple",
+    "nameZh": "Ripple",
+    "aliases": [
+      "ByteDance Ripple",
+      "Ripple by ByteDance"
+    ],
+    "type": "app",
+    "category": "AI music creation / audio editing app",
+    "categoryZh": "AI 音乐创作／音频编辑应用（海外）",
+    "region": "United States (overseas",
+    "regionZh": "美国（海外；从未在中国上线）",
+    "dateLaunched": "2023-06-30",
+    "dateKilled": "",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "ByteDance",
+    "developerEntities": [
+      "ByteDance (developed/published by ByteDance; iOS-only US invite beta)",
+      "ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "Ripple was a free AI-powered music-creation, composition and audio-editing iOS app from ByteDance, launched as a US invite-only closed beta on June 30, 2023.",
+    "descZh": "Ripple 是字节跳动推出的一款免费 AI 音乐创作、作曲和音频编辑 iOS 应用，于 2023 年 6 月 30 日在美国以邀请制封闭测试形式上线。其核心功能“Melody to Song”让用户哼唱一段旋律，AI 即可生成跨多种风格的器乐伴奏（鼓、贝斯、吉他、钢琴）；它还包含一个用于剪辑和重新编排音频的“虚拟录音棚”，其 AI 模型基于字节跳动授权／自有或自制的音乐训练。",
+    "killedReason": "No formal shutdown was ever announced. The app never appears to have exited its US iOS invite-only closed beta or rolled out more widely; press coverage stops after 2023 and the official ripple.club site returns no content, indicating the beta was quietly wound down/abandoned. ByteDance's overseas AI-music ambitions appear to have shifted to in-house tools and patents rather than this standalone consumer app.",
+    "reasonZh": "从未正式宣布关停。该应用似乎始终未走出其在美国 iOS 上的邀请制封闭测试、也未更大范围推广；相关报道止于 2023 年，官方网站 ripple.club 已无内容，表明该测试已被悄然收尾／放弃。字节跳动的海外 AI 音乐布局似乎已转向自研工具和专利，而非这款独立的消费级应用。",
+    "link": "https://musically.com/2023/06/30/bytedance-reveals-ai-powered-music-creation-app-ripple/",
+    "sources": [
+      "https://musically.com/2023/06/30/bytedance-reveals-ai-powered-music-creation-app-ripple/",
+      "https://www.musicbusinessworldwide.com/meet-ripple-tiktok-parents-new-ai-powered-music-making-app-that-can-turn-a-hummed-melody-into-a-song/",
+      "https://techcrunch.com/2023/06/30/tiktok-parent-bytedance-launches-music-creation-audio-editing-app/",
+      "https://www.engadget.com/tiktok-owner-bytedance-debuts-ripple-music-creation-app-130023602.html",
+      "https://www.billboard.com/pro/bytedance-ripple-music-creation-tool-tiktok-videos/"
+    ]
+  },
+  {
+    "name": "音乐帮 (Music Help (Yinyuebang))",
+    "nameEn": "Music Help (Yinyuebang)",
+    "nameZh": "音乐帮",
+    "aliases": [
+      "Music Help",
+      "Yinyuebang",
+      "Yin Yue Bang"
+    ],
+    "type": "app",
+    "category": "Music streaming / music community",
+    "categoryZh": "音乐流媒体／音乐社区",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2019-10",
+    "dateKilled": "",
+    "status": "dead",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance",
+    "developerEntities": [
+      "Beijing ByteDance (内部研发, no confirmed App Store/Play publisher entity — stayed prototype)",
+      "字节跳动 (ByteDance)",
+      "Beijing ByteDance Technology Co., Ltd."
+    ],
+    "appStoreId": "",
+    "description": "音乐帮 (Music Help) was an early ByteDance domestic music streaming prototype reported by Tech星球 (Tech Planet) in October 2019, ByteDance's first signal of entering China's online music market.",
+    "descZh": "音乐帮是科技媒体 Tech 星球于 2019 年 10 月报道的字节跳动早期的中国大陆音乐流媒体原型产品，是字节跳动进军中国在线音乐市场的首个信号。据报道，该原型仅有 26 首歌曲，且版权全部归属抖音，并采用了仿照抖音/TikTok 的竖屏、移动优先的视频形式。",
+    "killedReason": "Appears to have remained an internal prototype that never publicly launched on app stores; ByteDance's domestic music ambitions were later carried forward by separate products (飞乐/Feiyue test in 2021 and ultimately 汽水音乐/Soda Music in 2022), effectively superseding/abandoning 音乐帮.",
+    "reasonZh": "似乎始终停留在内部原型阶段，从未在应用商店公开上线；字节跳动的中国大陆音乐布局后由其他产品接棒（2021 年的飞乐测试，以及最终 2022 年的汽水音乐），实际上取代并放弃了音乐帮。",
+    "link": "https://www.jiemian.com/article/6003282.html",
+    "sources": [
+      "https://www.jiemian.com/article/6003282.html",
+      "https://www.fortunechina.com/business/c/2019-12/10/content_353555.htm",
+      "http://www.woshipm.com/it/5018277.html",
+      "https://finance.sina.com.cn/tech/2021-04-21/doc-ikmxzfmk8026633.shtml",
+      "https://news.qq.com/rain/a/20210705A0CJ4O00"
+    ]
+  },
+  {
+    "name": "银河方舟 (Galaxy Ark)",
+    "nameEn": "Galaxy Ark",
+    "nameZh": "银河方舟",
+    "aliases": [
+      "Galaxy Ark",
+      "字节音乐发行平台银河方舟"
+    ],
+    "type": "service",
+    "category": "Music distribution / aggregation (B2B for",
+    "categoryZh": "音乐分发／聚合（面向唱片公司与艺人的 B2B）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-07",
+    "dateKilled": "",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "ByteDance",
+    "developerEntities": [
+      "ByteDance / Douyin music business (字节跳动 / 抖音音乐) — website-only beta, no standalone app or App Store/Play listing",
+      "ByteDance (字节跳动)",
+      "Douyin Music (抖音音乐)"
+    ],
+    "appStoreId": "",
+    "description": "银河方舟 (Galaxy Ark) was a ByteDance music agent-distribution/aggregation platform that entered closed website-only beta in July 2021, letting record labels and independent musicians upload songs and videos and distribute them across platforms including QQ Music, NetEase Cloud Music, KuGou, KuWo…",
+    "descZh": "银河方舟是字节跳动推出的一个音乐代理分发／聚合平台，于 2021 年 7 月进入仅限网页的封闭测试，让唱片公司和独立音乐人上传歌曲和视频，并分发至 QQ 音乐、网易云音乐、酷狗、酷我、小米音乐、抖音和 TikTok 等多个平台。它采用非独家、收费的模式（不做独家签约），提供免费的 ISRC/UPC 注册以及营收和表现分析，是字节跳动 2021 年在“后独家版权时代”拓展音乐业务的一部分。",
+    "killedReason": "Folded into ByteDance's broader music-distribution and artist-services ecosystem (alongside SoundOn internationally, 汽水音乐/Soda Music as the consumer app, and 炙热星河 as the artist creator-support program); no standalone product survived as a distinct consumer-facing service. Note: the candidate's claim that it was directly \"upgraded into 炙热星河\" is not fully supported — sources describe 银河方舟 (distribution) and 炙热星河 (creator support) as distinct, complementary initiatives, not a straight rename.",
+    "reasonZh": "被并入字节跳动更广泛的音乐分发与艺人服务生态（与海外 SoundOn、消费端的汽水音乐、艺人扶持计划炙热星河并列），未作为独立消费级服务存活。注：“升级为炙热星河”一说证据不足——二者实为各自独立、互补的项目，而非直接更名。",
+    "link": "https://www.ithome.com/0/565/093.htm",
+    "sources": [
+      "https://www.ithome.com/0/565/093.htm",
+      "https://finance.sina.com.cn/tech/2021-07-26/doc-ikqciyzk7644981.shtml",
+      "https://m.163.com/dy/article/GFUGQ0NF0517HP9B.html",
+      "https://www.chinaz.com/2021/0726/1282867.shtml",
+      "https://m.thepaper.cn/newsDetail_forward_17280260"
+    ]
+  },
+  {
+    "name": "放心借 (Fangxinjie)",
+    "nameEn": "Fangxinjie",
+    "nameZh": "放心借",
+    "aliases": [
+      "Fangxin Loan",
+      "Fangxinjie",
+      "放心借",
+      "抖音放心借"
+    ],
+    "type": "service",
+    "category": "Consumer lending / fintech",
+    "categoryZh": "消费信贷 / 金融科技",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2018-07",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "深圳智领星辰科技有限公司",
+    "developerEntities": [
+      "深圳智领星辰科技有限公司 (Shenzhen Zhiling Xingchen Technology, ByteDance subsidiary); lending capital via 深圳市中融小额贷款 (Shenzhen Zhongrong Microloan)",
+      "字节跳动 (ByteDance)",
+      "抖音有限公司 (Douyin Co.)",
+      "深圳智领星辰科技有限公司 (Shenzhen Zhiling Xingchen Technology)",
+      "深圳市中融小额贷款 (Shenzhen Zhongrong Microloan)"
+    ],
+    "appStoreId": "",
+    "description": "放心借 (Fangxinjie) is ByteDance's flagship consumer-credit product, launched in July 2018 inside the Toutiao app and later embedded in the Douyin wallet.",
+    "descZh": "放心借是字节跳动的旗舰消费信贷产品，2018年7月在今日头条App内推出，后又接入抖音钱包。它提供最高20万元人民币的个人现金贷款，日利率约0.03%，由字节跳动子公司深圳市智灵星辰科技运营，放贷资金来自字节跳动控股的深圳中融小额贷款（2020年7月取得网络小贷牌照）以及合作银行和消费金融公司。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://www.jiemian.com/article/5411952.html",
+    "sources": [
+      "https://www.jiemian.com/article/5411952.html",
+      "https://www.jiemian.com/article/8304129.html",
+      "https://www.jiemian.com/article/7400428.html",
+      "https://www.stcn.com/article/detail/713073.html",
+      "https://news.qq.com/rain/a/20240115A05G9X00"
+    ]
+  },
+  {
+    "name": "抖音月付 (Douyin Monthly Pay)",
+    "nameEn": "Douyin Monthly Pay",
+    "nameZh": "抖音月付",
+    "aliases": [
+      "DOU分期",
+      "DOU Fenqi",
+      "Dou Installment",
+      "放心花",
+      "Fangxin Hua",
+      "抖分期"
+    ],
+    "type": "service",
+    "category": "Consumer credit / BNPL (installment",
+    "categoryZh": "消费信贷 / 先享后付（分期）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2020-11",
+    "dateKilled": "",
+    "status": "rebranded",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "深圳市中融小额贷款股份有限公司",
+    "developerEntities": [
+      "深圳市中融小额贷款股份有限公司 (Shenzhen Zhongrong Microloan Co., Ltd.) as credit provider, a ByteDance subsidiary acquired Oct 2021; product surfaced inside the Douyin (抖音) app; payment routing via Hezhong Yibao (合",
+      "字节跳动 (ByteDance)",
+      "深圳市中融小额贷款股份有限公司 (Shenzhen Zhongrong Microloan)",
+      "深圳市今日头条科技有限公司"
+    ],
+    "appStoreId": "",
+    "description": "抖音月付 is ByteDance's \"Huabei\"-style buy-now-pay-later consumer credit product embedded in the Douyin app, offering an interest-free grace period and 3/6/12-month installments for in-app and Douyin e-commerce purchases.",
+    "descZh": "抖音月付是字节跳动嵌入抖音App的“花呗”式先享后付消费信贷产品，提供免息期及3/6/12期分期，可用于App内消费及抖音电商购物。它于2020年底以“放心花”之名推出（最初仅用于购买DOU+推广工具），2020年12月/2021年1月重新上线为“DOU分期”，并于2022年7月22日更名为抖音月付；授信资金由字节跳动控股的深圳中融小额贷款提供。",
+    "killedReason": "Not discontinued — rebranded. The original brand names 放心花 and DOU分期 were retired/renamed into 抖音月付 (Douyin Monthly Pay) in July 2022 as ByteDance consolidated its consumer-finance branding after acquiring the Zhongrong microloan license. The underlying product remains live.",
+    "reasonZh": "并非停运，而是品牌重塑。在收购中融小贷牌照、整合消费金融品牌后，字节跳动于2022年7月将原品牌“放心花”和“DOU分期”更名整合为“抖音月付”，底层产品仍在运营。",
+    "link": "https://m.mpaypass.com.cn/news/202102/26181602.html",
+    "sources": [
+      "https://m.mpaypass.com.cn/news/202102/26181602.html",
+      "https://www.cebnet.com.cn/20210301/102732441.html",
+      "https://news.qq.com/rain/a/20230518A07I3A00",
+      "https://news.qq.com/rain/a/20220819A02TFB00",
+      "https://m.jiemian.com/article/5540987.html"
+    ]
+  },
+  {
+    "name": "备用金 (Beiyong Jin (Petty Cash / Backup Fund))",
+    "nameEn": "Beiyong Jin (Petty Cash / Backup Fund)",
+    "nameZh": "备用金",
+    "aliases": [
+      "Beiyong Jin",
+      "Petty Cash",
+      "Backup Fund",
+      "Emergency cash",
+      "今日头条备用金",
+      "Toutiao Beiyongjin"
+    ],
+    "type": "service",
+    "category": "Consumer fintech / short-term cash",
+    "categoryZh": "消费金融 / 短期现金小额贷",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2020-07-24",
+    "dateKilled": "",
+    "status": "discontinued",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology (Toutiao)",
+    "developerEntities": [
+      "深圳市中融小额贷款股份有限公司 (Shenzhen Zhongrong Microloan Co., Ltd.) — ByteDance-controlled licensed online microloan entity; product surfaced on the 今日头条 (Toutiao) app",
+      "字节跳动 (ByteDance)",
+      "深圳市中融小额贷款股份有限公司 (Shenzhen Zhongrong Microloan Co., Ltd.)",
+      "今日头条 (Toutiao)"
+    ],
+    "appStoreId": "",
+    "description": "备用金 (Beiyong Jin, \"petty cash\"/\"backup fund\") was a small short-term emergency cash-loan product launched by ByteDance on its Toutiao (今日头条) app on 24 July 2020.",
+    "descZh": "备用金是字节跳动于2020年7月24日在今日头条App上推出的小额短期应急现金贷产品。它提供约500至2000元的循环贷款，还款期为7天（首次使用免息，之后日利率约0.056%/年化约20.44%），最初为引流/助贷服务，后转为由字节跳动持牌主体深圳中融小贷承做的自营现金贷。",
+    "killedReason": "No explicit shutdown announcement found. The standalone 备用金 brand appears to have faded as ByteDance consolidated its consumer-lending under the licensed entity Shenzhen Zhongrong Microloan, with the surviving consumer-facing brands being 放心借 (Fangxin Jie) and 抖音月付/DOU分期 (Douyin Monthly Pay). Status marked uncertain rather than confirmed-dead.",
+    "reasonZh": "未见明确关停公告。随着字节跳动将消费信贷业务整合至持牌主体深圳中融小贷，“备用金”这一独立品牌逐渐淡出，留存的面向消费者品牌为放心借和抖音月付/DOU分期，故状态标记为不确定而非确认关停。",
+    "link": "https://cn.technode.com/post/2020-07-24/bytedance-toutiao-petty-cash/",
+    "sources": [
+      "https://cn.technode.com/post/2020-07-24/bytedance-toutiao-petty-cash/",
+      "https://www.thepaper.cn/newsDetail_forward_8417524",
+      "https://news.pedaily.cn/202007/457744.shtml",
+      "https://m.21jingji.com/article/20201217/herald/b1f8473011ac2c6b5fc45d19ddf843eb.html",
+      "https://news.qq.com/rain/a/20241120A02QTO00"
+    ]
+  },
+  {
+    "name": "可颂 (Kesong (Croissant))",
+    "nameEn": "Kesong (Croissant)",
+    "nameZh": "可颂",
+    "aliases": [
+      "Kesong",
+      "Croissant",
+      "Sicily",
+      "com.ss.android.ugc.sicily"
+    ],
+    "type": "app",
+    "category": "Lifestyle / 种草 (product-seeding) community",
+    "categoryZh": "生活方式 / 种草社区（后转型为摄影社区）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-07-11",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Faceu / Shenzhen Lianmeng (脸萌)",
+    "developerEntities": [
+      "深圳市脸萌科技有限公司 (Shenzhen Lianmeng Technology Co., Ltd.) — a ByteDance subsidiary that also operates CapCut/剪映 and 轻颜/Qingyan",
+      "ByteDance (字节跳动)",
+      "深圳市脸萌科技有限公司 / Shenzhen Lianmeng Technology Co., Ltd."
+    ],
+    "appStoreId": "",
+    "description": "可颂 (Kesong, \"Croissant\"; internal codename Sicily) is ByteDance's Xiaohongshu-style lifestyle/种草 community app, tightly linked to Douyin so creators can port short-video content into an image-and-text seeding feed.",
+    "descZh": "可颂（内部代号Sicily）是字节跳动一款类似小红书的生活方式/种草社区App，与抖音紧密打通，创作者可将短视频内容搬运到图文种草信息流中。它于2022年7月11日上线，约20天内即从应用商店下架，2023年3月31日重新上线，2024年4月再次重新上线（v2.1.0），到2025年被重新定位为“摄影爱好者分享社区”，并加入AI相机功能（“机位”/AI构图）。",
+    "killedReason": "Repeatedly pulled/restarted rather than permanently killed: the early versions failed to build a genuine seeding community because Douyin-sourced content was too entertainment-oriented to generate Xiaohongshu-style purchase recommendations. As of June 2026 the app is still being updated (e.g., Tencent Yingyongbao shows v38.5.1 dated 2026-06-10) and is therefore best classified as alive, despite its multiple shutdown/relaunch cycles.",
+    "reasonZh": "属反复下架/重启而非彻底关停：早期版本因抖音来源内容过于娱乐化、难以产生小红书式购买推荐，未能建立起真正的种草社区。截至2026年6月该App仍在更新（如腾讯应用宝显示v38.5.1，日期为2026-06-10），故尽管经历多次关停/重启周期，仍应归类为存活。",
+    "link": "https://www.yicaiglobal.com/news/bytedance-debuts-kesong-app-to-rival-alibaba-backed-xiaohongshu-",
+    "sources": [
+      "https://www.yicaiglobal.com/news/bytedance-debuts-kesong-app-to-rival-alibaba-backed-xiaohongshu-",
+      "https://www.scmp.com/tech/big-tech/article/3184899/tiktok-owner-bytedance-launch-new-social-media-app-young-users-will",
+      "https://www.cbndata.com/information/257994",
+      "https://news.qq.com/rain/a/20240423A09XIB00",
+      "https://36kr.com/p/2746093937277703"
+    ]
+  },
+  {
+    "name": "灵驹 (ByteAir)",
+    "nameEn": "ByteAir",
+    "nameZh": "灵驹",
+    "aliases": [
+      "Lingju",
+      "ByteAir",
+      "字节跳动智能推荐系统",
+      "Volcano Engine Intelligent Recommendation (successor)"
+    ],
+    "type": "service",
+    "category": "B2B intelligent recommendation algorithm",
+    "categoryZh": "B2B智能推荐算法 / 企业云服务",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2019-09",
+    "dateKilled": "",
+    "status": "merged",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "字节跳动",
+    "developerEntities": [
+      "字节跳动 (ByteDance)",
+      "字节跳动",
+      "ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "灵驹 (English name ByteAir) was ByteDance's first B2B productization of its core recommendation algorithm — the same engine behind Toutiao and Douyin — packaged and opened to external enterprises in September 2019 as a customizable enterprise-grade recommendation-as-a-service.",
+    "descZh": "灵驹（英文名ByteAir）是字节跳动首次将其核心推荐算法（即今日头条和抖音背后的同一引擎）产品化的B2B尝试，于2019年9月封装并向外部企业开放，作为可定制的企业级“推荐即服务”。早期合作伙伴包括魅族、OPPO、vivo和三星。它随后被整合进字节跳动企业云平台火山引擎，成为其“智能推荐”（ByteAir）产品线，独立的“灵驹”品牌名被弃用。",
+    "killedReason": "Not shut down but merged/rebranded: ByteDance consolidated its standalone enterprise-services efforts under the Volcano Engine cloud brand (officially launched 2020), absorbing 灵驹/ByteAir into Volcano Engine's Intelligent Recommendation (智能推荐) product and retiring the standalone \"灵驹\" brand name.",
+    "reasonZh": "并非关停，而是合并/更名：字节跳动将其独立的企业服务业务整合到火山引擎云品牌（2020年正式发布）之下，将灵驹/ByteAir并入火山引擎的智能推荐产品，并弃用独立的“灵驹”品牌名。",
+    "link": "https://tech.sina.com.cn/i/2019-09-29/doc-iicezzrq9177451.shtml",
+    "sources": [
+      "https://tech.sina.com.cn/i/2019-09-29/doc-iicezzrq9177451.shtml",
+      "https://www.ifanr.com/1266118",
+      "https://36kr.com/p/1724445884417",
+      "https://www.pingwest.com/w/195170",
+      "https://www.sohu.com/a/344110018_114837"
+    ]
+  },
+  {
+    "name": "巨量引擎 (Ocean Engine)",
+    "nameEn": "Ocean Engine",
+    "nameZh": "巨量引擎",
+    "aliases": [
+      "Juliang Yinqing",
+      "巨量引擎",
+      "Beijing Ocean Engine Network Technology",
+      "北京巨量引擎网络技术有限公司"
+    ],
+    "type": "service",
+    "category": "Advertising / marketing platform (B2B)",
+    "categoryZh": "广告 / 营销平台（B2B）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2019-01",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Ocean Engine Network Technology Co., Ltd",
+    "developerEntities": [
+      "Beijing Ocean Engine Network Technology Co., Ltd. (北京巨量引擎网络技术有限公司) / Douyin Group, ByteDance",
+      "ByteDance",
+      "Douyin Group",
+      "Beijing Ocean Engine Network Technology Co., Ltd. (北京巨量引擎网络技术有限公司)"
+    ],
+    "appStoreId": "",
+    "description": "Ocean Engine (巨量引擎) is ByteDance's flagship domestic commercial/digital-marketing service brand, launched in January 2019, that sells and manages advertising inventory across the company's Chinese properties (Douyin, Toutiao, Xigua Video, Huoshan, Dongchedi, Faceu, Qingyan, Pangle, Fanqie Novel and…",
+    "descZh": "巨量引擎是字节跳动旗舰国内商业化/数字营销服务品牌，于2019年1月推出，在公司中国系产品（抖音、今日头条、西瓜视频、火山、懂车帝、Faceu、轻颜、Pangle、番茄小说等）上销售和管理广告库存。它为广告主提供自助投放工具、智能出价、人群定向及产品矩阵（巨量广告、巨量纵横、巨量云图、巨量方舟），是海外Pangle SDK的中国对应方——不过Pangle本身也处于巨量引擎生态之内。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://baike.baidu.com/item/%E5%B7%A8%E9%87%8F%E5%BC%95%E6%93%8E/23624190",
+    "sources": [
+      "https://baike.baidu.com/item/%E5%B7%A8%E9%87%8F%E5%BC%95%E6%93%8E/23624190",
+      "https://baike.baidu.com/en/item/Ocean%20Engine/1450079",
+      "https://www.oceanengine.com/",
+      "https://chinamarketingcorp.com/blog/ocean-engine-bytedances-powerful-marketing-platform/",
+      "https://www.mobgi.com/blogs/ocean-engine.html"
+    ]
+  },
+  {
+    "name": "巨量千川 (Ocean Engine Qianchuan)",
+    "nameEn": "Ocean Engine Qianchuan",
+    "nameZh": "巨量千川",
+    "aliases": [
+      "Qianchuan",
+      "Juliang Qianchuan",
+      "Ocean Engine Qianchuan",
+      "巨量千川"
+    ],
+    "type": "service",
+    "category": "E-commerce advertising / marketing",
+    "categoryZh": "电商广告 / 营销平台（B2B）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2020-12-29",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "巨量引擎",
+    "developerEntities": [
+      "巨量引擎 / Ocean Engine (ByteDance Douyin Group); official domain qianchuan.jinritemai.com",
+      "ByteDance (字节跳动)",
+      "巨量引擎 / Ocean Engine",
+      "Douyin Group / 抖音电商"
+    ],
+    "appStoreId": "",
+    "description": "巨量千川 (Ocean Engine Qianchuan) is ByteDance's integrated e-commerce advertising and marketing platform for the Douyin ecosystem, launched in December 2020 by Ocean Engine (巨量引擎).",
+    "descZh": "巨量千川是字节跳动面向抖音生态的一体化电商广告营销平台，由巨量引擎于2020年12月推出。它将鲁班、DOU+电商功能等早期工具整合为一个平台，为抖店商家和创作者提供横跨短视频与直播的统一广告解决方案；后在组织上并入抖音电商，据称约占抖音广告收入的一半。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://baike.baidu.com/en/item/Ocean%20Engine%20Qianchuan/1509834",
+    "sources": [
+      "https://baike.baidu.com/en/item/Ocean%20Engine%20Qianchuan/1509834",
+      "https://caijing.chinadaily.com.cn/a/202101/05/WS5ff40817a3101e7ce9739227.html",
+      "https://eu.36kr.com/en/p/3189961688703108",
+      "https://qianchuan.jinritemai.com/docs/help/12781/235711",
+      "https://zhuanlan.zhihu.com/p/366054341"
+    ]
+  },
+  {
+    "name": "识典古籍 (Shidian Guji (Shidian Ancient Texts))",
+    "nameEn": "Shidian Guji (Shidian Ancient Texts)",
+    "nameZh": "识典古籍",
+    "aliases": [
+      "Shidian Guji",
+      "Shidian Ancient Texts",
+      "Shidianguji",
+      "识典古籍",
+      "shidianguji.com"
+    ],
+    "type": "service",
+    "category": "Digital classical-texts reading /",
+    "categoryZh": "古籍数字化阅读 / 古籍数字化平台",
+    "region": "China (primarily mainland China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-10-11",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Douyin Information Service Co., Ltd.",
+    "developerEntities": [
+      "北京抖音信息服务有限公司 (Beijing Douyin Information Service Co., Ltd.) — ByteDance's primary China operating entity; ICP 京ICP备12025439号; built by the Peking University–ByteDance Digital Humanities Open Lab (北京大学",
+      "ByteDance / 字节跳动",
+      "北京抖音信息服务有限公司 (Beijing Douyin Information Service Co., Ltd.)",
+      "Peking University–ByteDance Digital Humanities Open Lab (北京大学—字节跳动数字人文开放实验室)",
+      "Peking University 北京大学"
+    ],
+    "appStoreId": "",
+    "description": "Shidian Guji (识典古籍) is a free digital platform for reading and intelligently organizing ancient Chinese classical texts, jointly developed by ByteDance and Peking University via their Digital Humanities Open Lab (founded March 2022; platform beta launched October 11, 2022).",
+    "descZh": "识典古籍是一个免费的中国古籍数字化阅读与智能整理平台，由字节跳动与北京大学通过其数字人文开放实验室联合开发（实验室创立于2022年3月，平台测试版于2022年10月11日上线）。它运用OCR、自动标点、命名实体识别及字节跳动的豆包/云雀大模型，支持AI助手、AI校对、文白翻译、有声书和深度研究助手等AI功能；到2026年已提供约6万种免费古籍，月度读者约240万。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://m.mp.oeeee.com/a/BAAFRD000020221012729689.html",
+    "sources": [
+      "https://m.mp.oeeee.com/a/BAAFRD000020221012729689.html",
+      "http://www.xinhuanet.com/tech/20221014/70bc89fd4dd246d48a94a7035cab76e3/c.html",
+      "https://www.scmp.com/news/china/politics/article/3290138/ai-boost-chinas-massive-confucius-cultural-project-bytedance-donation",
+      "https://english.news.cn/20250423/52c086f0946f4196a316c2b82c285983/c.html",
+      "https://www.chinanews.com.cn/cj/2026/04-23/10609570.shtml"
+    ]
+  },
+  {
+    "name": "一直看漫画 (Yizhikanmanhua (Read Comics Anytime))",
+    "nameEn": "Yizhikanmanhua (Read Comics Anytime)",
+    "nameZh": "一直看漫画",
+    "aliases": [
+      "Yizhikan Manhua",
+      "Yizhi Kan Manhua",
+      "Beijing Manji Network / 北京漫迹网络科技有限公司 (operator)"
+    ],
+    "type": "app",
+    "category": "Comics / manga reading",
+    "categoryZh": "漫画阅读",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2018",
+    "dateKilled": "",
+    "status": "acquired",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "北京漫迹网络科技有限公司",
+    "developerEntities": [
+      "北京漫迹网络科技有限公司 (Beijing Manji Network Technology) — acquired by ByteDance via subsidiary 北京鼎臻科技有限公司 (Beijing Dingzhen Technology), the Fanqie Novel operating entity",
+      "北京漫迹网络科技有限公司 (Beijing Manji Network Technology Co., Ltd.)",
+      "北京鼎臻科技有限公司 (Beijing Dingzhen Technology Co., Ltd., ByteDance/Fanqie Novel operating entity)",
+      "ByteDance / 字节跳动",
+      "番茄小说 (Fanqie Novel)"
+    ],
+    "appStoreId": "",
+    "description": "一直看漫画 was a daily-updated comics/manga reading app (Chinese manhua, Japanese manga, and webtoons) launched in 2018 by 北京漫迹网络科技有限公司, whose founders included a former CEO of Dongman Home (动漫之家).",
+    "descZh": "一直看漫画是一款每日更新的漫画阅读App（涵盖国漫、日漫和韩式条漫），于2018年由北京漫迹网络科技有限公司推出，其创始人之一曾任动漫之家CEO。2022年1月，字节跳动通过番茄小说运营主体北京鼎臻科技有限公司全资收购了该运营方，标志番茄向漫画领域扩张；其团队和版权库为字节跳动的漫画业务（后来的番茄漫画）打下了基础。",
+    "killedReason": "Not formally shut down — acquired 100% by ByteDance/Fanqie in Jan 2022 and folded into ByteDance's literature/comics business division. The standalone 一直看漫画 brand has little current presence after absorption; the comics effort continued under Fanqie's umbrella.",
+    "reasonZh": "并未正式关停——2022年1月被字节跳动/番茄全资收购，并入字节跳动文学/漫画业务部门。被吸收后，独立的“一直看漫画”品牌如今几乎没有存在感；漫画业务在番茄旗下延续。",
+    "link": "https://www.thepaper.cn/newsDetail_forward_16354136",
+    "sources": [
+      "https://www.thepaper.cn/newsDetail_forward_16354136",
+      "https://news.qq.com/rain/a/20220117A01SNB00",
+      "https://www.pingwest.com/a/257179",
+      "https://www.jiemian.com/article/7019717.html",
+      "https://zhuanlan.zhihu.com/p/459382194"
+    ]
+  },
+  {
+    "name": "影托邦 (Yingtuobang)",
+    "nameEn": "Yingtuobang",
+    "nameZh": "影托邦",
+    "aliases": [
+      "Yingtuobang",
+      "天空之城（上海）实业有限公司",
+      "Sky City Shanghai"
+    ],
+    "type": "service",
+    "category": "Film / cinema ticketing & entertainment",
+    "categoryZh": "电影 / 影院票务与娱乐营销",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-12",
+    "dateKilled": "",
+    "status": "acquired",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "天空之城（上海）实业有限公司",
+    "developerEntities": [
+      "天空之城（上海）实业有限公司 (Sky City Shanghai Industrial Co., Ltd.), acquired by ByteDance",
+      "天空之城（上海）实业有限公司",
+      "字节跳动 (ByteDance) 大文娱 / Douyin"
+    ],
+    "appStoreId": "",
+    "description": "影托邦 (Yingtuobang) was a Shanghai-based online movie/cinema ticketing platform operated by 天空之城（上海）实业有限公司, covering 8,000+ cinemas nationwide with online seat selection and multiple payment methods, and providing corporate clients with movie benefits, gift cards, and entertainment-marketing…",
+    "descZh": "影托邦是一家位于上海、由天空之城（上海）实业有限公司运营的在线电影/影院票务平台，覆盖全国8000多家影院，提供在线选座和多种支付方式，并为企业客户提供观影福利、礼品卡和娱乐营销服务。字节跳动于2021年12月前后（2022年1月有报道）将其收购，作为大文娱布局的一部分，把面向消费者的票务并入抖音小程序生态，公司则保留其B2B业务。",
+    "killedReason": "Not a public shutdown; the standalone Yingtuobang consumer brand was effectively absorbed/merged into Douyin's in-app movie-ticketing service (mini-program shown alongside Maoyan and Taopiaopiao) while retaining its B2B corporate movie-benefits business. ByteDance's goal was traffic monetization and entering local-lifestyle/ticketing services.",
+    "reasonZh": "并非公开关停；面向消费者的独立影托邦品牌实际被吸收/并入抖音App内的电影票务服务（小程序与猫眼、淘票票并列），同时保留其B2B企业观影福利业务。字节跳动的目标是流量变现并进军本地生活/票务服务。",
+    "link": "https://news.qq.com/rain/a/20220117A01SNB00",
+    "sources": [
+      "https://news.qq.com/rain/a/20220117A01SNB00",
+      "https://www.jiemian.com/article/7019717.html",
+      "https://www.pingwest.com/a/257179",
+      "https://news.qq.com/rain/a/20220118A04FTH00",
+      "https://technode.com/2022/01/17/bytedance-acquires-two-new-entertainment-companies-report/"
+    ]
+  },
+  {
+    "name": "稀土掘金 (Juejin / Xitu Juejin)",
+    "nameEn": "Juejin / Xitu Juejin",
+    "nameZh": "稀土掘金",
+    "aliases": [
+      "Juejin",
+      "稀土掘金",
+      "掘金",
+      "Xitu Juejin",
+      "juejin.cn",
+      "juejin.im"
+    ],
+    "type": "app",
+    "category": "Developer / tech content-sharing community",
+    "categoryZh": "开发者 / 技术内容分享社区",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2015-08",
+    "dateKilled": "",
+    "status": "acquired",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Bebi Information Technology Co., Ltd",
+    "developerEntities": [
+      "ByteDance (字节跳动)",
+      "Beijing Bebi Information Technology Co., Ltd. (北京北比信息技术有限公司)",
+      "Xitu (稀土)"
+    ],
+    "appStoreId": "",
+    "description": "Juejin (稀土掘金) is a Chinese developer and tech content-sharing community at juejin.cn, where developers publish articles, tutorials and industry insights.",
+    "descZh": "掘金（稀土掘金）是一个中国开发者与技术内容分享社区，网址为juejin.cn，开发者在此发布文章、教程和行业洞见。它由阴明于2014/2015年创办，2020年被字节跳动收购，至今作为全资子公司运营；截至2025-2026年仍在正常活跃运营。",
+    "killedReason": "Not killed — acquired by ByteDance in 2020 and still operating live. Listed under \"acquired\" status because it joined ByteDance via acquisition rather than internal development.",
+    "reasonZh": "并未关停——2020年被字节跳动收购，至今仍正常运营。之所以列为“已收购”状态，是因为它通过收购而非内部研发加入字节跳动。",
+    "link": "https://zh.wikipedia.org/zh-cn/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91",
+    "sources": [
+      "https://zh.wikipedia.org/zh-cn/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91",
+      "https://finance.sina.cn/tech/2020-11-04/detail-iiznctkc9389083.d.html",
+      "https://m.21jingji.com/article/20201104/herald/7ad0b053c770ac93da5d7bc4e97b9b9c.html",
+      "https://www.cls.cn/detail/612285",
+      "https://news.qq.com/rain/a/20250307A07LHD00"
+    ]
+  },
+  {
+    "name": "头条号 (Toutiao Hao (Toutiao Creator Platform))",
+    "nameEn": "Toutiao Hao (Toutiao Creator Platform)",
+    "nameZh": "头条号",
+    "aliases": [
+      "Toutiao Hao",
+      "Toutiao Account",
+      "Toutiao Number",
+      "头条创作者平台",
+      "Toutiao Creator Platform",
+      "TT Hao"
+    ],
+    "type": "service",
+    "category": "Creator / self-media publishing platform",
+    "categoryZh": "创作者 / 自媒体发布平台",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2014",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology Co., Ltd.",
+    "developerEntities": [
+      "Beijing ByteDance Technology Co., Ltd. (北京字节跳动科技有限公司)",
+      "北京字节跳动科技有限公司 (Beijing ByteDance Technology Co., Ltd.)",
+      "今日头条 / Toutiao"
+    ],
+    "appStoreId": "",
+    "description": "头条号 (Toutiao Hao) is ByteDance's self-media / creator account and content-publishing platform built into Toutiao, operated at mp.toutiao.com, where media outlets, institutions and individual creators register accounts to publish articles, videos, micro-posts and Q&A and monetize via ad revenue…",
+    "descZh": "头条号是字节跳动内置于今日头条的自媒体/创作者账号与内容发布平台，运营于mp.toutiao.com，媒体机构、组织和个人创作者在此注册账号，发布文章、视频、微头条和问答，并通过广告分成变现。2018年3月的一次升级统一了后台，使内容自动分发至字节跳动生态（今日头条、西瓜视频、抖音、火山、悟空问答），帮助中心品牌也转向“头条创作者平台”，但平台仍沿用头条号之名并持续运营。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://en.wikipedia.org/wiki/Toutiao",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Toutiao",
+      "https://baike.baidu.com/item/%E5%A4%B4%E6%9D%A1%E5%8F%B7",
+      "https://36kr.com/p/1722342883329",
+      "https://mp.toutiao.com/profile_v4/",
+      "https://finance.sina.com.cn/roll/2024-08-19/doc-incketiy4381222.shtml"
+    ]
+  },
+  {
+    "name": "微头条 (Weitoutiao (Micro Toutiao))",
+    "nameEn": "Weitoutiao (Micro Toutiao)",
+    "nameZh": "微头条",
+    "aliases": [
+      "Weitoutiao",
+      "Micro Toutiao",
+      "微头条 (今日头条)"
+    ],
+    "type": "service",
+    "category": "Microblog / social feed",
+    "categoryZh": "微博 / 社交信息流",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2017-04",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing ByteDance Technology Co., Ltd.",
+    "developerEntities": [
+      "Beijing ByteDance Technology / 今日头条 (Toutiao app)",
+      "ByteDance (字节跳动)",
+      "今日头条 / Jinri Toutiao"
+    ],
+    "appStoreId": "",
+    "description": "微头条 (Weitoutiao) is a Weibo/Twitter-style microblog feed launched by ByteDance inside the Toutiao app in April 2017, letting users post short text/image updates that appear in the feed and on profiles.",
+    "descZh": "微头条是字节跳动于2017年4月在今日头条App内推出的一款微博/推特式微博信息流，用户可发布会出现在信息流和个人主页上的短文字/图片动态。它是字节跳动屡次试图在内容平台之上搭建社交网络的尝试之一；它未能撼动新浪微博，其显眼的底栏/二级入口在2019年前后被“取缔”降级，并引发微博发起的一起重大不正当竞争诉讼。它从未作为独立App拆分出来。",
+    "killedReason": "Not actually killed — it persists as a content format/section inside Toutiao. It was sidelined/demoted from a dedicated traffic entry around 2019 after failing to compete with Weibo and never became a standalone social product, but the feature remains live with active creator monetization (微头条创作收益) as of 2024-2025.",
+    "reasonZh": "实际并未关停——它作为一种内容形式/板块存续于今日头条内。它在2019年前后因未能与微博竞争而被边缘化/从专属流量入口降级，且从未成为独立社交产品，但截至2024-2025年该功能仍在运营，并有活跃的创作者变现（微头条创作收益）。",
+    "link": "https://www.jiemian.com/article/3061055.html",
+    "sources": [
+      "https://www.jiemian.com/article/3061055.html",
+      "https://www.jiemian.com/article/1541062.html",
+      "https://medium.com/@actallchinatech/toutiaos-microblogging-platform-weitoutiao-to-take-on-weibo-7df1e5b3896e",
+      "https://en.wikipedia.org/wiki/Toutiao",
+      "https://baike.toutiao.com/detail/192/200/0"
+    ]
+  },
+  {
+    "name": "豆包 Ola Friend 智能体耳机 (Ola Friend)",
+    "nameEn": "Ola Friend",
+    "nameZh": "豆包 Ola Friend 智能体耳机",
+    "aliases": [
+      "Ola Friend AI earbuds",
+      "豆包耳机",
+      "Doubao Ola Friend",
+      "OlaFriend"
+    ],
+    "type": "hardware",
+    "category": "AI smart earbuds (open-ear, Doubao",
+    "categoryZh": "AI 智能耳机（开放式，集成豆包语音助手）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2024-10-10",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "ByteDance Seed (Doubao team)",
+    "developerEntities": [
+      "ByteDance (Doubao team; built on acquired Oladance OWS technology). Sold via JD/Tmall in China; official site olafriend.com.",
+      "ByteDance (字节跳动)",
+      "Doubao (豆包) team",
+      "Oladance (acquired Sept 2024)"
+    ],
+    "appStoreId": "",
+    "description": "Ola Friend is ByteDance's first own-brand AI smart earbuds, launched 10 Oct 2024 at RMB1,199. The open-ear (OWS) design — built on technology from the Oladance earbud brand ByteDance fully acquired in September 2024 — lets users talk to the Doubao LLM voice agent hands-free (information lookup…",
+    "descZh": "Ola Friend 是字节跳动首款自有品牌 AI 智能耳机，于 2024 年 10 月 10 日发布，售价 1199 元人民币。其开放式（OWS）设计基于字节跳动 2024 年 9 月全资收购的 Oladance 耳机品牌技术，让用户无需打开手机即可免手操作与豆包大模型语音助手对话（信息查询、旅行向导、英语外教「Owen」、陪伴等）。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://technode.com/2024/10/11/bytedance-releases-ola-friend-its-first-ai-smart-earbuds/",
+    "sources": [
+      "https://technode.com/2024/10/11/bytedance-releases-ola-friend-its-first-ai-smart-earbuds/",
+      "https://www.yicaiglobal.com/news/tiktok-owner-bytedance-launches-usd169-ai-earbuds-in-china",
+      "https://www.scmp.com/tech/article/3281819/tiktok-owner-bytedance-launches-us170-earbuds-china-push-ai-wearables",
+      "https://www.engadget.com/audio/headphones/tiktok-owner-bytedance-unveils-its-first-earbuds-in-china-143507603.html",
+      "https://pandaily.com/bytedance-completes-acquisition-of-oladance"
+    ]
+  },
+  {
+    "name": "Tako",
+    "nameEn": "Tako",
+    "nameZh": "Tako",
+    "aliases": [
+      "TikTok Tako"
+    ],
+    "type": "service",
+    "category": "AI chatbot / in-app search &",
+    "categoryZh": "AI 聊天机器人 / 应用内搜索与内容发现助手",
+    "region": "Global (initial test Philippines",
+    "regionZh": "全球（初期在菲律宾测试，后全球推广）",
+    "dateLaunched": "2023-05",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "TikTok Pte. Ltd.",
+    "developerEntities": [
+      "TikTok Pte. Ltd. (a ByteDance company); feature built into the TikTok app",
+      "TikTok",
+      "ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "Tako is an in-app AI chatbot/search assistant built into TikTok that lets users ask questions in natural language to discover content and get info about the video they're watching.",
+    "descZh": "Tako 是内置于 TikTok 的应用内 AI 聊天机器人/搜索助手，让用户用自然语言提问以发现内容并获取所观看视频的相关信息。它于 2023 年 5 月首次在菲律宾面向部分用户进行小范围测试，随后自 2026 年 2 月起在全球（包括美国）广泛推出，并锚定在 For You 信息流中，开始取代视频内的搜索推荐。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://techcrunch.com/2023/05/25/tiktok-is-testing-an-in-app-ai-chatbot-called-tako/",
+    "sources": [
+      "https://techcrunch.com/2023/05/25/tiktok-is-testing-an-in-app-ai-chatbot-called-tako/",
+      "https://www.musicbusinessworldwide.com/tiktok-is-testing-an-ai-chatbot-in-the-philippines/",
+      "https://www.socialmediatoday.com/news/tiktoks-testing-tako-ai-chatbot-experience-app/651339/",
+      "https://thetab.com/2026/02/06/right-heres-how-to-turn-off-tiktoks-annoying-new-ai-chatbot-called-tako",
+      "https://adtechradar.com/2026/02/06/tiktok-ai-chatbot-tako-expands/"
+    ]
+  },
+  {
+    "name": "TikTok工作室 (TikTok Studio)",
+    "nameEn": "TikTok Studio",
+    "nameZh": "TikTok工作室",
+    "aliases": [
+      "TikTok工作室",
+      "TikTok Creator Studio (informal)"
+    ],
+    "type": "app",
+    "category": "Creator content-creation & management",
+    "categoryZh": "创作者内容创作与管理配套 App",
+    "region": "Global (removed from US App Store Jan 19",
+    "regionZh": "全球（2025 年 1 月 19 日因外国对手法案从美国 App Store 下架）",
+    "dateLaunched": "2024-05-24",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "TikTok Pte. Ltd.",
+    "developerEntities": [
+      "TikTok Pte. Ltd. / TikTok Inc. (ByteDance subsidiary); Android package id com.ss.android.tt.creator",
+      "TikTok Pte. Ltd.",
+      "TikTok Inc.",
+      "ByteDance Ltd."
+    ],
+    "appStoreId": "",
+    "description": "TikTok Studio is TikTok's standalone creation-and-management companion app (also available on web at tiktok.com/tiktokstudio), letting creators film, edit, upload, schedule, manage, monetize and analyze their TikTok content.",
+    "descZh": "TikTok Studio 是 TikTok 的独立创作与管理配套 App（也可在 tiktok.com/tiktokstudio 网页端使用），让创作者拍摄、剪辑、上传、排期、管理、变现和分析其 TikTok 内容。它于 2024 年 5 月 24 日发布，取代了应用内的创作者工具和旧版 Creator Center 网页应用。",
+    "killedReason": "Not killed globally. It was pulled from the US App Store on Jan 19, 2025 (alongside 10 other ByteDance apps on Apple's official removal list) under the Protecting Americans from Foreign Adversary Controlled Applications Act; unlike TikTok itself it was not clearly restored, and reports (9to5Mac, March 2026) indicate ByteDance companion apps remained geoblocked in the US. The product remains live and actively developed worldwide.",
+    "reasonZh": "并非全球关停。2025 年 1 月 19 日依据《保护美国人免受外国对手控制应用法案》与另 10 款字节应用一同从美国 App Store 下架；与 TikTok 不同，它未被明确恢复，报道称字节配套应用在美国仍被地理封锁。全球范围仍在线并持续开发。",
+    "link": "https://newsroom.tiktok.com/en-us/helping-creators-bring-creativity-to-life-with-tiktok-studio",
+    "sources": [
+      "https://newsroom.tiktok.com/en-us/helping-creators-bring-creativity-to-life-with-tiktok-studio",
+      "https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s",
+      "https://support.apple.com/en-kz/121596",
+      "https://play.google.com/store/apps/details?id=com.ss.android.tt.creator",
+      "https://musically.com/2024/05/28/tiktok-launches-a-new-tiktok-studio-tool-for-its-creators/"
+    ]
+  },
+  {
+    "name": "PicPic",
+    "nameEn": "PicPic",
+    "nameZh": "PicPic",
+    "aliases": [
+      "PicPic AI",
+      "PicPic AI Replica",
+      "PicPic: AI photo editor / AI avatar"
+    ],
+    "type": "app",
+    "category": "AI photo editor / AI avatar (AI",
+    "categoryZh": "AI 照片编辑 / AI 头像（AI「分身」）应用——海外",
+    "region": "Overseas (international",
+    "regionZh": "海外（国际市场，非中国大陆）",
+    "dateLaunched": "2024-03",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Spring (SG) Pte. Ltd.",
+    "developerEntities": [
+      "SPRING (SG) PTE. LTD. (Singapore; UEN 202325236K, incorporated 2023-06-28) — ByteDance overseas shell entity. App Store id6475074973; Google Play com.butterfly.pegasus",
+      "SPRING (SG) PTE. LTD.",
+      "ByteDance Ltd."
+    ],
+    "appStoreId": "",
+    "description": "PicPic is a ByteDance overseas AI photo/avatar app that lets users generate stylized \"AI Replica\" portraits and AI cosplay images from a few selfies (e.g. putting the user into kimonos, suits, fantasy roles, or \"parallel-universe\" scenes).",
+    "descZh": "PicPic 是字节跳动的海外 AI 照片/头像应用，让用户用几张自拍生成风格化的「AI 分身」肖像和 AI 角色扮演图像（例如把用户置入和服、西装、奇幻角色或「平行宇宙」场景中）。它通过字节跳动的新加坡壳公司 SPRING (SG) PTE. LTD. 发布——这也是 Trae、Cici/Dola 和 AnyDoor 背后的同一主体——并与 Cici 和 Gauth 一同在字节跳动 2024 年生成式 AI 应用扩张的报道中被提及。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://apps.apple.com/id/app/picpic/id6475074973",
+    "sources": [
+      "https://apps.apple.com/id/app/picpic/id6475074973",
+      "https://play.google.com/store/apps/details?id=com.butterfly.pegasus",
+      "https://appstorespy.com/developers/play/SPRING(SG)PTELTD/7721551072398243123",
+      "https://www.caixinglobal.com/2024-10-15/in-depth-chinese-ai-app-makers-look-overseas-for-their-big-break-102245701.html",
+      "https://www.aicerts.ai/news/bytedances-quiet-ai-app-launch-investment-risks-growth/"
+    ]
+  },
+  {
+    "name": "(no official Chinese name; overseas counterpart of 番茄小说 Fanqie Novel) (Fizzo)",
+    "nameEn": "Fizzo",
+    "nameZh": "(no official Chinese name; overseas counterpart of 番茄小说 Fanqie Novel)",
+    "aliases": [
+      "Fictum",
+      "Fizzo Novel",
+      "Fizzo - Novel & Drama",
+      "Fizzo - Read Good Novels"
+    ],
+    "type": "app",
+    "category": "Web-novel / serialized-fiction reading &",
+    "categoryZh": "网络小说 / 连载小说阅读与写作平台（海外）",
+    "region": "Indonesia / Southeast Asia / global",
+    "regionZh": "印尼 / 东南亚 / 全球（英语 + 印尼语）",
+    "dateLaunched": "2020-11",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Poligon Pte. Ltd.",
+    "developerEntities": [
+      "Poligon Pte. Ltd. (Singapore-based ByteDance subsidiary; UEN 202042231M, incorporated 30 Dec 2020). Google Play package: e.books.reading.apps",
+      "Poligon Pte. Ltd.",
+      "ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "Fizzo (originally launched as Fictum in late 2020, rebranded ~2021) is ByteDance's overseas serialized web-novel reading and writing platform, the international counterpart to its Chinese free-novel app Fanqie Novel. Published by ByteDance's Singapore subsidiary Poligon Pte.",
+    "descZh": "Fizzo（最初于 2020 年底以 Fictum 之名推出，约 2021 年更名）是字节跳动的海外连载网络小说阅读与写作平台，是其国内免费小说应用番茄小说的国际版对应产品。它由字节跳动新加坡子公司 Poligon Pte. Ltd. 发布，是印尼排名顶尖的小说应用（下载量超 5000 万），并通过独家/非独家合约招募作者——这些合约曾在 2021 年被 Writer Beware 指出含有苛刻的字数要求和禁言条款。",
+    "killedReason": "Not shut down. Removed from the US App Store / Google Play on ~19 Jan 2025 under the Protecting Americans from Foreign Adversary Controlled Applications Act (PAFACA), as one of the Poligon/ByteDance apps (alongside Melolo) covered by the law; remains live in other markets.",
+    "reasonZh": "并未关停。约于 2025 年 1 月 19 日依据《保护美国人免受外国对手控制应用法案》（PAFACA）从美国 App Store / Google Play 下架，作为该法案涵盖的 Poligon/字节跳动应用之一（与 Melolo 一同）；在其他市场仍在线运营。",
+    "link": "https://writerbeware.blog/2021/07/23/bad-contract-alert-bytedances-fizzo-fictum-reading-writing-app/",
+    "sources": [
+      "https://writerbeware.blog/2021/07/23/bad-contract-alert-bytedances-fizzo-fictum-reading-writing-app/",
+      "https://www.newsbytesapp.com/news/science/us-ban-on-bytedance-apps-here-s-what-you-can-t-access/story",
+      "https://kr-asia.com/bytedance-takes-short-dramas-global-with-melolo-launch",
+      "https://www.sgpbusiness.com/company/Poligon-Pte-Ltd",
+      "https://play.google.com/store/apps/details?id=e.books.reading.apps"
+    ]
+  },
+  {
+    "name": "FizzoToon（无独立官方中文名） (FizzoToon)",
+    "nameEn": "FizzoToon",
+    "nameZh": "FizzoToon（无独立官方中文名）",
+    "aliases": [
+      "Fizzo Toon",
+      "Fizzotoon"
+    ],
+    "type": "app",
+    "category": "Comic / webtoon / manga reading app",
+    "categoryZh": "漫画 / 网络漫画 / 日漫阅读应用",
+    "region": "Japan (primary), with SE",
+    "regionZh": "日本（主要），兼具东南亚 / 多市场定位",
+    "dateLaunched": "2022-02",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Poligon Pte. Ltd.",
+    "developerEntities": [
+      "POLIGON PTE. LTD. (Singapore) — ByteDance's Singapore-based international-content subsidiary; Android package com.fizzotoon.android.app",
+      "POLIGON PTE. LTD.",
+      "ByteDance"
+    ],
+    "appStoreId": "",
+    "description": "FizzoToon is a comic/webtoon/manga reading app ByteDance launched in Japan around February–March 2022, offering 10+ genres (fantasy, romance, BL, etc.). It is the comics-vertical sibling of ByteDance's Fizzo web-novel app, both published by POLIGON PTE.",
+    "descZh": "FizzoToon 是字节跳动约于 2022 年 2 至 3 月在日本推出的漫画/网络漫画/日漫阅读应用，提供 10 多种题材（奇幻、爱情、BL 等）。它是字节跳动 Fizzo 网络小说应用的漫画垂直分支，二者均由字节跳动新加坡国际内容子公司 POLIGON PTE. LTD. 发布。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://kr-asia.com/bytedance-takes-short-dramas-global-with-melolo-launch",
+    "sources": [
+      "https://kr-asia.com/bytedance-takes-short-dramas-global-with-melolo-launch",
+      "https://www.baijing.cn/article/37882",
+      "https://pandaily.com/bytedance-launches-comic-app-in-japan",
+      "https://inf.news/en/comics/0adfb194bdaf5450eda35a9e523ffaaa.html",
+      "https://apkgk.com/com.fizzotoon.android.app"
+    ]
+  },
+  {
+    "name": "潭水源 (Tanshuyuan)",
+    "nameEn": "Tanshuyuan",
+    "nameZh": "潭水源",
+    "aliases": [
+      "Tanshuyuan",
+      "潭水源教师社区",
+      "Tanshuyuan Teacher Community",
+      "谭水源 (common typo)"
+    ],
+    "type": "app",
+    "category": "Education / Teacher-service &",
+    "categoryZh": "教育 / 教师服务与教研社区（公益）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-02",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Dali Education (大力教育)",
+    "developerEntities": [
+      "极课(北京)教育科技有限公司 (Jike (Beijing) Education Technology Co., Ltd.) — App Store/Play package com.bytedance.wfp; under Dali Education / 大力创新科技(北京)有限公司, wholly owned by ByteDance",
+      "极课(北京)教育科技有限公司 (Jike (Beijing) Education Technology Co., Ltd.)",
+      "大力教育 (Dali Education)",
+      "大力创新科技(北京)有限公司 (Dali Innovation Technology (Beijing) Co., Ltd.)",
+      "字节跳动 (ByteDance)"
+    ],
+    "appStoreId": "",
+    "description": "潭水源 (Tanshuyuan) is a public-welfare teacher-service and teaching-research community app launched by ByteDance's Dali Education in early 2022, providing K-12 teachers with quality teaching resources, customized training, collaborative online teaching research, and topic-based discussion forums.",
+    "descZh": "潭水源是字节跳动大力教育于 2022 年初推出的一款公益性教师服务与教研社区应用，为 K12 教师提供优质教学资源、定制化培训、协同在线教研以及主题讨论论坛。它与字节跳动正式退出消费级 K12 培训（GOGOKID、你拍一、清北小班、汤圆英语）同步亮相，标志着大力教育转向校内/教师支持服务。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://www.dalijiaoyu.com/zh/services/tsy",
+    "sources": [
+      "https://www.dalijiaoyu.com/zh/services/tsy",
+      "https://apps.apple.com/cn/app/%E6%BD%AD%E6%B0%B4%E6%BA%90/id1601408181",
+      "https://sj.qq.com/appdetail/com.bytedance.wfp",
+      "https://www.jiemian.com/article/7123989.html",
+      "https://finance.sina.com.cn/tech/2022-02-21/doc-imcwipih4500229.shtml"
+    ]
+  },
+  {
+    "name": "美中宜和 (Amcare Women's & Children's Hospital)",
+    "nameEn": "Amcare Women's & Children's Hospital",
+    "nameZh": "美中宜和",
+    "aliases": [
+      "Amcare",
+      "Amcare Healthcare",
+      "Meizhong Yihe",
+      "美中宜和",
+      "禧月阁 (Xiyuege)"
+    ],
+    "type": "service",
+    "category": "Private high-end women's & children's",
+    "categoryZh": "高端私立妇儿医院 / 妇产与儿科",
+    "region": "China (Beijing-Tianjin-Hebei, Yangtze",
+    "regionZh": "中国（京津冀、长三角、珠三角）",
+    "dateLaunched": "2006",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Hainan Xiaohe Health (小荷健康)",
+    "developerEntities": [
+      "Xiaohe Health (Hong Kong) Ltd. + Xiaohe Health Technology (Beijing) Co., Ltd. (ByteDance subsidiaries)",
+      "ByteDance (字节跳动)",
+      "Xiaohe Health 小荷健康",
+      "Xiaohe Health (Hong Kong) Ltd. 小荷香港",
+      "Xiaohe Health Technology (Beijing) Co., Ltd. 小荷健康科技（北京）有限公司"
+    ],
+    "appStoreId": "",
+    "description": "Amcare (美中宜和) is a high-end private women's & children's hospital chain founded in Beijing in 2006, operating 7 maternity/women's & children's hospitals, 2 general outpatient clinics, and 5 postpartum-care (月子) centers (sub-brand 禧月阁) across China's three major economic regions.",
+    "descZh": "美中宜和是一家高端私立妇儿医院连锁，2006 年创立于北京，在中国三大经济区运营 7 家妇儿医院、2 家综合门诊和 5 家月子中心（子品牌禧月阁）。字节跳动于 2022 年年中通过其小荷健康子公司以约 100 亿元人民币/15 亿美元取得 100% 控股权，成为字节跳动最大的线下医疗投资。",
+    "killedReason": "Not killed/divested as of mid-2026. In April 2024 ByteDance explicitly denied reports it was looking to sell Amcare (\"完全没有\"); the chain continues to operate independently and remains wholly owned. (The candidate's \"merged\" status is inaccurate — it was acquired and still operates; status is better captured as alive/wholly-owned.)",
+    "reasonZh": "截至 2026 年年中并未关停/剥离。2024 年 4 月字节跳动明确否认有意出售美中宜和（「完全没有」）；该连锁继续独立运营，仍为全资持有。（候选「合并」状态不准确——它被收购后仍在运营，更准确的状态应为存续/全资持有。）",
+    "link": "https://www.caixinglobal.com/2022-08-09/exclusive-bytedance-takes-over-private-hospital-operator-for-15-billion-101923752.html",
+    "sources": [
+      "https://www.caixinglobal.com/2022-08-09/exclusive-bytedance-takes-over-private-hospital-operator-for-15-billion-101923752.html",
+      "https://www.cnbc.com/2022/08/10/tiktok-parent-bytedance-acquires-private-hospital-chain.html",
+      "https://finance.yahoo.com/news/bytedance-pays-1-5-billion-061438574.html",
+      "https://www.cn-healthcare.com/articlewm/20220807/content-1413859.html",
+      "https://m.21jingji.com/article/20220805/herald/f87afb27a2c8913c91ffe56ffed61113.html"
+    ]
+  },
+  {
+    "name": "北京宏达爱瑞医疗科技 / 北京美中爱瑞肿瘤医院 (Beijing Hongda Arei Medical Technology / Beijing Meizhong Arei Tumor Hospital)",
+    "nameEn": "Beijing Hongda Arei Medical Technology / Beijing Meizhong Arei Tumor Hospital",
+    "nameZh": "北京宏达爱瑞医疗科技 / 北京美中爱瑞肿瘤医院",
+    "aliases": [
+      "Hongda Arei",
+      "Hongda Airy",
+      "Meizhong Arei",
+      "美中爱瑞肿瘤医院",
+      "宏达爱瑞",
+      "Beijing Arei International Medical Complex (爱瑞国际医疗综合体, new AI hospital campus)"
+    ],
+    "type": "service",
+    "category": "Offline oncology hospital / healthcare",
+    "categoryZh": "线下肿瘤医院 / 医疗（控股公司＋肿瘤医院）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2022-04",
+    "dateKilled": "",
+    "status": "acquired",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Hainan Xiaohe Health (小荷健康)",
+    "developerEntities": [
+      "Beijing Hongda Arei Medical Technology Co., Ltd.; controlled by ByteDance's 小荷健康 (Xiaohe Health) entities — 小荷健康 64.42% + 小荷健康(香港) 26.7% (>90% total)",
+      "字节跳动 (ByteDance)",
+      "小荷健康 (Xiaohe Health)",
+      "小荷健康(香港) (Xiaohe Health HK)",
+      "抖音集团 (Douyin Group)",
+      "北京宁和康瑞医疗管理有限公司 (related 2024 entity, reg. capital 734M yuan)"
+    ],
+    "appStoreId": "",
+    "description": "北京宏达爱瑞医疗科技是字节跳动旗下小荷健康控股(合计超90%)的医疗控股公司，其100%控股北京美中爱瑞肿瘤医院——一家民营三级肿瘤专科医院。这是字节跳动线下医疗布局的核心资产之一；2025年7月该体系动工建设投资约60亿元的\"北京爱瑞国际医疗综合体/AI医院\"新院区。ByteDance, via its Xiaohe Health subsidiary, holds a >90% controlling stake in Beijing Hongda Arei, which in turn wholly owns Beijing Meizhong Arei Tumor Hospital…",
+    "descZh": "北京宏达爱瑞医疗科技是字节跳动旗下小荷健康控股（合计超 90%）的医疗控股公司，其 100% 控股北京美中爱瑞肿瘤医院——一家民营三级肿瘤专科医院。这是字节跳动线下医疗布局的核心资产之一；2025 年 7 月该体系动工建设投资约 60 亿元的「北京爱瑞国际医疗综合体/AI 医院」新院区。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://www.chinaventure.com.cn/news/111-20220809-370487.html",
+    "sources": [
+      "https://www.chinaventure.com.cn/news/111-20220809-370487.html",
+      "https://www.cnfin.com/gs-lb/detail/20220427/3595199_1.html",
+      "https://www.cn-healthcare.com/articlewm/20220811/content-1416412.html",
+      "https://news.qq.com/rain/a/20250124A090Y100",
+      "https://www.zgcsb.com/news/pinDao/2025-07/14/a_605605.html"
+    ]
+  },
+  {
+    "name": "悟空浏览器 (Wukong Browser)",
+    "nameEn": "Wukong Browser",
+    "nameZh": "悟空浏览器",
+    "aliases": [
+      "Wukong Browser",
+      "读readall",
+      "readall",
+      "com.cat.readall"
+    ],
+    "type": "app",
+    "category": "Mobile web browser (incentivized / \"earn",
+    "categoryZh": "移动网页浏览器（激励式 /「赚钱」内容浏览器）",
+    "region": "China",
+    "regionZh": "中国大陆",
+    "dateLaunched": "2021-09",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Beijing Wuxian Weidu (无限维度)",
+    "developerEntities": [
+      "北京无限维度科技有限公司 (Beijing Wuxian Weidu Technology Co., Ltd.) — indirectly wholly-owned ByteDance subsidiary, via 北京星云创迹科技有限公司 / 抖音有限公司",
+      "北京无限维度科技有限公司 (Beijing Wuxian Weidu Technology Co., Ltd.)",
+      "字节跳动 ByteDance",
+      "抖音有限公司 (Douyin Ltd.)",
+      "北京星云创迹科技有限公司 (Beijing Xingyun Chuangji Technology)"
+    ],
+    "appStoreId": "",
+    "description": "Wukong Browser (悟空浏览器, package com.cat.readall) is a ByteDance mobile web browser launched in September 2021 under the slogan \"a browser that makes money.\" It bundles algorithm-recommended news/content, video, free novels, and a cash-reward section where users earn coins by…",
+    "descZh": "悟空浏览器（包名 com.cat.readall）是字节跳动于 2021 年 9 月以「一个能赚钱的浏览器」为口号推出的移动网页浏览器。它整合了算法推荐的新闻/内容、视频、免费小说，以及一个现金奖励板块——用户通过浏览/阅读/观看赚取金币，金币可兑换现金并通过支付宝提现（最低 1 元）。它瞄准下沉市场用户，定位为百度极速版应用的竞品。它隶属字节跳动「悟空」产品家族，但是一款独立的浏览器产品，与悟空搜索和悟空问答相区分。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://www.chinaz.com/2021/0908/1301430.shtml",
+    "sources": [
+      "https://www.chinaz.com/2021/0908/1301430.shtml",
+      "https://finance.sina.cn/tech/2021-09-08/detail-iktzscyx2953201.d.html",
+      "https://baike.baidu.com/item/%E6%82%9F%E7%A9%BA%E6%B5%8F%E8%A7%88%E5%99%A8/61357319",
+      "https://sj.qq.com/appdetail/com.cat.readall",
+      "https://finance.sina.com.cn/tech/digi/2025-02-27/doc-inemwpwn7256421.shtml"
+    ]
+  },
+  {
+    "name": "境·界 刀鸣 (BLEACH: Soul Resonance)",
+    "nameEn": "BLEACH: Soul Resonance",
+    "nameZh": "境·界 刀鸣",
+    "aliases": [
+      "境界刀鸣",
+      "Bleach Soul Resonance",
+      "BLEACH Realm: Blade Resonance",
+      "Jingjie Daoming"
+    ],
+    "type": "game",
+    "category": "Licensed Bleach 3D action RPG / gacha",
+    "categoryZh": "授权《境·界》3D 动作 RPG / 抽卡（手游）",
+    "region": "China + Global (West via Crunchyroll/A",
+    "regionZh": "中国＋全球（西方通过 Crunchyroll/A Plus Japan，亚洲通过朝夕光年）",
+    "dateLaunched": "2025-11-21",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "北京朝夕光年信息技术有限公司 (Beijing Chaoxi Guangnian Information Technology Co., Ltd. / Nuverse) in China & Asia; Crunchyroll Games and A PLUS JAPAN in Western markets. Developer: Black Moon Studio (Nuverse inter",
+      "Black Moon Studio (黑月工作室, Nuverse)",
+      "Nuverse / 北京朝夕光年信息技术有限公司 (ByteDance)"
+    ],
+    "appStoreId": "",
+    "description": "A 3D licensed action RPG / gacha mobile game based on Tite Kubo's BLEACH manga/anime, developed by Nuverse's Black Moon Studio with the cel-shaded visual style of the Thousand-Year Blood War arc.",
+    "descZh": "一款基于久保带人《境·界》（BLEACH）漫画/动画的 3D 授权动作 RPG/抽卡手游，由朝夕光年黑月工作室开发，采用千年血战篇的赛璐珞渲染视觉风格。它于 2023 年 7 月公布，曾被卷入 2023 年 11 月朝夕光年关停的传闻，但属于字节跳动保留并转为自研的项目之一；它于 2025 年 11 月 21 日在 iOS/安卓上线（中国/亚洲由朝夕光年运营，西方市场通过 Crunchyroll Games 和 A PLUS JAPAN），目前仍在运营（截至 2026 年 5 月为 v1.27 版本）。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://bleach-soulresonance.nvsgames.cn/fab",
+    "sources": [
+      "https://bleach-soulresonance.nvsgames.cn/fab",
+      "https://www.taptap.cn/app/374914",
+      "https://www.animenewsnetwork.com/news/2025-10-15/bleach-soul-resonance-game-to-launch-globally-for-android-ios-devices/.229878",
+      "https://gamingonphone.com/news/nuverses-bleach-soul-resonance-launches-globally-this-november-21/",
+      "https://www.rpgsite.net/news/19004-bleach-soul-resonance-download-now-available-for-ios-android-english"
+    ]
+  },
+  {
+    "name": "世界计划 缤纷舞台！feat. 初音未来 (国服) / 初音未来：缤纷舞台 (Project Sekai: Colorful Stage! feat. Hatsune Miku (Chinese servers))",
+    "nameEn": "Project Sekai: Colorful Stage! feat. Hatsune Miku (Chinese servers)",
+    "nameZh": "世界计划 缤纷舞台！feat. 初音未来 (国服) / 初音未来：缤纷舞台",
+    "aliases": [
+      "Project Sekai: Colorful Stage (China)",
+      "Project SEKAI Colorful Stage feat. Hatsune Miku",
+      "初音未来：缤纷舞台",
+      "世界计划 缤纷舞台 国服",
+      "プロセカ (中国版)",
+      "PJSK CN"
+    ],
+    "type": "game",
+    "category": "Rhythm / music game (Hatsune Miku /",
+    "categoryZh": "节奏 / 音乐游戏（初音未来 / Vocaloid IP），抽卡",
+    "region": "Greater China",
+    "regionZh": "大中华区——中国大陆（简体）及台港澳（繁体）",
+    "dateLaunched": "2021-09-30",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "ByteDance gaming arm Nuverse / 朝夕光年: Beijing Chaoxi Lightyear Information Technology Co., Ltd. (北京朝夕光年信息技术有限公司) for the mainland Simplified Chinese server (ICP 京ICP备13010862号 = ByteDance); Ariel Netwo",
+      "SEGA (developer)",
+      "Colorful Palette / Craft Egg (developer)",
+      "Crypton Future Media (Hatsune Miku IP)",
+      "Nuverse / 朝夕光年 — Beijing Chaoxi Lightyear Information Technology Co., Ltd. (China publisher)",
+      "Ariel Network 艾瑞尔网路 (TW/HK/Macau publisher, Nuverse-affiliated)"
+    ],
+    "appStoreId": "",
+    "description": "The Chinese-region service of SEGA's hit Vocaloid rhythm/gacha game Project Sekai: Colorful Stage! feat. Hatsune Miku, licensed and published by ByteDance's gaming arm Nuverse (朝夕光年).",
+    "descZh": "世嘉热门 Vocaloid 节奏/抽卡游戏《世界计划 缤纷舞台！feat. 初音未来》的中国区服务，由字节跳动游戏部门朝夕光年授权并发行。朝夕光年关联公司 Ariel Network 于 2021 年 9 月 30 日推出繁体中文（台港澳）服务器，朝夕光年（北京朝夕光年）则在 2024 年 6 月 5 日取得版号后，于 2025 年 3 月 27 日推出简体中文中国大陆服务器。",
+    "killedReason": "",
+    "reasonZh": "",
+    "link": "https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E8%AE%A1%E5%88%92_%E7%BC%A4%E7%BA%B7%E8%88%9E%E5%8F%B0%EF%BC%81_feat.%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5",
+    "sources": [
+      "https://zh.wikipedia.org/zh-hans/%E4%B8%96%E7%95%8C%E8%AE%A1%E5%88%92_%E7%BC%A4%E7%BA%B7%E8%88%9E%E5%8F%B0%EF%BC%81_feat.%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5",
+      "https://www.yfchuhai.com/article/12420.html",
+      "https://www.iyingdi.com/tz/post/5380859",
+      "https://projectsekai.fandom.com/wiki/Project_SEKAI_COLORFUL_STAGE!",
+      "https://en.namu.wiki/w/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%B8%EC%B9%B4%EC%9D%B4%20%EC%BB%AC%EB%9F%AC%ED%92%80%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80!%20feat.%ED%95%98%EC%B8%A0%EB%84%A4%20%EB%AF%B8%EC%BF%A0/%ED%95%B4%EC%99%B8%20%EC%84%9C%EB%B9%84%EC%8A%A4"
+    ]
+  },
+  {
+    "name": "全明星激斗 (SNK: All-Star Fight (All-Star Battle))",
+    "nameEn": "SNK: All-Star Fight (All-Star Battle)",
+    "nameZh": "全明星激斗",
+    "aliases": [
+      "SNK All-Star Fight",
+      "SNK: All Star Fight",
+      "All-Star Brawl",
+      "All-Star Battle",
+      "Project F"
+    ],
+    "type": "game",
+    "category": "Mobile game (SNK-licensed 3D strategy",
+    "categoryZh": "手游（SNK 授权 3D 策略卡牌 RPG / 抽卡）",
+    "region": "China (mainland",
+    "regionZh": "中国大陆（亦有国际发行）",
+    "dateLaunched": "2022-11-01",
+    "dateKilled": "",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "中手游 CMGE (publisher/operator after divestiture); co-developed with ByteDance Nuverse 朝夕光年",
+      "朝夕光年 (Nuverse / ByteDance gaming division)",
+      "101工作室 (101 Studio, Nuverse)",
+      "中手游 (CMGE / China Mobile Games and Entertainment Group)"
+    ],
+    "appStoreId": "",
+    "description": "全明星激斗 (SNK: All-Star Fight) is an officially SNK-licensed mobile game that crosses over characters from SNK fighting-game franchises (The King of Fighters, Samurai Shodown, Metal Slug, Fatal Fury, The Last Blade, Ikari Warriors).",
+    "descZh": "全明星激斗是一款官方授权 SNK 的手游，集结了 SNK 格斗游戏系列（《拳皇》《侍魂》《合金弹头》《饿狼传说》《月华剑士》《怒之铁拳》）的角色。尽管打着「格斗」旗号，它实际构建为带抽卡召唤的 3D 策略卡牌收集 RPG。它由字节跳动游戏部门朝夕光年（通过其 101 工作室）与中手游联合开发；朝夕光年 101 工作室解散后，该作交由中手游负责，后者于 2022 年 11 月 1 日在中国大陆上线并运营（它登顶免费榜，首周流水估计超 5000 万元人民币）。",
+    "killedReason": "ByteDance's gaming arm Nuverse (朝夕光年) co-developed the SNK-licensed title through its 101 Studio, but the studio was dissolved/dismantled. The project was transferred (divested) to co-developer CMGE (中手游), which launched it on 1 Nov 2022 and continues to operate it. ByteDance exited the title; this preceded ByteDance's broader November 2023 shutdown/divestiture of Nuverse's game business.",
+    "reasonZh": "字节游戏部门朝夕光年通过 101 工作室联合开发了这款 SNK 授权作品，但该工作室被解散。项目转交（剥离）给联合开发商中手游，后者于 2022 年 11 月 1 日上线并持续运营。字节退出该作，早于其 2023 年 11 月对朝夕光年游戏业务的整体关停。",
+    "link": "https://news.qq.com/rain/a/20231128A0BQAY00",
+    "sources": [
+      "https://news.qq.com/rain/a/20231128A0BQAY00",
+      "https://www.yfchuhai.com/article/12420.html",
+      "https://www.osogoo.com/article/af86e664c299135b.html",
+      "https://news.qq.com/rain/a/20221108A092MS00",
+      "http://www.gamelook.com.cn/2022/10/500778/"
+    ]
+  },
+  {
+    "name": "魔法战棋 (Magic Chess: Go Go)",
+    "nameEn": "Magic Chess: Go Go",
+    "nameZh": "魔法战棋",
+    "aliases": [
+      "Magic Chess: Go Go",
+      "MCGG",
+      "魔法战棋",
+      "Magic Chess GoGo"
+    ],
+    "type": "game",
+    "category": "Auto-battler / auto-chess strategy mobile",
+    "categoryZh": "自走棋策略手游",
+    "region": "Global (excl",
+    "regionZh": "全球（不含中国大陆；东南亚主导上线）",
+    "dateLaunched": "2024-11-29",
+    "dateKilled": "",
+    "status": "divested",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Moonton",
+    "developerEntities": [
+      "Moonton (Moonton Technology) — a ByteDance subsidiary during the game's development and launch; ByteDance agreed to divest Moonton to Savvy Games Group on 2026-03-20. Play/App Store dev-of-record: Moo",
+      "Moonton Technology",
+      "ByteDance (parent 2021–2026, divesting)"
+    ],
+    "appStoreId": "",
+    "description": "Standalone multiplayer auto-battler (auto-chess) mobile game developed and published by Moonton, spun out from the popular 'Magic Chess' mode inside Mobile Legends: Bang Bang.",
+    "descZh": "由沐瞳（Moonton）开发并发行的独立多人自走棋手游，脱胎于《无尽对决：Bang Bang》内广受欢迎的「魔法棋」模式。它于 2024 年 11 月 29 日在马来西亚/新加坡软启动，2025 年 2 月 21 日扩展至亚太地区，2025 年 5 月 28 日全球上线；到 2025 年 6 月下载量突破 3000 万，并运营自有电竞赛事（在第 33 届东南亚运动会和 GO1 世界锦标赛上亮相）。",
+    "killedReason": "Not shut down — the game itself remains live. Listed under 'divested' because ByteDance, which fully owned developer Moonton from 2021, signed a definitive agreement on 2026-03-20 to sell Moonton to Saudi PIF-owned Savvy Games Group for ~$6B (deal signed, pending regulatory close as of reporting). This is part of ByteDance's broader exit from high-budget gaming (following the 2023 Nuverse wind-down).",
+    "reasonZh": "并未关停——游戏本身仍在线。列为「剥离」是因为自 2021 年起全资拥有开发商沐瞳的字节，于 2026 年 3 月 20 日签署协议，将沐瞳以约 60 亿美元售予沙特 PIF 旗下 Savvy Games Group（已签，待监管批准）。这是字节退出高投入游戏的一部分。",
+    "link": "https://en.wikipedia.org/wiki/Magic_Chess:_Go_Go",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Magic_Chess:_Go_Go",
+      "https://en.moonton.com/news/152.html",
+      "https://escharts.com/news/bytedance-6-billion-sale-mlbb-publisher-savvy-games-group",
+      "https://www.bloomberg.com/news/articles/2026-03-20/bytedance-agrees-to-sell-moonton-to-savvy-games-for-6-billion",
+      "https://escharts.com/news/introduction-magic-chess-go-go"
+    ]
+  },
+  {
+    "name": "放置少女 (Idle Girls (official QooApp/EN store name: \"Depose Girls\"))",
+    "nameEn": "Idle Girls (official QooApp/EN store name: \"Depose Girls\")",
+    "nameZh": "放置少女",
+    "aliases": [
+      "放置少女〜百花繚乱の萌姫たち〜",
+      "Houchi Shoujo",
+      "ほうちしょうじょ",
+      "Depose Girls",
+      "Idle Girls",
+      "Idle Princess"
+    ],
+    "type": "game",
+    "category": "Idle / auto-battle bishōjo (anime girl)",
+    "categoryZh": "放置 / 自动战斗美少女养成 RPG（含抽卡）",
+    "region": "Japan (primary / flagship market, ~32% of",
+    "regionZh": "日本（主要/旗舰市场，约占字节跳动手游营收 32%）",
+    "dateLaunched": "2017-03-24",
+    "dateKilled": "",
+    "status": "alive",
+    "stoppedUpdating": null,
+    "successor": "",
+    "publisher": "Nuverse (朝夕光年)",
+    "developerEntities": [
+      "Developed by C4games (北京有爱互娱科技有限公司 / Beijing Youai Huyu, a ByteDance/Nuverse 100% subsidiary). Japan operations run by C4 Connect株式会社 (transferred from C4games Mar 1, 2021); JP dev arm also operated a",
+      "C4games (有爱互娱 / 北京有爱互娱科技有限公司)",
+      "C4 Connect株式会社 (Japan operator since 2021-03-01)",
+      "C4games株式会社 / FightSong (fsgames.co.jp, JP dev arm)",
+      "Nuverse / 朝夕光年 (ByteDance gaming unit, parent)",
+      "ByteDance / 字节跳动 (ultimate owner)"
+    ],
+    "appStoreId": "",
+    "description": "放置少女 (Idle Girls; official English store name \"Depose Girls\"; full JP title 放置少女〜百花繚乱の萌姫たち〜) is an idle/auto-battle bishōjo cultivation RPG with gacha, themed around Three Kingdoms and Japanese-history figures reimagined as anime girls.",
+    "descZh": "放置少女（国际商店英文名「Depose Girls」；日文全称《放置少女〜百花繚乱の萌姫たち〜》）是一款带抽卡的放置/自动战斗美少女养成 RPG，以重新演绎为动漫少女的三国和日本历史人物为主题。它是 C4games/有爱互娱的旗舰兼营收最高的作品，字节跳动通过其朝夕光年游戏部门分两阶段（2020 年 9 月和 2021 年 4 月）将其全资收购；该游戏成为字节跳动在日本（其最大市场）营收最高的手游，据报道累计流水超过 110 亿元人民币。",
+    "killedReason": "Not killed. Still in active service (major update Dec 2025, regular top-50 Japan iOS/Google Play presence into 2026). Note: when ByteDance sold the 有爱互娱/C4games shell (and its 红警OL/Red Alert OL SLG) to Tencent-affiliated China Ruyi (中国儒意) for ~RMB 2.59B in May 2024, 放置少女 was explicitly CARVED OUT and RETAINED by ByteDance — so it stayed in the ByteDance umbrella rather than being divested.",
+    "reasonZh": "并未关停。仍在正常运营（2025 年 12 月有重大更新，2026 年稳居日本 iOS/Google Play 前 50）。2024 年 5 月字节将有爱互娱/C4games 壳公司及红警 OL 售予腾讯关联的中国儒意时，放置少女被明确剥离保留——故它留在字节旗下，而非被剥离。",
+    "link": "https://en.pingwest.com/w/8513",
+    "sources": [
+      "https://en.pingwest.com/w/8513",
+      "https://kr-asia.com/bytedance-acquires-c4-games-challenging-tencent-overseas",
+      "https://recgame.jp/news/detail/1439",
+      "https://ja.wikipedia.org/wiki/%E6%94%BE%E7%BD%AE%E5%B0%91%E5%A5%B3%E3%80%9C%E7%99%BE%E8%8A%B1%E7%B9%9A%E4%B9%B1%E3%81%AE%E8%90%8C%E5%A7%AB%E3%81%9F%E3%81%A1%E3%80%9C",
+      "https://www.4gamer.net/games/396/G039619/20210225056/"
     ]
   }
 ];

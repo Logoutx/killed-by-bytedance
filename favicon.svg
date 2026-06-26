@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- vampire's casket: elongated hexagonal coffin -->
+  <path d="M25 4 L39 4 L53 24 L41 60 L23 60 L11 24 Z" fill="#ff4f12"/>
+  <!-- carved cross -->
+  <path d="M29 14 h6 v23 h-6 z M21 22 h22 v6 h-22 z" fill="#fcfbf7"/>
+</svg>
